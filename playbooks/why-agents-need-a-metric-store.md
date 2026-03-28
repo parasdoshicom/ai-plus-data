@@ -1,93 +1,53 @@
 # Why AI Analytics Agents Need a Metric Store
 
-A semantic layer improves definitions.
-A catalog improves discovery.
-A skill file improves guardrails.
+**Thesis:** A semantic layer defines meaning, but conversational analytics also needs a store of approved answer paths for recurring business questions.
 
-But once you start building conversational agents for business questions, you often discover one more missing layer:
-
-A **metric store** for approved answers.
-
-## The problem
-
-An AI agent can be good at finding data and still be bad at answering correctly.
-
-That usually happens when the agent can discover many plausible tables, dashboards, or query paths, but has no strong mechanism for choosing the approved one.
-
-The result is familiar:
-
-- the agent answers from the wrong table
-- the answer is directionally reasonable but not official
-- two tools give two different answers to the same question
-- trust collapses even though the system feels technically impressive
-
-## What a metric store does
-
-A metric store sits between raw discovery and final answers.
-
-For an important business question, it should know:
-
-- the approved metric definition
-- the preferred source table or model
-- the approved SQL pattern or retrieval method
-- required filters and exclusions
-- caveats and interpretation warnings
-- freshness expectations
-- ownership and status
-
-In other words, it does not just define the metric.
-It defines the **approved answer path**.
-
-## Why the semantic layer is not enough
-
-A semantic layer is foundational, but its job is usually narrower:
-
-- define metrics
-- encode relationships
-- support governed query generation
-
-What it may not fully capture:
-
-- practical query recipes analysts actually trust
-- context-specific exclusions
-- issue-specific caveats
-- which answer path should win when multiple valid ones exist
-- approved answer behavior for recurring executive questions
-
-That is where a metric store becomes useful.
-
-## How the layers fit together
-
-A useful mental model:
-
-### Semantic layer
-What does the metric mean?
-
-### Skill file / domain context
-What should the AI watch out for?
-
-### Catalog
-Where can the AI find the relevant assets and lineage?
-
-### Metric store
-Which answer path is officially approved for this question?
-
-### Agent
-How do we turn all of that into a fast, usable experience?
-
-## When you need this layer
-
-You probably need a metric store if:
+## Use This When
 
 - an agent gives plausible but unofficial answers
-- teams keep asking which source is right
-- the same business question is asked repeatedly
-- multiple dashboards or models are still in play
-- you want an agent to answer with confidence and auditability
+- multiple valid query paths exist and the system picks inconsistently
+- the same executive or KPI question is asked over and over
 
-## What to store first
+## Core Operating Pattern
 
-Do not start with everything.
+For each recurring business question, store the approved answer path:
+
+1. approved metric definition
+2. preferred source model or table
+3. approved SQL pattern or retrieval method
+4. required filters and exclusions
+5. caveats, freshness expectations, and interpretation notes
+6. owner and status
+
+The metric store sits between raw discovery and final answers.
+
+## How The Layers Fit Together
+
+- **Semantic layer:** what does the metric mean?
+- **Skill file / domain context:** what should AI watch out for?
+- **Catalog:** where are the relevant assets and lineage?
+- **Metric store:** which answer path is officially approved?
+- **Agent:** how do we turn that into a usable experience?
+
+## Why The Semantic Layer Is Not Enough
+
+It may not capture:
+
+- query recipes analysts actually trust
+- context-specific exclusions
+- approved behavior for recurring executive questions
+- which valid source should win when more than one exists
+
+That is where the metric store becomes valuable.
+
+## Common Failure Modes
+
+- trying to encode every possible question before focusing on recurring ones
+- storing definitions but not query behavior
+- omitting caveats and freshness rules
+- assuming the agent will infer the approved source on its own
+
+## What To Store First
 
 Start with:
 
@@ -96,31 +56,8 @@ Start with:
 - metrics tied to real decisions
 - metrics with known ambiguity or historical disagreement
 
-For each one, encode the full approved answer path.
+## Related Next Reads
 
-## Example shape
-
-A metric store entry might contain:
-
-- business question: "What is conversion this week?"
-- official metric: `seller_conversion_rate`
-- approved source: `seller_funnel_agg`
-- approved query reference: `weekly_conversion.sql`
-- required filters: exclude test data, use business timezone, ignore incomplete periods
-- caveats: unstable on partial weekends, compare against matured cohorts for trend interpretation
-- owner: revenue analytics
-- status: official
-
-## Why this matters for adoption
-
-People do not adopt AI analytics because the architecture is elegant.
-
-They adopt it when the same question returns the same trusted answer.
-
-A metric store helps make that happen.
-
-## Bottom line
-
-If your AI analytics agent is conversationally strong but answer-quality weak, the missing piece may not be a better prompt or a bigger model.
-
-It may be a metric store that defines the approved answer path between your semantic layer and your agent.
+- [`semantic-layer-is-the-trust-layer.md`](./semantic-layer-is-the-trust-layer.md)
+- [`fix-ai-analytics-inputs-not-prompts.md`](./fix-ai-analytics-inputs-not-prompts.md)
+- [`../toolkits/metric-skill-file-template.md`](../toolkits/metric-skill-file-template.md)

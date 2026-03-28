@@ -1,49 +1,47 @@
 # Ask Before Building
 
-A small but important AI habit for data teams: before generating a model, dashboard, analysis, or metric definition, ask clarifying questions first.
+**Thesis:** Most AI mistakes in data work are requirement failures, not model failures. Clarify first, then build.
 
-This is the difference between getting something fast and getting something useful.
+## Use This When
 
-## What to Ask
+- generating dbt models, dashboards, metrics, analyses, or AI readouts
+- the request is underspecified and the model would otherwise guess
+- you want team-wide consistency in how work gets scoped
 
-Before any meaningful build step, the model or operator should clarify:
+## Core Operating Pattern
 
-- grain: one row per what
-- user or stakeholder: who consumes this output
-- source of truth: which tables or models matter
-- success criteria: what "done" looks like
-- edge cases: nulls, late-arriving data, deleted records, timezone issues
-- refresh pattern: ad hoc, scheduled, or incremental
-- required tests: uniqueness, accepted values, row counts, tie-outs
+Before any meaningful build step, clarify:
+
+1. What is the grain?
+2. Which source is trusted?
+3. Who will use this and what decision will it support?
+4. Which edge cases usually break this?
+5. What tests, tie-outs, or review steps are required before shipping?
+
+Treat this as mandatory scaffolding, not optional craftsmanship.
 
 ## Why It Matters
 
-Many AI mistakes are not model failures. They are requirement failures.
-
-If the workflow never pinned down grain, join strategy, or business definition, the model is forced to guess. Once it guesses, teams often lose time correcting the entire approach rather than a small implementation detail.
-
-## Use This for
-
-- dbt model generation
-- metric specification
-- dashboard rebuilds
-- exploratory analysis
-- semantic layer definitions
-- AI-generated stakeholder readouts
+- AI fills missing requirements with guesses
+- small definition gaps can invalidate the entire output
+- standardized clarification improves both speed and trust
 
 ## Short Question Set
 
-Use this before the first build step:
+Use these prompts before the first build step:
 
 1. What is the grain?
 2. Which source is trusted for this output?
 3. Who will use it and what decision will it support?
-4. What are the edge cases that usually break this?
+4. What edge cases matter here?
 5. What tests or tie-outs must exist before shipping?
 
-## Good Team Habit
+## Common Failure Modes
 
-If you are rolling AI out across a team, treat these questions as mandatory scaffolding rather than optional craftsmanship. The fastest reliable teams standardize their clarification step.
+- the request never defines the metric or time boundary
+- source-of-truth ambiguity causes two plausible but different answers
+- the team discovers edge cases only after the artifact is shared
+- testing expectations stay implicit until the end
 
 ## Example
 
@@ -63,4 +61,8 @@ Timezone is America/Los_Angeles.
 We need a 12-week retention curve and tests for duplicate cohorts and null cohort dates.
 ```
 
-The second request gives AI enough structure to help, rather than improvise.
+## Related Next Reads
+
+- [`self-correcting-sql-loop.md`](./self-correcting-sql-loop.md)
+- [`fix-ai-analytics-inputs-not-prompts.md`](./fix-ai-analytics-inputs-not-prompts.md)
+- [`../toolkits/data-team-ai-rollout-checklist.md`](../toolkits/data-team-ai-rollout-checklist.md)

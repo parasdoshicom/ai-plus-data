@@ -1,39 +1,45 @@
-# Founder Context
+# Why This Perspective
 
 AI+Data is curated by Paras Doshi (`parasdoshi`).
 
-This repository reflects a practical point of view:
+This repo is built around an operator thesis:
 
-- AI should expand the leverage of strong data professionals
+- AI should increase the leverage of strong data teams, not bypass judgment
 - adoption matters more than novelty
-- rigor, governance, and judgment still matter
-- the best workflows compound through repetition and correction
+- trust is earned through validation, ownership, and clear operating habits
+- leadership quality shows up in systems, not just in tools
 
-The current framing is deliberately narrower than "AI for anyone in data." This repo is meant to package a high-leverage data-leadership operating model into public artifacts that other Chief Data Officers, heads of data, and senior analytics leaders can actually use.
+## Editorial Principles
 
-## Public Background Signals
+- Publish patterns that a strong CDO, head of data, or analytics leader could actually use next week
+- Prefer repeatable operating models over isolated prompt tricks
+- Keep examples concrete enough to be useful, but generalized enough to stay public-safe
+- Treat governance, review, and trust as first-class parts of AI adoption
+- Write for practical implementation, not thought-leadership theater
 
-These themes show up in Paras's public work:
+## What This Repo Is
 
-- building high-impact data teams
-- helping data organizations earn strategic trust
-- increasing analytical leverage through better systems and habits
-- using AI as an amplifier for strong operators rather than as a substitute for them
-- translating an operator-level data leadership style into patterns other leaders can adopt
-
-## Public References
-
-- [High Signal episode: Why Your Data Team Doesn't Have a Seat at the Table (And How to Earn It)](https://highsignal.fireside.fm/27)
-  This public interview highlights themes such as strategic data leadership, agency, autonomy, and high-leverage operators.
-- [Insight Extractor](https://insightextractor.com/)
-  Paras's long-running public writing on analytics, data science, and business intelligence.
-- [GitHub profile](https://github.com/parasdoshicom)
-  Public GitHub presence and open repositories.
+- a public working repo for AI-native data leadership
+- a collection of reusable playbooks, checklists, and synthetic examples
+- a rewrite of generalized operator patterns into public educational material
 
 ## What This Repo Is Not
 
-This is not a dump of private operating files.
+- a dump of private operating documents
+- a company-specific architecture reveal
+- a generic "AI tips" collection with no operating model behind it
+- a resume in repository form
 
-It is a public, rewritten, and sanitized set of patterns inspired by real operating experience. Anything private, company-specific, customer-specific, or people-sensitive is intentionally excluded.
+## Public Credibility
 
-It is also not a generic AI content repo. The organizing lens is: what would help a strong CDO or senior data leader get an organization to adopt AI responsibly and effectively?
+- [Insight Extractor archive](https://insightextractor.com/list-of-all-blog-posts-by-paras-doshi/)
+- [Institute of Analytics Fellow profile](https://ioaglobal.org/ioa-fellows/paras-doshi/)
+- [High Signal episode: Why Your Data Team Doesn't Have a Seat at the Table (And How to Earn It)](https://highsignal.fireside.fm/27)
+- [Podcast: Data leadership and strategy](https://www.youtube.com/watch?v=q7Mpqm1GVRc&list=PLHow-wjRD8TEX4idQj4bDdNvNer-ar9x7&index=2)
+- [Podcast: Building data teams](https://www.youtube.com/watch?v=DDSKxL_JeLc)
+
+## Publication Rule
+
+If a detail would not be safe to share in a public conference talk, it does not belong here.
+
+See [`repo-privacy-policy.md`](./repo-privacy-policy.md), [`publication-safety-checklist.md`](./publication-safety-checklist.md), and [`public-source-inventory.md`](./public-source-inventory.md).
