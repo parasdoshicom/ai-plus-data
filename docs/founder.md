@@ -24,7 +24,7 @@ These themes show up in Paras's public work:
 ## Public References
 
 - [High Signal episode: Why Your Data Team Doesn't Have a Seat at the Table (And How to Earn It)](https://highsignal.fireside.fm/27)
-  This public interview describes Paras as Head of Data at Opendoor and a former data leader at Amazon, and highlights themes such as strategic data leadership, agency, autonomy, and high-leverage operators.
+  This public interview highlights themes such as strategic data leadership, agency, autonomy, and high-leverage operators.
 - [Insight Extractor](https://insightextractor.com/)
   Paras's long-running public writing on analytics, data science, and business intelligence.
 - [How Data Powers Opendoor’s AI Home Valuations](https://www.opendoor.com/articles/how-data-powers-opendoors-home-valuations)

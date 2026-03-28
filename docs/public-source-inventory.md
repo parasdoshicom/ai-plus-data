@@ -9,7 +9,7 @@ This repo was written using a mix of original writing, generalized operator patt
 - Title: [Why Your Data Team Doesn't Have a Seat at the Table (And How to Earn It)](https://highsignal.fireside.fm/27)
 - Date: October 29, 2025
 - Relevance:
-  Public framing of Paras Doshi's data leadership background, views on strategic data teams, and perspective on AI-enabled leverage.
+  Public framing of Paras Doshi's views on strategic data teams and AI-enabled leverage.
 
 ### 2. Insight Extractor
 
@@ -17,20 +17,13 @@ This repo was written using a mix of original writing, generalized operator patt
 - Relevance:
   Public archive of Paras Doshi's writing on analytics, business intelligence, and data leadership. Used as public evidence of long-running thought leadership in the field.
 
-### 3. Opendoor article
-
-- Title: [How Data Powers Opendoor’s AI Home Valuations](https://www.opendoor.com/articles/how-data-powers-opendoors-home-valuations)
-- Date: October 23, 2025
-- Relevance:
-  Public example of Paras writing about AI, valuation systems, data infrastructure, and human-plus-AI workflows.
-
-### 4. GitHub profile
+### 3. GitHub profile
 
 - Profile: [parasdoshicom on GitHub](https://github.com/parasdoshicom)
 - Relevance:
   Public identity and repository footprint.
 
-### 5. Public data discovery product examples
+### 4. Public data discovery product examples
 
 - Relevance:
   Public product examples in the market can help illustrate why catalog, metrics, lineage, and workflow-native access matter for AI analytics. This repo uses that category as inspiration, but keeps the playbooks generalized rather than tied to one company or internal implementation.

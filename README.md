@@ -88,7 +88,6 @@ Public references:
 
 - [High Signal episode: Why Your Data Team Doesn't Have a Seat at the Table (And How to Earn It)](https://highsignal.fireside.fm/27)
 - [Insight Extractor](https://insightextractor.com/)
-- [How Data Powers Opendoor’s AI Home Valuations](https://www.opendoor.com/articles/how-data-powers-opendoors-home-valuations)
 - [GitHub profile](https://github.com/parasdoshicom)
 
 More context lives in [`docs/founder.md`](./docs/founder.md) and [`docs/public-source-inventory.md`](./docs/public-source-inventory.md).
