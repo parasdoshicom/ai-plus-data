@@ -27,6 +27,7 @@ This repo is organized around three layers of adoption:
 ## Repo Map
 
 - [`playbooks/`](./playbooks): reusable AI-native ways of working for data teams
+- [`playbooks/ai-native-data-catalog-foundation.md`](./playbooks/ai-native-data-catalog-foundation.md): why catalogs and metric layers are foundational for AI analytics
 - [`toolkits/`](./toolkits): rollout tools, scorecards, and checklists
 - [`examples/`](./examples): synthetic, public-safe examples only
 - [`docs/`](./docs): founder context, source inventory, privacy policy, and publication safety checks
