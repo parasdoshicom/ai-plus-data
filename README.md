@@ -27,6 +27,7 @@ These are the highest-signal entry points if you want the executive layer, not j
 | [`docs/cdo-operating-system.md`](./docs/cdo-operating-system.md) | A signature CDO artifact: 90-day roadmap, KPI tree, governance model, and operating cadence |
 | [`docs/ai-adoption-board-brief.md`](./docs/ai-adoption-board-brief.md) | A one-page executive brief for reporting AI adoption progress, risk, and next decisions |
 | [`docs/public-safe-impact-patterns.md`](./docs/public-safe-impact-patterns.md) | Generalized before/after impact patterns that show what better looks like in practice |
+| [`playbooks/from-playbooks-to-operating-systems.md`](./playbooks/from-playbooks-to-operating-systems.md) | Clarifies the difference between public playbooks, reusable toolkits, and real AI operating systems |
 
 ## Public-Safe Case Studies
 
