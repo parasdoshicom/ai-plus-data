@@ -30,11 +30,10 @@ This repo was written using a mix of original writing, generalized operator patt
 - Relevance:
   Public identity and repository footprint.
 
-### 5. Opendoor Data Hub
+### 5. Public data discovery product examples
 
-- Link: [data.apps.opendoor.com](https://data.apps.opendoor.com)
 - Relevance:
-  Public example of an AI-native data discovery surface that combines catalog, analytics discovery, and workflow-oriented data context. Used here only as a public reference point for why catalog and metrics layers matter in AI analytics.
+  Public product examples in the market can help illustrate why catalog, metrics, lineage, and workflow-native access matter for AI analytics. This repo uses that category as inspiration, but keeps the playbooks generalized rather than tied to one company or internal implementation.
 
 ## Internal Source Handling
 
