@@ -27,6 +27,8 @@ This repo is organized around three layers of adoption:
 ## Repo Map
 
 - [`playbooks/`](./playbooks): reusable AI-native ways of working for data teams
+- [`playbooks/why-agents-need-a-metric-store.md`](./playbooks/why-agents-need-a-metric-store.md): the missing layer between semantic definitions and reliable agent answers
+- [`playbooks/semantic-layer-and-skill-files.md`](./playbooks/semantic-layer-and-skill-files.md): why governed definitions and practical guardrails solve different problems
 - [`playbooks/semantic-layer-is-the-trust-layer.md`](./playbooks/semantic-layer-is-the-trust-layer.md): why governed metric definitions are foundational trust infrastructure for AI analytics
 - [`playbooks/validate-at-ingestion.md`](./playbooks/validate-at-ingestion.md): why data quality should be caught upstream before it hits dashboards, models, and AI workflows
 - [`playbooks/fix-ai-analytics-inputs-not-prompts.md`](./playbooks/fix-ai-analytics-inputs-not-prompts.md): a practical rollout for making AI answers more reliable
