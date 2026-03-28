@@ -27,6 +27,7 @@ This repo is organized around three layers of adoption:
 ## Repo Map
 
 - [`playbooks/`](./playbooks): reusable AI-native ways of working for data teams
+- [`playbooks/raw-queries-beat-overengineered-retrieval.md`](./playbooks/raw-queries-beat-overengineered-retrieval.md): why trusted dashboard SQL often beats premature retrieval complexity
 - [`playbooks/why-agents-need-a-metric-store.md`](./playbooks/why-agents-need-a-metric-store.md): the missing layer between semantic definitions and reliable agent answers
 - [`playbooks/semantic-layer-and-skill-files.md`](./playbooks/semantic-layer-and-skill-files.md): why governed definitions and practical guardrails solve different problems
 - [`playbooks/semantic-layer-is-the-trust-layer.md`](./playbooks/semantic-layer-is-the-trust-layer.md): why governed metric definitions are foundational trust infrastructure for AI analytics
