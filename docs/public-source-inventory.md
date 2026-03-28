@@ -30,6 +30,12 @@ This repo was written using a mix of original writing, generalized operator patt
 - Relevance:
   Public identity and repository footprint.
 
+### 5. Opendoor Data Hub
+
+- Link: [data.apps.opendoor.com](https://data.apps.opendoor.com)
+- Relevance:
+  Public example of an AI-native data discovery surface that combines catalog, analytics discovery, and workflow-oriented data context. Used here only as a public reference point for why catalog and metrics layers matter in AI analytics.
+
 ## Internal Source Handling
 
 Private internal source material was used only as inspiration for generalized patterns and was not copied directly into this repo.
