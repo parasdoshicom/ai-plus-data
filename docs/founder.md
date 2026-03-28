@@ -27,8 +27,6 @@ These themes show up in Paras's public work:
   This public interview highlights themes such as strategic data leadership, agency, autonomy, and high-leverage operators.
 - [Insight Extractor](https://insightextractor.com/)
   Paras's long-running public writing on analytics, data science, and business intelligence.
-- [How Data Powers Opendoor’s AI Home Valuations](https://www.opendoor.com/articles/how-data-powers-opendoors-home-valuations)
-  A public article by Paras on AI, data infrastructure, valuation systems, and the role of human judgment alongside AI.
 - [GitHub profile](https://github.com/parasdoshicom)
   Public GitHub presence and open repositories.
 
