@@ -17,6 +17,27 @@ AI+Data is a public working repo for Chief Data Officers, heads of data, analyti
 - It focuses on repeatable operating patterns that teams can actually roll out.
 - It stays public-safe by design: generalized lessons, synthetic examples, no company internals.
 
+## Signature Artifacts
+
+These are the highest-signal entry points if you want the executive layer, not just the tactical layer.
+
+| Artifact | Why start here |
+| --- | --- |
+| [`docs/how-i-lead.md`](./docs/how-i-lead.md) | Public-safe operating principles for how Paras approaches data leadership, AI adoption, team design, and trust |
+| [`docs/cdo-operating-system.md`](./docs/cdo-operating-system.md) | A signature CDO artifact: 90-day roadmap, KPI tree, governance model, and operating cadence |
+| [`docs/ai-adoption-board-brief.md`](./docs/ai-adoption-board-brief.md) | A one-page executive brief for reporting AI adoption progress, risk, and next decisions |
+| [`docs/public-safe-impact-patterns.md`](./docs/public-safe-impact-patterns.md) | Generalized before/after impact patterns that show what better looks like in practice |
+
+## Public-Safe Case Studies
+
+These are concise, sanitized case-study style walkthroughs that show how the operating patterns change a system, not just a document.
+
+| Case study | What changed |
+| --- | --- |
+| [`docs/case-studies/decision-cadence-reset.md`](./docs/case-studies/decision-cadence-reset.md) | How a reactive weekly review becomes a decision-ready operating forum |
+| [`docs/case-studies/trust-layer-rollout.md`](./docs/case-studies/trust-layer-rollout.md) | How a fragmented metric environment becomes an AI-ready trust layer |
+| [`docs/case-studies/analytics-org-consolidation.md`](./docs/case-studies/analytics-org-consolidation.md) | How multiple analytics teams become one higher-leverage operating system |
+
 ## Operating Model
 
 ```mermaid
@@ -79,6 +100,16 @@ Start with [`examples/synthetic-funnel/README.md`](./examples/synthetic-funnel/R
 4. validate against trusted logic
 5. translate the result into a manager-ready recommendation
 
+## What Better Looks Like
+
+The strongest data leaders do more than ship analysis. They redesign the system around the analysis.
+
+- They replace reactive reporting with decision-ready operating cadences.
+- They replace fragmented analytics with shared definitions, ownership, and trust signals.
+- They replace one-off heroics with repeatable workflows, stronger managers, and better self-serve habits.
+
+The public-safe versions of those patterns live in [`docs/public-safe-impact-patterns.md`](./docs/public-safe-impact-patterns.md), [`docs/cdo-operating-system.md`](./docs/cdo-operating-system.md), and the case studies above.
+
 ## Repo Map
 
 | Path | Purpose |
@@ -86,7 +117,7 @@ Start with [`examples/synthetic-funnel/README.md`](./examples/synthetic-funnel/R
 | [`playbooks/`](./playbooks) | Reusable operating patterns for AI-native data work |
 | [`toolkits/`](./toolkits) | Rollout checklists, scorecards, and reusable templates |
 | [`examples/`](./examples) | Synthetic, public-safe walkthroughs |
-| [`docs/`](./docs) | Founder context, reading paths, source inventory, and publication guardrails |
+| [`docs/`](./docs) | Founder context, signature artifacts, reading paths, source inventory, and publication guardrails |
 
 ## Public-Safety Promise
 
