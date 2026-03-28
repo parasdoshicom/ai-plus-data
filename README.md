@@ -61,19 +61,6 @@ For most teams, the fastest safe win is:
 
 That is usually a better starting point than trying to deploy an "AI analyst" across the whole company on day one.
 
-## Public-Safe by Design
-
-This repository is intentionally curated for public use.
-
-- no private Slack threads
-- no internal dashboard links
-- no customer data
-- no people operations details
-- no private Telegram wiring
-- no copied internal table catalogs or warehouse identifiers
-
-Patterns here are generalized and rewritten for public use. Synthetic examples are used wherever concrete demonstration is helpful.
-
 ## Why This Exists
 
 AI adoption in data teams is often stuck in one of two bad states:
@@ -96,5 +83,6 @@ Public references:
 - [High Signal episode: Why Your Data Team Doesn't Have a Seat at the Table (And How to Earn It)](https://highsignal.fireside.fm/27)
 - [Insight Extractor](https://insightextractor.com/)
 - [GitHub profile](https://github.com/parasdoshicom)
+- [LinkedIn](https://www.linkedin.com/in/doshiparas/)
 
 More context lives in [`docs/founder.md`](./docs/founder.md) and [`docs/public-source-inventory.md`](./docs/public-source-inventory.md).
