@@ -34,6 +34,7 @@ This repo is organized around three layers of adoption:
 - [`playbooks/fix-ai-analytics-inputs-not-prompts.md`](./playbooks/fix-ai-analytics-inputs-not-prompts.md): a practical rollout for making AI answers more reliable
 - [`playbooks/dashboard-governance-for-ai-analytics.md`](./playbooks/dashboard-governance-for-ai-analytics.md): how to reduce dashboard sprawl into a trusted layer for AI
 - [`playbooks/ai-native-data-catalog-foundation.md`](./playbooks/ai-native-data-catalog-foundation.md): why catalogs and metric layers are foundational for AI analytics
+- [`playbooks/durable-priorities-for-ai-native-data-leadership.md`](./playbooks/durable-priorities-for-ai-native-data-leadership.md): the operating priorities that matter most as data teams become AI-native
 - [`toolkits/`](./toolkits): rollout tools, scorecards, and checklists
 - [`toolkits/metric-skill-file-template.md`](./toolkits/metric-skill-file-template.md): a structured template for top-metric AI context files
 - [`examples/`](./examples): synthetic, public-safe examples only
@@ -82,6 +83,8 @@ Public references:
 
 - [High Signal episode: Why Your Data Team Doesn't Have a Seat at the Table (And How to Earn It)](https://highsignal.fireside.fm/27)
 - [Insight Extractor](https://insightextractor.com/)
+- [Podcast: Data leadership and strategy](https://www.youtube.com/watch?v=q7Mpqm1GVRc&list=PLHow-wjRD8TEX4idQj4bDdNvNer-ar9x7&index=2)
+- [Podcast: Building data teams](https://www.youtube.com/watch?v=DDSKxL_JeLc)
 - [GitHub profile](https://github.com/parasdoshicom)
 - [LinkedIn](https://www.linkedin.com/in/doshiparas/)
 

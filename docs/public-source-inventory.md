@@ -52,3 +52,10 @@ This repo intentionally excludes:
 - customer or employee data
 - internal URLs, doc IDs, or dashboard links
 - private Telegram or backend operating configuration
+
+### 5. Podcast appearances
+
+- Data leadership and strategy: https://www.youtube.com/watch?v=q7Mpqm1GVRc&list=PLHow-wjRD8TEX4idQj4bDdNvNer-ar9x7&index=2
+- Building data teams: https://www.youtube.com/watch?v=DDSKxL_JeLc
+- Relevance:
+  Public long-form material on leadership style, strategy, and how high-leverage data teams are built and operated.
