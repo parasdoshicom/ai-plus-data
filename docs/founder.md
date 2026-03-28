@@ -43,3 +43,9 @@ This repo is built around an operator thesis:
 If a detail would not be safe to share in a public conference talk, it does not belong here.
 
 See [`repo-privacy-policy.md`](./repo-privacy-policy.md), [`publication-safety-checklist.md`](./publication-safety-checklist.md), and [`public-source-inventory.md`](./public-source-inventory.md).
+
+## How Paras Operates With AI
+
+A recurring pattern in this body of work is using AI as an operating layer rather than just a chat interface: persistent context, morning briefing, highest-leverage prioritization, meeting prep, decision logging, and end-of-day writeback.
+
+See [`playbooks/how-a-high-agency-operator-runs-an-ai-os.md`](../playbooks/how-a-high-agency-operator-runs-an-ai-os.md).
