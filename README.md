@@ -1,15 +1,17 @@
 # AI+Data
 
-Public playbooks and hands-on toolkit for data professionals who want to use AI to increase leverage without giving up rigor.
+Public playbooks and hands-on toolkit for Chief Data Officers, heads of data, and high-agency data teams adopting AI without giving up rigor.
 
 This repo is for:
 
-- analysts who want to move faster without outsourcing judgment
-- analytics engineers who want cleaner AI-assisted modeling workflows
-- data scientists who want repeatable AI analysis loops
-- data leaders who want to operationalize AI safely across a team
+- Chief Data Officers who need an operator-grade AI adoption system, not another prompt list
+- heads of data and analytics leaders who are turning isolated experiments into a team habit
+- analysts, analytics engineers, and data scientists working inside a leader-led AI adoption motion
+- builders who want public-safe patterns for increasing leverage without losing trust
 
-The core thesis is simple: AI should help data teams ship more, learn faster, and create more business impact, but only when paired with strong validation, clear operating habits, and practical governance.
+The core thesis is simple: AI should help data organizations ship more, learn faster, and create more business impact, but only when paired with strong validation, clear operating habits, and practical governance.
+
+The sharper wedge behind this repo is also simple: the best AI adoption programs in data do not start with tooling. They start with a high-leverage data leader who can translate business context, analytical standards, and operating judgment into repeatable team workflows. This repo is designed around that CDO-to-CDO transfer.
 
 ## What You'll Find
 
@@ -20,7 +22,7 @@ This repo is organized around three layers of adoption:
 2. Team operating model
    Turn scattered experiments into shared habits, review loops, and rollout checklists.
 3. Leader operating cadence
-   Help managers and heads of data create leverage while preserving quality, trust, and analytical judgment.
+   Help CDOs, heads of data, and analytics leaders create leverage while preserving quality, trust, and analytical judgment.
 
 ## Repo Map
 
@@ -71,11 +73,15 @@ AI adoption in data teams is often stuck in one of two bad states:
 - shallow prompt tips with no operating model
 - tool-first rollouts with weak trust, weak review habits, and weak governance
 
-This repo aims at the gap in the middle: practical operator-grade patterns that help data professionals compound their impact with AI.
+This repo aims at the gap in the middle: practical operator-grade patterns that help data leaders and their teams compound their impact with AI.
+
+Another way to say it: this is a public working repo for the kind of CDO who wants to help other CDOs adopt AI well.
 
 ## About Paras
 
 This work is curated by Paras Doshi (`parasdoshi`), a data leader and operator writing about analytics, AI, and high-impact data teams.
+
+The point of view here is intentionally operator-led: take what a very high-leverage data leader would actually use to move a team, then rewrite it into a public, reusable form.
 
 Public references:
 
