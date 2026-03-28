@@ -27,6 +27,8 @@ This repo is organized around three layers of adoption:
 ## Repo Map
 
 - [`playbooks/`](./playbooks): reusable AI-native ways of working for data teams
+- [`playbooks/semantic-layer-is-the-trust-layer.md`](./playbooks/semantic-layer-is-the-trust-layer.md): why governed metric definitions are foundational trust infrastructure for AI analytics
+- [`playbooks/validate-at-ingestion.md`](./playbooks/validate-at-ingestion.md): why data quality should be caught upstream before it hits dashboards, models, and AI workflows
 - [`playbooks/fix-ai-analytics-inputs-not-prompts.md`](./playbooks/fix-ai-analytics-inputs-not-prompts.md): a practical rollout for making AI answers more reliable
 - [`playbooks/dashboard-governance-for-ai-analytics.md`](./playbooks/dashboard-governance-for-ai-analytics.md): how to reduce dashboard sprawl into a trusted layer for AI
 - [`playbooks/ai-native-data-catalog-foundation.md`](./playbooks/ai-native-data-catalog-foundation.md): why catalogs and metric layers are foundational for AI analytics
