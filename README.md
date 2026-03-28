@@ -1,92 +1,119 @@
 # AI+Data
 
-Public playbooks and hands-on toolkit for Chief Data Officers, heads of data, and high-agency data teams adopting AI without giving up rigor.
+Operator-grade playbooks for AI-native data leadership.
 
-This repo is for:
+AI+Data is a public working repo for Chief Data Officers, heads of data, analytics leaders, and high-agency builders who want to adopt AI without giving up rigor. The point of view is simple: the teams that win with AI are not the ones with the flashiest prompts. They are the ones with the clearest metrics, strongest operating habits, safest review loops, and most disciplined leadership cadence.
 
-- Chief Data Officers who need an operator-grade AI adoption system, not another prompt list
-- heads of data and analytics leaders who are turning isolated experiments into a team habit
-- analysts, analytics engineers, and data scientists working inside a leader-led AI adoption motion
-- builders who want public-safe patterns for increasing leverage without losing trust
+| Public proof | Why it matters |
+| --- | --- |
+| `600+` blog posts | Long-running public writing archive on analytics, data science, BI, and data leadership |
+| `2M+` visitors | Public evidence that the ideas have been refined in the open over time |
+| `5K+` followers | Community traction around the writing and operating perspective |
 
-The core thesis is simple: AI should help data organizations ship more, learn faster, and create more business impact, but only when paired with strong validation, clear operating habits, and practical governance.
+## What Makes This Repo Different
 
-The sharper wedge behind this repo is also simple: the best AI adoption programs in data do not start with tooling. They start with a high-leverage data leader who can translate business context, analytical standards, and operating judgment into repeatable team workflows. This repo is designed around that CDO-to-CDO transfer.
+- It is built for data leaders, not just prompt tinkerers.
+- It treats trust, validation, and governance as part of AI adoption, not cleanup work.
+- It focuses on repeatable operating patterns that teams can actually roll out.
+- It stays public-safe by design: generalized lessons, synthetic examples, no company internals.
 
-## What You'll Find
+## Operating Model
 
-This repo is organized around three layers of adoption:
+```mermaid
+flowchart TD
+    A["Individual workflow"] --> B["Team operating model"]
+    B --> C["Leader cadence"]
+    D["Trust and governance foundation"] --> A
+    D --> B
+    D --> C
+    A1["Clarify the question"] --> A2["Run AI-assisted analysis"]
+    A2 --> A3["Validate against trusted references"]
+    B1["Shared playbooks"] --> B2["Manager review loops"]
+    B2 --> B3["Rollout checklists and scorecards"]
+    C1["Prioritize high-value workflows"] --> C2["Protect quality and trust"]
+    C2 --> C3["Scale what earns adoption"]
+    A -.-> A1
+    B -.-> B1
+    C -.-> C1
+```
 
-1. Individual workflow
-   Move from one-off prompting to repeatable analysis patterns.
-2. Team operating model
-   Turn scattered experiments into shared habits, review loops, and rollout checklists.
-3. Leader operating cadence
-   Help CDOs, heads of data, and analytics leaders create leverage while preserving quality, trust, and analytical judgment.
+## Start Here By Audience
+
+| Audience | Start here |
+| --- | --- |
+| CDO / Head of Data | [`docs/reading-paths.md`](./docs/reading-paths.md), [`playbooks/durable-priorities-for-ai-native-data-leadership.md`](./playbooks/durable-priorities-for-ai-native-data-leadership.md), [`toolkits/manager-ai-adoption-scorecard.md`](./toolkits/manager-ai-adoption-scorecard.md) |
+| Manager / Analytics Leader | [`docs/reading-paths.md`](./docs/reading-paths.md), [`toolkits/data-team-ai-rollout-checklist.md`](./toolkits/data-team-ai-rollout-checklist.md), [`playbooks/ask-before-building.md`](./playbooks/ask-before-building.md) |
+| Senior IC / Builder | [`playbooks/self-correcting-sql-loop.md`](./playbooks/self-correcting-sql-loop.md), [`playbooks/fix-ai-analytics-inputs-not-prompts.md`](./playbooks/fix-ai-analytics-inputs-not-prompts.md), [`examples/synthetic-funnel/README.md`](./examples/synthetic-funnel/README.md) |
+
+## Start Here By Problem
+
+| If you are trying to... | Read this |
+| --- | --- |
+| Get better answers from AI analytics | [`playbooks/fix-ai-analytics-inputs-not-prompts.md`](./playbooks/fix-ai-analytics-inputs-not-prompts.md) |
+| Make SQL generation more reliable | [`playbooks/self-correcting-sql-loop.md`](./playbooks/self-correcting-sql-loop.md) |
+| Stop AI from guessing metric definitions | [`playbooks/semantic-layer-is-the-trust-layer.md`](./playbooks/semantic-layer-is-the-trust-layer.md) |
+| Decide what context an agent should trust | [`playbooks/why-agents-need-a-metric-store.md`](./playbooks/why-agents-need-a-metric-store.md) |
+| Roll AI out across a team safely | [`toolkits/data-team-ai-rollout-checklist.md`](./toolkits/data-team-ai-rollout-checklist.md) |
+| Create a leader-level operating cadence | [`playbooks/durable-priorities-for-ai-native-data-leadership.md`](./playbooks/durable-priorities-for-ai-native-data-leadership.md) |
+
+## Featured Playbooks
+
+| Playbook | What it does |
+| --- | --- |
+| [`playbooks/self-correcting-sql-loop.md`](./playbooks/self-correcting-sql-loop.md) | Turns AI from one-shot SQL generation into an iterative analysis loop with human validation at the end |
+| [`playbooks/ask-before-building.md`](./playbooks/ask-before-building.md) | Standardizes the clarification step before metrics, dashboards, models, or analysis work begins |
+| [`playbooks/fix-ai-analytics-inputs-not-prompts.md`](./playbooks/fix-ai-analytics-inputs-not-prompts.md) | Explains why structured context beats prompt tweaking for reliable analytics answers |
+| [`playbooks/semantic-layer-is-the-trust-layer.md`](./playbooks/semantic-layer-is-the-trust-layer.md) | Frames the semantic layer as trust infrastructure for AI analytics |
+| [`playbooks/why-agents-need-a-metric-store.md`](./playbooks/why-agents-need-a-metric-store.md) | Adds the missing layer between discovery and approved answers for conversational analytics |
+| [`playbooks/durable-priorities-for-ai-native-data-leadership.md`](./playbooks/durable-priorities-for-ai-native-data-leadership.md) | Highlights the durable operating priorities that matter even as tools change |
+
+## Hands-On Example
+
+The best first proof is not a giant platform build. It is a safe, repeatable workflow.
+
+Start with [`examples/synthetic-funnel/README.md`](./examples/synthetic-funnel/README.md). It walks through the full loop on synthetic data:
+
+1. ingest safe data
+2. frame the question clearly
+3. run AI-assisted analysis
+4. validate against trusted logic
+5. translate the result into a manager-ready recommendation
 
 ## Repo Map
 
-- [`playbooks/`](./playbooks): reusable AI-native ways of working for data teams
-- [`playbooks/raw-queries-beat-overengineered-retrieval.md`](./playbooks/raw-queries-beat-overengineered-retrieval.md): why trusted dashboard SQL often beats premature retrieval complexity
-- [`playbooks/why-agents-need-a-metric-store.md`](./playbooks/why-agents-need-a-metric-store.md): the missing layer between semantic definitions and reliable agent answers
-- [`playbooks/semantic-layer-and-skill-files.md`](./playbooks/semantic-layer-and-skill-files.md): why governed definitions and practical guardrails solve different problems
-- [`playbooks/semantic-layer-is-the-trust-layer.md`](./playbooks/semantic-layer-is-the-trust-layer.md): why governed metric definitions are foundational trust infrastructure for AI analytics
-- [`playbooks/validate-at-ingestion.md`](./playbooks/validate-at-ingestion.md): why data quality should be caught upstream before it hits dashboards, models, and AI workflows
-- [`playbooks/fix-ai-analytics-inputs-not-prompts.md`](./playbooks/fix-ai-analytics-inputs-not-prompts.md): a practical rollout for making AI answers more reliable
-- [`playbooks/dashboard-governance-for-ai-analytics.md`](./playbooks/dashboard-governance-for-ai-analytics.md): how to reduce dashboard sprawl into a trusted layer for AI
-- [`playbooks/ai-native-data-catalog-foundation.md`](./playbooks/ai-native-data-catalog-foundation.md): why catalogs and metric layers are foundational for AI analytics
-- [`playbooks/durable-priorities-for-ai-native-data-leadership.md`](./playbooks/durable-priorities-for-ai-native-data-leadership.md): the operating priorities that matter most as data teams become AI-native
-- [`toolkits/`](./toolkits): rollout tools, scorecards, and checklists
-- [`toolkits/metric-skill-file-template.md`](./toolkits/metric-skill-file-template.md): a structured template for top-metric AI context files
-- [`examples/`](./examples): synthetic, public-safe examples only
-- [`docs/`](./docs): founder context, source inventory, privacy policy, and publication safety checks
+| Path | Purpose |
+| --- | --- |
+| [`playbooks/`](./playbooks) | Reusable operating patterns for AI-native data work |
+| [`toolkits/`](./toolkits) | Rollout checklists, scorecards, and reusable templates |
+| [`examples/`](./examples) | Synthetic, public-safe walkthroughs |
+| [`docs/`](./docs) | Founder context, reading paths, source inventory, and publication guardrails |
 
-## Start Here
+## Public-Safety Promise
 
-If you're new to this repo, start in this order:
+- No company-specific strategy, SQL, schemas, dashboards, or internal identifiers
+- No customer, employee, or candidate data
+- No private operating docs pasted into public files
+- No claims that depend on private context
 
-1. Read [`playbooks/self-correcting-sql-loop.md`](./playbooks/self-correcting-sql-loop.md)
-2. Read [`playbooks/ask-before-building.md`](./playbooks/ask-before-building.md)
-3. Run the synthetic example in [`examples/synthetic-funnel/`](./examples/synthetic-funnel/)
-4. Use [`toolkits/data-team-ai-rollout-checklist.md`](./toolkits/data-team-ai-rollout-checklist.md) to assess where your team is today
-5. Use [`toolkits/manager-ai-adoption-scorecard.md`](./toolkits/manager-ai-adoption-scorecard.md) to review progress and risk
-
-## Recommended First Workflow
-
-For most teams, the fastest safe win is:
-
-1. pick a recurring analysis you already know well
-2. run it through an AI-assisted workflow on local or sampled data
-3. keep a human validation loop at the end
-4. document the corrections
-5. repeat until the workflow becomes reliable
-
-That is usually a better starting point than trying to deploy an "AI analyst" across the whole company on day one.
-
-## Why This Exists
-
-AI adoption in data teams is often stuck in one of two bad states:
-
-- shallow prompt tips with no operating model
-- tool-first rollouts with weak trust, weak review habits, and weak governance
-
-This repo aims at the gap in the middle: practical operator-grade patterns that help data leaders and their teams compound their impact with AI.
-
-Another way to say it: this is a public working repo for the kind of CDO who wants to help other CDOs adopt AI well.
+See [`docs/repo-privacy-policy.md`](./docs/repo-privacy-policy.md), [`docs/publication-safety-checklist.md`](./docs/publication-safety-checklist.md), and [`docs/public-source-inventory.md`](./docs/public-source-inventory.md).
 
 ## About Paras
 
-This work is curated by Paras Doshi (`parasdoshi`), a data leader and operator writing about analytics, AI, and high-impact data teams.
+AI+Data is curated by Paras Doshi (`parasdoshi`). The perspective here is intentionally operator-led: write down the patterns a strong data leader would actually use to help a team adopt AI responsibly, then publish only the public-safe version. More on the editorial lens lives in [`docs/founder.md`](./docs/founder.md).
 
-The point of view here is intentionally operator-led: take what a very high-leverage data leader would actually use to move a team, then rewrite it into a public, reusable form.
+## Further Reading From Paras
 
-Public references:
+- [How Data Leaders Can Actually Enable Enterprise AI](https://insightextractor.com/2025/05/03/how-data-leaders-can-actually-enable-enterprise-ai/)
+- [Stop Losing the Room: Turning Data Insights into Decisions](https://insightextractor.com/2025/05/26/stop-losing-the-room-turning-data-insights-into-decisions/)
+- [Ad-Hoc Requests: How Great Data Teams Turn Noise into Influence](https://insightextractor.com/2025/05/29/ad-hoc-requests-how-great-data-teams-turn-noise-into-influence/)
+- [The Data Leader’s Secret Weapon: The Deprecation-First Rule for Managing Technical Debt](https://insightextractor.com/2025/07/31/the-data-leaders-secret-weapon-the-deprecation-first-rule-for-managing-technical-debt/)
+- [Structuring a High-Impact Data Team: Centralized vs. Decentralized Models](https://insightextractor.com/2025/03/06/structuring-a-high-impact-data-team-centralized-vs-decentralized-models/)
+- [Why Your Amazon-Style WBR Isn’t Working (and How to Fix It)](https://insightextractor.com/2025/04/07/why-your-amazon-style-wbr-isnt-working-and-how-to-fix-it/)
 
+## Selected Public References
+
+- [Insight Extractor archive](https://insightextractor.com/list-of-all-blog-posts-by-paras-doshi/)
+- [Institute of Analytics Fellow profile](https://ioaglobal.org/ioa-fellows/paras-doshi/)
 - [High Signal episode: Why Your Data Team Doesn't Have a Seat at the Table (And How to Earn It)](https://highsignal.fireside.fm/27)
-- [Insight Extractor](https://insightextractor.com/)
 - [Podcast: Data leadership and strategy](https://www.youtube.com/watch?v=q7Mpqm1GVRc&list=PLHow-wjRD8TEX4idQj4bDdNvNer-ar9x7&index=2)
 - [Podcast: Building data teams](https://www.youtube.com/watch?v=DDSKxL_JeLc)
-- [GitHub profile](https://github.com/parasdoshicom)
-- [LinkedIn](https://www.linkedin.com/in/doshiparas/)
-
-More context lives in [`docs/founder.md`](./docs/founder.md) and [`docs/public-source-inventory.md`](./docs/public-source-inventory.md).

@@ -1,41 +1,46 @@
 # Self-Correcting SQL Loop
 
-One of the highest-leverage AI patterns for data work is a closed loop:
+**Thesis:** The most reliable way to use AI for SQL is not one-shot generation. It is a closed loop with execution feedback and human validation at the end.
 
-1. ask AI to write the first query
-2. run it on safe data
-3. feed the error or result back into the model
-4. let it revise
-5. review only once the query works and the logic makes sense
+## Use This When
 
-This approach turns AI from a one-shot generator into an iterative analyst partner.
+- you want faster analysis on work you already know how to validate
+- the model can write a first draft, but still needs help getting details right
+- you are working on local, sampled, sanitized, or synthetic data
+
+## Core Operating Pattern
+
+1. Define the business question in one sentence.
+2. Provide schema context, including grain, key joins, and naming conventions.
+3. Ask the model to state assumptions before writing SQL.
+4. Run the query in a safe environment.
+5. Return the exact error or surprising output to the model.
+6. Repeat until the query works and the logic makes sense.
+7. Validate the final result against a trusted benchmark, dashboard, or known answer.
 
 ## Why It Works
 
-- Most of the time in analysis is lost in debugging, not in writing the first draft.
-- SQL errors are structured feedback. Models improve quickly when they can see the exact failure mode.
-- Humans are better used at the end of the loop, where they can validate the business logic instead of hand-fixing syntax.
+- most analysis time is lost in debugging, not in writing the first draft
+- SQL errors are structured feedback that models can use well
+- human review is most valuable at the end, where business logic can be checked
 
 ## Safe Setup
 
-Run this loop on one of the following:
+Run this workflow on:
 
 - local DuckDB files
 - sanitized CSV extracts
 - sampled warehouse tables
 - synthetic datasets
 
-Avoid starting on production-scale tables or on data you do not understand well enough to validate.
+Avoid starting on production-scale or business-critical data you cannot confidently validate.
 
-## Recommended Operating Pattern
+## Common Failure Modes
 
-1. Define the business question in one sentence.
-2. Provide schema context, including grain and key joins.
-3. Ask the model to state assumptions before writing SQL.
-4. Execute the SQL in a safe environment.
-5. Return the exact error or surprising output.
-6. Have the model revise.
-7. Validate the final result against a known benchmark or a trusted dashboard.
+- wrong grain creates duplicated counts
+- the query is valid but answers a different question
+- filters or time windows change between iterations
+- warehouse-specific syntax slips into the wrong execution engine
 
 ## Good Prompt Skeleton
 
@@ -58,23 +63,8 @@ Before writing SQL:
 Then write a DuckDB-compatible query.
 ```
 
-## Validation Checklist
+## Related Next Reads
 
-Before you trust the final output, check:
-
-- grain: one row per what
-- join logic: no accidental duplication
-- null handling: explicit rather than implied
-- time window: correct timezone and date boundary
-- business definition: matches the metric the team actually uses
-
-## Common Failure Modes
-
-- The AI chooses the wrong grain and duplicates counts.
-- The query is technically valid but answers a different question.
-- Filters are dropped between iterations.
-- A warehouse-specific function slips into a local SQL engine.
-
-## Practical Advice
-
-Use the loop on work you already know how to validate. That is where AI gives the most leverage with the least risk. The goal is not blind trust. The goal is faster iteration with stronger human review at the end.
+- [`ask-before-building.md`](./ask-before-building.md)
+- [`fix-ai-analytics-inputs-not-prompts.md`](./fix-ai-analytics-inputs-not-prompts.md)
+- [`../examples/synthetic-funnel/README.md`](../examples/synthetic-funnel/README.md)

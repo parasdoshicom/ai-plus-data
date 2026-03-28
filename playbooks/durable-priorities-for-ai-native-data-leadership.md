@@ -1,97 +1,49 @@
 # Durable Priorities for AI-Native Data Leadership
 
-If you are building an AI-native data organization, a few priorities stay important regardless of tooling changes.
+**Thesis:** The strongest AI-native data organizations do not win by chasing every new tool. They win by protecting a small set of durable leadership priorities.
 
-## 1. Tie the data team to the company’s main decision loop
+## Use This When
 
-The data team should be closest to the business motion that matters most.
+- you are setting team direction for AI adoption
+- the organization risks over-focusing on tooling and under-focusing on operating basics
+- leadership needs a short list of priorities that hold up through change
 
-That usually means owning the measurement, decomposition, and operating cadence around the company’s highest-stakes decisions.
+## Core Operating Pattern
 
-The rule is simple:
+Keep these priorities stable even as tools evolve:
 
-- show up with numbers, not opinions
-- become the team that decision forums trust first
-- build systems that improve decision quality, not just reporting coverage
+1. tie the data team to the company’s main decision loop
+2. build the semantic layer early
+3. treat platform reliability as non-negotiable
+4. consolidate trusted dashboards and metric surfaces
+5. give strong leads air cover, not micromanagement
+6. make AI team boundaries explicit
+7. protect the foundation during transitions
 
-## 2. Build the semantic layer early
+## Why These Priorities Matter
 
-A strong semantic layer is one of the highest-leverage investments in AI analytics.
+- AI amplifies existing clarity or confusion
+- weak reliability undermines every AI layer on top
+- fragmented metrics make self-serve and conversational analytics brittle
+- great leads need context and cover more than constant supervision
 
-It is what makes self-serve answers and governed natural-language access possible.
+## Common Failure Modes
 
-Without it, AI can produce fast answers, but not reliably trusted ones.
+- treating AI rollout as separate from the company’s core operating cadence
+- underinvesting in semantic consistency and reliability
+- allowing dashboard sprawl to continue while adding agents on top
+- creating AI pods with fuzzy ownership boundaries
+- introducing major change without protecting core foundations
 
-## 3. Treat platform reliability as non-negotiable
+## Leadership Signals To Look For
 
-AI does not reduce the need for reliability.
-It increases it.
+- decision forums trust the data team first
+- repeated business questions get the same answer
+- critical metrics have clear owners and trusted surfaces
+- strong domain leads move quickly without constant escalation
 
-If refreshes slip, pipelines fail silently, or key decision data is late, every AI layer on top becomes less trustworthy.
+## Related Next Reads
 
-Reliability is not back-office hygiene.
-It is part of the product.
-
-## 4. Consolidate dashboards and metric surfaces aggressively
-
-AI works best when the set of trusted artifacts is small, governed, and well understood.
-
-If every team keeps creating competing dashboards and unofficial metric variants, AI will inherit the same fragmentation.
-
-Dashboard governance is not anti-self-serve.
-It is what makes self-serve scalable.
-
-## 5. Give strong leads air cover, not micromanagement
-
-In strong data organizations, domain leads do not need constant supervision.
-
-They need:
-
-- clear priorities
-- resources
-- air cover
-- fast decisions
-- stable operating context
-
-The management job is to remove drag and align domains to the highest-leverage outcomes.
-
-## 6. Be explicit about boundary changes in new AI pods
-
-AI-focused teams often create scope anxiety with adjacent analytics, data engineering, or platform groups.
-
-If boundaries are vague, collaboration degrades into defensive behavior.
-
-Be clear about:
-
-- what the AI-focused team owns
-- what it does not own
-- where collaboration is required
-- how success will be shared
-
-## 7. Protect the foundation during transitions
-
-Reorgs, tool migrations, and team transitions create hidden execution risk.
-
-During those periods, be explicit about:
-
-- what is changing
-- what is not changing
-- which foundations must stay stable
-- how risk will be managed
-
-Teams can handle change better than ambiguity.
-
-## Bottom line
-
-The durable priorities are not exotic:
-
-- align to the company’s main decision loop
-- build the semantic layer
-- protect reliability
-- consolidate trusted metric surfaces
-- empower strong leads
-- clarify AI team boundaries
-- communicate stability during change
-
-Most AI data failures are not caused by missing frontier tooling.
-They come from getting these basics wrong.
+- [`semantic-layer-is-the-trust-layer.md`](./semantic-layer-is-the-trust-layer.md)
+- [`dashboard-governance-for-ai-analytics.md`](./dashboard-governance-for-ai-analytics.md)
+- [`../toolkits/manager-ai-adoption-scorecard.md`](../toolkits/manager-ai-adoption-scorecard.md)
