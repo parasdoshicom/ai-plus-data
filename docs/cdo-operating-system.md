@@ -141,8 +141,19 @@ You know the operating system is working when:
 - analysts spend less time re-answering the same question
 - trusted metrics and workflows become easier to find than untrusted ones
 
+## Why This Is Not Just Theory
+
+This artifact is intentionally generalized, but there are public signals showing that this style of operating model maps to real systems and measurable outcomes.
+
+- a third-party case study on Opendoor's analytics transformation reports time-to-triage falling from 2 hours to 15 minutes, severe incidents dropping by 67 percent, internal NPS improving by 20 percent, and analytics costs falling by 80 percent year-over-year
+- an official Institute of Analytics Fellow profile describes Paras as Head of Data at Opendoor leading analytics and engineering teams that power billions in real estate transactions
+- a public Opendoor article describes an AI valuation system using 500+ property signals, 250,000+ transactions, and 20 external sources
+
+See [`external-proof-of-impact.md`](./external-proof-of-impact.md) for the full source list and caveats.
+
 ## Related Next Reads
 
 - [`how-i-lead.md`](./how-i-lead.md)
 - [`public-safe-impact-patterns.md`](./public-safe-impact-patterns.md)
+- [`external-proof-of-impact.md`](./external-proof-of-impact.md)
 - [`../toolkits/manager-ai-adoption-scorecard.md`](../toolkits/manager-ai-adoption-scorecard.md)

@@ -34,9 +34,14 @@ This repo is built around an operator thesis:
 
 - [Insight Extractor archive](https://insightextractor.com/list-of-all-blog-posts-by-paras-doshi/)
 - [Institute of Analytics Fellow profile](https://ioaglobal.org/ioa-fellows/paras-doshi/)
+- [Select Star case study on Opendoor's analytics transformation](https://www.selectstar.com/resources/amazon-quicksight-self-service-analytics)
+- [Opendoor article on AI home valuations](https://www.opendoor.com/articles/how-data-powers-opendoors-home-valuations)
+- [Evanta San Francisco CDAO Community Governing Body](https://aaem-disp.evanta.com/cdao/san-francisco)
 - [High Signal episode: Why Your Data Team Doesn't Have a Seat at the Table (And How to Earn It)](https://highsignal.fireside.fm/27)
 - [Podcast: Data leadership and strategy](https://www.youtube.com/watch?v=q7Mpqm1GVRc&list=PLHow-wjRD8TEX4idQj4bDdNvNer-ar9x7&index=2)
 - [Podcast: Building data teams](https://www.youtube.com/watch?v=DDSKxL_JeLc)
+
+For a more conservative read on what the public record supports, see [`external-proof-of-impact.md`](./external-proof-of-impact.md).
 
 ## Publication Rule
 

@@ -39,6 +39,15 @@ The data organization behaves more like one system:
 - stronger consistency in output quality
 - higher leverage for leaders and domain teams
 
+## How To Measure The Shift
+
+If you run this change for real, track:
+
+- duplicate work identified across analytics teams each quarter
+- share of priority work reviewed against common standards
+- number of leadership entry points the business must navigate to get analytics support
+- manager span quality: coaching time versus firefighting time
+
 ## Transferable Lesson
 
 Org design matters because AI and self-serve work best when the trusted surfaces, standards, and ownership model are legible. Consolidation is valuable when it increases coherence, not just control.
