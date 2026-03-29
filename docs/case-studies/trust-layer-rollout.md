@@ -39,6 +39,15 @@ The organization gets a better base layer for both humans and AI:
 - clearer ownership of critical metrics
 - higher confidence in AI-assisted workflows
 
+## How To Measure The Shift
+
+If you run this change for real, track:
+
+- repeated-question consistency rate for the top metrics
+- number of reconciliation loops on recurring KPI questions
+- share of critical metrics with a named owner and official definition
+- share of AI-assisted answers that cite an approved metric source
+
 ## Transferable Lesson
 
 AI reliability usually improves more from stronger definitions and stronger context than from more elaborate prompting. Trust is built upstream.

@@ -26,8 +26,27 @@ These are the highest-signal entry points if you want the executive layer, not j
 | [`docs/how-i-lead.md`](./docs/how-i-lead.md) | Public-safe operating principles for how Paras approaches data leadership, AI adoption, team design, and trust |
 | [`docs/cdo-operating-system.md`](./docs/cdo-operating-system.md) | A signature CDO artifact: 90-day roadmap, KPI tree, governance model, and operating cadence |
 | [`docs/ai-adoption-board-brief.md`](./docs/ai-adoption-board-brief.md) | A one-page executive brief for reporting AI adoption progress, risk, and next decisions |
+| [`docs/what-this-repo-proves.md`](./docs/what-this-repo-proves.md) | A skeptical evaluator's guide to what this repo demonstrates directly versus what still requires deeper diligence |
+| [`docs/external-proof-of-impact.md`](./docs/external-proof-of-impact.md) | The strongest public evidence outside the repo that supports real operating scope, outcome signals, and external recognition |
 | [`docs/public-safe-impact-patterns.md`](./docs/public-safe-impact-patterns.md) | Generalized before/after impact patterns that show what better looks like in practice |
 | [`playbooks/from-playbooks-to-operating-systems.md`](./playbooks/from-playbooks-to-operating-systems.md) | Clarifies the difference between public playbooks, reusable toolkits, and real AI operating systems |
+
+## What This Repo Proves
+
+This repo is meant to be legible to a skeptical operator, not just a sympathetic reader.
+
+It proves:
+
+- a coherent operator thesis for AI-native data leadership
+- concrete executive artifacts, not just opinion pieces
+- practical workflow judgment around validation and trust
+- explicit public-safety and source-discipline standards
+- stronger public evidence outside the repo than writing alone
+
+If you want the direct proof-versus-inference read, start with [`docs/what-this-repo-proves.md`](./docs/what-this-repo-proves.md).
+If you want the strongest public evidence outside the repo, read [`docs/external-proof-of-impact.md`](./docs/external-proof-of-impact.md).
+
+That external proof now includes a third-party case study with measurable operating outcomes, official professional recognition, and public company-authored scope evidence.
 
 ## Public-Safe Case Studies
 
@@ -77,6 +96,7 @@ flowchart TD
 | Decide what context an agent should trust | [`playbooks/why-agents-need-a-metric-store.md`](./playbooks/why-agents-need-a-metric-store.md) |
 | Roll AI out across a team safely | [`toolkits/data-team-ai-rollout-checklist.md`](./toolkits/data-team-ai-rollout-checklist.md) |
 | Create a leader-level operating cadence | [`playbooks/durable-priorities-for-ai-native-data-leadership.md`](./playbooks/durable-priorities-for-ai-native-data-leadership.md) |
+| Assess whether you have a real AI operating model | [`toolkits/cdo-ai-operating-system-self-assessment.md`](./toolkits/cdo-ai-operating-system-self-assessment.md) |
 
 ## Featured Playbooks
 

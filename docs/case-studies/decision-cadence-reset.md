@@ -38,6 +38,15 @@ The same forum starts doing different work:
 - more explicit ownership after each review
 - stronger confidence in the weekly operating rhythm
 
+## How To Measure The Shift
+
+If you run this change for real, track:
+
+- pre-read completion rate before the weekly review
+- number of explicit decisions made per meeting
+- number of actions with an owner and due date by meeting close
+- volume of recurring ad-hoc requests between decision forums
+
 ## Transferable Lesson
 
 The point of a weekly review is not to display information. It is to create a reliable decision cadence. Once that is the design goal, the analytics system, meeting format, and follow-up model all get sharper.
