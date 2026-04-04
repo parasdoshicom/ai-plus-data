@@ -10,9 +10,10 @@ from urllib.parse import unquote
 
 
 ROOT = Path(__file__).resolve().parents[1]
-LINK_RE = re.compile(r"(?<!\!)\[[^\]]+\]\(([^)]+)\)")
-IMAGE_RE = re.compile(r"!\[[^\]]*\]\(([^)]+)\)")
 SKIP_PREFIXES = ("http://", "https://", "mailto:", "tel:")
+TITLE_SUFFIX_RE = re.compile(
+    r"""^(?P<target>.*?)(?:\s+(?:"[^"]*"|'[^']*'|\([^()]*\)))?\s*$"""
+)
 
 
 def tracked_markdown_files() -> list[Path]:
@@ -27,7 +28,18 @@ def tracked_markdown_files() -> list[Path]:
 
 
 def normalize_target(raw_target: str) -> str:
-    target = raw_target.strip().strip("<>").split()[0]
+    target = raw_target.strip()
+    if not target:
+        return ""
+
+    if target.startswith("<"):
+        closing = target.find(">")
+        target = target[1:closing] if closing != -1 else target[1:]
+    else:
+        title_match = TITLE_SUFFIX_RE.match(target)
+        if title_match:
+            target = title_match.group("target").strip()
+
     return unquote(target)
 
 
@@ -42,8 +54,86 @@ def resolve_target(source: Path, target: str) -> Path:
     return (source.parent / path_only).resolve()
 
 
+def find_closing_bracket(markdown: str, start: int) -> int:
+    depth = 1
+    index = start + 1
+
+    while index < len(markdown):
+        char = markdown[index]
+        if char == "\\":
+            index += 2
+            continue
+        if char == "[":
+            depth += 1
+        elif char == "]":
+            depth -= 1
+            if depth == 0:
+                return index
+        index += 1
+
+    return -1
+
+
+def extract_parenthesized(markdown: str, start: int) -> tuple[str, int] | None:
+    depth = 0
+    in_angle = False
+    chars: list[str] = []
+    index = start + 1
+
+    while index < len(markdown):
+        char = markdown[index]
+        if char == "\\" and index + 1 < len(markdown):
+            chars.append(char)
+            chars.append(markdown[index + 1])
+            index += 2
+            continue
+
+        if char == "<" and not in_angle:
+            in_angle = True
+        elif char == ">" and in_angle:
+            in_angle = False
+        elif not in_angle and char == "(":
+            depth += 1
+        elif not in_angle and char == ")":
+            if depth == 0:
+                return ("".join(chars), index)
+            depth -= 1
+
+        chars.append(char)
+        index += 1
+
+    return None
+
+
 def collect_targets(markdown: str) -> list[str]:
-    return [*LINK_RE.findall(markdown), *IMAGE_RE.findall(markdown)]
+    targets: list[str] = []
+    index = 0
+
+    while index < len(markdown):
+        char = markdown[index]
+        if char == "!" and index + 1 < len(markdown) and markdown[index + 1] == "[":
+            label_start = index + 1
+        elif char == "[":
+            label_start = index
+        else:
+            index += 1
+            continue
+
+        label_end = find_closing_bracket(markdown, label_start)
+        if label_end == -1 or label_end + 1 >= len(markdown) or markdown[label_end + 1] != "(":
+            index = label_start + 1
+            continue
+
+        extracted = extract_parenthesized(markdown, label_end + 1)
+        if extracted is None:
+            index = label_end + 1
+            continue
+
+        target, target_end = extracted
+        targets.append(target)
+        index = target_end + 1
+
+    return targets
 
 
 def main() -> int:
