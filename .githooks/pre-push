@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+repo_root="$(git rev-parse --show-toplevel)"
+cd "$repo_root"
+
+./scripts/check-public-safety.sh
+python3 ./scripts/check-markdown-links.py
+
+create_backup_ref() {
+  local backup_ref
+  backup_ref="backup/pre-push-main-$(date +%Y%m%d-%H%M%S)"
+  git branch "$backup_ref" HEAD >/dev/null 2>&1 || true
+  echo "Created local backup branch: $backup_ref"
+}
+
+while IFS=' ' read -r local_ref local_sha remote_ref remote_sha; do
+  if [ "$remote_ref" = "refs/heads/main" ]; then
+    create_backup_ref
+
+    if [ "${ALLOW_MAIN_PUSH:-0}" != "1" ]; then
+      echo
+      echo "Push to main blocked by local repo guard."
+      echo "Use a branch + PR flow by default."
+      echo "If you truly need an emergency direct push, rerun with:"
+      echo "ALLOW_MAIN_PUSH=1 git push origin HEAD:main"
+      exit 1
+    fi
+  fi
+done
+
+exit 0
