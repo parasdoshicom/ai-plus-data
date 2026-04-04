@@ -1,0 +1,32 @@
+name: Repo QA
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+      - "codex/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  public-safe-qa:
+    name: Public-Safe QA
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Run public-safety scan
+        run: ./scripts/check-public-safety.sh
+
+      - name: Validate local Markdown links
+        run: python3 ./scripts/check-markdown-links.py
