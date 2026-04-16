@@ -5,3 +5,14 @@
 *.sqlite3
 __pycache__/
 .pytest_cache/
+.openclaw/
+artifacts/
+memory/
+media/inbound/
+vendor/upstream-skills/
+AGENTS.md
+HEARTBEAT.md
+IDENTITY.md
+SOUL.md
+TOOLS.md
+USER.md
