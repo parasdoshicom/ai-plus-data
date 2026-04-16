@@ -108,6 +108,7 @@ flowchart TD
 | [`playbooks/semantic-layer-is-the-trust-layer.md`](./playbooks/semantic-layer-is-the-trust-layer.md) | Frames the semantic layer as trust infrastructure for AI analytics |
 | [`playbooks/why-agents-need-a-metric-store.md`](./playbooks/why-agents-need-a-metric-store.md) | Adds the missing layer between discovery and approved answers for conversational analytics |
 | [`playbooks/durable-priorities-for-ai-native-data-leadership.md`](./playbooks/durable-priorities-for-ai-native-data-leadership.md) | Highlights the durable operating priorities that matter even as tools change |
+| [`playbooks/agent-patterns-are-table-stakes-trust-is-the-differentiator.md`](./playbooks/agent-patterns-are-table-stakes-trust-is-the-differentiator.md) | Explains why trusted metrics, validation loops, and operating cadence matter more than agent architecture alone |
 
 ## Hands-On Example
 
@@ -135,10 +136,10 @@ The public-safe versions of those patterns live in [`docs/public-safe-impact-pat
 
 | Path | Purpose |
 | --- | --- |
-| [`playbooks/`](./playbooks) | Reusable operating patterns for AI-native data work |
-| [`toolkits/`](./toolkits) | Rollout checklists, scorecards, and reusable templates |
-| [`examples/`](./examples) | Synthetic, public-safe walkthroughs |
-| [`docs/`](./docs) | Founder context, signature artifacts, reading paths, source inventory, and publication guardrails |
+| [`playbooks/README.md`](./playbooks/README.md) | Guided index of reusable operating patterns for AI-native data work |
+| [`toolkits/README.md`](./toolkits/README.md) | Guided index of rollout checklists, scorecards, and reusable templates |
+| [`examples/README.md`](./examples/README.md) | Guided index of synthetic, public-safe walkthroughs |
+| [`docs/README.md`](./docs/README.md) | Guided index of signature artifacts, proof, sources, and publication guardrails |
 
 ## Public-Safety Promise
 

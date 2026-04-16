@@ -8,11 +8,12 @@ Use this path if you are shaping operating priorities, governance expectations, 
 
 1. Read [`../README.md`](../README.md) for the repo thesis and operating model
 2. Read [`../playbooks/durable-priorities-for-ai-native-data-leadership.md`](../playbooks/durable-priorities-for-ai-native-data-leadership.md)
-3. Read [`../playbooks/semantic-layer-is-the-trust-layer.md`](../playbooks/semantic-layer-is-the-trust-layer.md)
-4. Read [`../toolkits/manager-ai-adoption-scorecard.md`](../toolkits/manager-ai-adoption-scorecard.md)
-5. Read [`../toolkits/data-team-ai-rollout-checklist.md`](../toolkits/data-team-ai-rollout-checklist.md)
-6. Use [`what-this-repo-proves.md`](./what-this-repo-proves.md) if you need the skeptical evaluator view
-7. Use [`../toolkits/cdo-ai-operating-system-self-assessment.md`](../toolkits/cdo-ai-operating-system-self-assessment.md) for a fast maturity read
+3. Read [`../playbooks/semantic-models-are-not-dead.md`](../playbooks/semantic-models-are-not-dead.md) for the current POV on why AI increases the value of trusted metric definitions
+4. Read [`../playbooks/semantic-layer-is-the-trust-layer.md`](../playbooks/semantic-layer-is-the-trust-layer.md)
+5. Read [`../toolkits/manager-ai-adoption-scorecard.md`](../toolkits/manager-ai-adoption-scorecard.md)
+6. Read [`../toolkits/data-team-ai-rollout-checklist.md`](../toolkits/data-team-ai-rollout-checklist.md)
+7. Use [`what-this-repo-proves.md`](./what-this-repo-proves.md) if you need the skeptical evaluator view
+8. Use [`../toolkits/cdo-ai-operating-system-self-assessment.md`](../toolkits/cdo-ai-operating-system-self-assessment.md) for a fast maturity read
 
 What you should leave with:
 
