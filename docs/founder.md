@@ -41,7 +41,7 @@ This repo is built around an operator thesis:
 - [Podcast: Data leadership and strategy](https://www.youtube.com/watch?v=q7Mpqm1GVRc&list=PLHow-wjRD8TEX4idQj4bDdNvNer-ar9x7&index=2)
 - [Podcast: Building data teams](https://www.youtube.com/watch?v=DDSKxL_JeLc)
 
-For a more conservative read on what the public record supports, see [`external-proof-of-impact.md`](./external-proof-of-impact.md).
+For a more conservative read on what the public record supports, see [`external-evidence-of-impact.md`](./external-evidence-of-impact.md).
 
 ## Publication Rule
 
