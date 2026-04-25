@@ -49,8 +49,8 @@ If a detail would not be safe to share in a public conference talk, it does not 
 
 See [`repo-privacy-policy.md`](./repo-privacy-policy.md), [`publication-safety-checklist.md`](./publication-safety-checklist.md), and [`public-source-inventory.md`](./public-source-inventory.md).
 
-## How Paras Operates With AI
+## AI Operating Lens
 
-A recurring pattern in this body of work is using AI as an operating layer rather than just a chat interface: persistent context, morning briefing, highest-leverage prioritization, meeting prep, decision logging, and end-of-day writeback.
+A recurring pattern in this body of work is using AI inside the operating cadence of a data organization: trusted context, meeting prep, decision framing, action follow-through, and review loops.
 
-See [`playbooks/how-a-high-agency-operator-runs-an-ai-os.md`](../playbooks/how-a-high-agency-operator-runs-an-ai-os.md).
+See [`playbooks/ai-operating-cadence-for-data-leaders.md`](../playbooks/ai-operating-cadence-for-data-leaders.md).

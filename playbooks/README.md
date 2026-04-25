@@ -24,7 +24,7 @@ Playbooks are the core reusable patterns in this repo. Use them when you want to
 - [`durable-priorities-for-ai-native-data-leadership.md`](./durable-priorities-for-ai-native-data-leadership.md): what remains durable even as AI tools change
 - [`agent-patterns-are-table-stakes-trust-is-the-differentiator.md`](./agent-patterns-are-table-stakes-trust-is-the-differentiator.md): why trusted metrics, validation loops, and operating cadence matter more than architecture alone
 - [`from-playbooks-to-operating-systems.md`](./from-playbooks-to-operating-systems.md): how reusable patterns become a true operating system
-- [`how-a-high-agency-operator-runs-an-ai-os.md`](./how-a-high-agency-operator-runs-an-ai-os.md): execution style and operating cadence
+- [`ai-operating-cadence-for-data-leaders.md`](./ai-operating-cadence-for-data-leaders.md): leadership cadence for using AI in recurring data work
 - [`ai-war-room-briefing.md`](./ai-war-room-briefing.md): a focused forum for high-priority decisions and blockers
 - [`ai-native-data-catalog-foundation.md`](./ai-native-data-catalog-foundation.md): why metadata and discovery quality matter more in the AI era
 - [`plan-review-execute-review.md`](./plan-review-execute-review.md): compact operating loop for reliable delivery
