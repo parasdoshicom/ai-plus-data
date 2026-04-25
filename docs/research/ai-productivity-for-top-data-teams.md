@@ -1,6 +1,7 @@
 # AI productivity for top data teams — operator memo
 
 Date: 2026-03-28  
+Owner: Paras Doshi
 
 ## Executive take
 The strongest 2025-2026 pattern is not "let AI answer anything about the warehouse." Top data teams are putting AI **behind governed semantic models, metadata, permissions, and review gates**. The winning pattern is:
