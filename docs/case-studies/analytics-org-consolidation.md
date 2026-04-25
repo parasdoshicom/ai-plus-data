@@ -30,6 +30,26 @@ The operating change is not just an org chart change. It includes:
 | Output quality | inconsistent by team | stronger shared standards |
 | Leadership leverage | diluted | higher because the system is easier to steer |
 
+## Example Timeline
+
+| Phase | Operating move | Output |
+| --- | --- | --- |
+| Diagnose | Map duplicate work, conflicting standards, and entry points | fragmentation map |
+| Design | Define central standards and domain ownership | operating model and decision rights |
+| Pilot | Apply shared review standards to one high-volume domain | common intake, review, and artifact bar |
+| Scale | Move recurring work into shared cadences and trusted artifacts | manager scorecard and quarterly standards review |
+
+## Example Public-Safe Metrics
+
+These numbers are synthetic and should be replaced by local measures in a real org.
+
+| Measure | Start | 90-day target |
+| --- | ---: | ---: |
+| Duplicate analytics efforts found per quarter | 12 | <4 |
+| Priority work reviewed against common standard | 40% | 85% |
+| Business entry points for analytics support | 6 | 2-3 |
+| Manager time spent coaching versus firefighting | 25% | 50% |
+
 ## Signals Of Change
 
 The data organization behaves more like one system:
@@ -47,6 +67,18 @@ If you run this change for real, track:
 - share of priority work reviewed against common standards
 - number of leadership entry points the business must navigate to get analytics support
 - manager span quality: coaching time versus firefighting time
+
+## Constraints And Tradeoffs
+
+- Consolidation should increase coherence, not create a slower central queue.
+- Domain ownership still matters. A unified operating layer should not erase business context.
+- Shared standards must be lightweight enough for managers to use weekly.
+
+## What Did Not Work
+
+- Treating an org chart change as the operating model.
+- Centralizing all work instead of centralizing standards, review quality, and trusted artifacts.
+- Rolling out AI assistants before the ownership model and metric definitions were clear.
 
 ## Transferable Lesson
 

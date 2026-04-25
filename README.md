@@ -17,19 +17,41 @@ AI+Data is a public working repo for Chief Data Officers, heads of data, analyti
 - It focuses on repeatable operating patterns that teams can actually roll out.
 - It stays public-safe by design: generalized lessons, synthetic examples, no company internals.
 
+## PARA Repo Structure
+
+This repo is now organized around actionability first, inspired by the PARA method's split between active projects, ongoing areas, reusable resources, and archives.
+
+| PARA layer | Use it when | Start here |
+| --- | --- | --- |
+| Projects | You want a concrete outcome to ship | [`projects/README.md`](./projects/README.md) |
+| Areas | You want the ongoing leadership standards | [`areas/README.md`](./areas/README.md) |
+| Resources | You want the full library of playbooks, toolkits, examples, and research | [`resources/README.md`](./resources/README.md) |
+| Archives | You want retired material or historical context | [`archives/README.md`](./archives/README.md) |
+
+Existing public paths such as `docs/`, `playbooks/`, `toolkits/`, and `examples/` remain stable. The PARA layer is the navigation system on top.
+
+## Executive Packet
+
+If you are evaluating the repo quickly, start with [`docs/executive-packet.md`](./docs/executive-packet.md).
+
+It gives a 30-minute path through the thesis, proof ladder, CDO operating model, 10-metric trust-layer pilot, sample monthly review, decision memo loop, and claims ledger.
+
 ## Signature Artifacts
 
 These are the highest-signal entry points if you want the executive layer, not just the tactical layer.
 
 | Artifact | Why start here |
 | --- | --- |
+| [`docs/executive-packet.md`](./docs/executive-packet.md) | The shortest skeptical-reader path through the repo |
 | [`docs/how-i-lead.md`](./docs/how-i-lead.md) | Public-safe operating principles for how Paras approaches data leadership, AI adoption, team design, and trust |
 | [`docs/cdo-operating-system.md`](./docs/cdo-operating-system.md) | A signature CDO artifact: 90-day roadmap, KPI tree, governance model, and operating cadence |
 | [`docs/ai-adoption-board-brief.md`](./docs/ai-adoption-board-brief.md) | A one-page executive brief for reporting AI adoption progress, risk, and next decisions |
+| [`docs/sample-monthly-cdo-review.md`](./docs/sample-monthly-cdo-review.md) | A synthetic board-ready example with fake but realistic metrics |
+| [`projects/ten-metric-trust-layer-pilot.md`](./projects/ten-metric-trust-layer-pilot.md) | A concrete pilot for making recurring metric questions safer and faster |
+| [`projects/decision-memo-operating-loop.md`](./projects/decision-memo-operating-loop.md) | A reusable loop from AI-assisted answer to executive decision |
 | [`docs/what-this-repo-proves.md`](./docs/what-this-repo-proves.md) | A skeptical evaluator's guide to what this repo demonstrates directly versus what still requires deeper diligence |
 | [`docs/external-proof-of-impact.md`](./docs/external-proof-of-impact.md) | The strongest public evidence outside the repo that supports real operating scope, outcome signals, and external recognition |
-| [`docs/public-safe-impact-patterns.md`](./docs/public-safe-impact-patterns.md) | Generalized before/after impact patterns that show what better looks like in practice |
-| [`playbooks/from-playbooks-to-operating-systems.md`](./playbooks/from-playbooks-to-operating-systems.md) | Clarifies the difference between public playbooks, reusable toolkits, and real AI operating systems |
+| [`docs/claims-ledger.md`](./docs/claims-ledger.md) | Claim-by-claim evidence strength, caveats, and exclusions |
 
 ## What This Repo Proves
 
@@ -57,6 +79,8 @@ These are concise, sanitized case-study style walkthroughs that show how the ope
 | [`docs/case-studies/decision-cadence-reset.md`](./docs/case-studies/decision-cadence-reset.md) | How a reactive weekly review becomes a decision-ready operating forum |
 | [`docs/case-studies/trust-layer-rollout.md`](./docs/case-studies/trust-layer-rollout.md) | How a fragmented metric environment becomes an AI-ready trust layer |
 | [`docs/case-studies/analytics-org-consolidation.md`](./docs/case-studies/analytics-org-consolidation.md) | How multiple analytics teams become one higher-leverage operating system |
+
+Each case study now includes a synthetic timeline, measurable before/after targets, constraints, and what did not work. The numbers are illustrative, not private company results.
 
 ## Operating Model
 
@@ -122,6 +146,14 @@ Start with [`examples/synthetic-funnel/README.md`](./examples/synthetic-funnel/R
 4. validate against trusted logic
 5. translate the result into a manager-ready recommendation
 
+Additional synthetic examples:
+
+| Example | What it shows |
+| --- | --- |
+| [`examples/metric-trust-packet/README.md`](./examples/metric-trust-packet/README.md) | A completed public-safe metric trust packet |
+| [`examples/dashboard-deprecation-review/README.md`](./examples/dashboard-deprecation-review/README.md) | How dashboard cleanup improves AI trust |
+| [`examples/ai-adoption-board-readout/README.md`](./examples/ai-adoption-board-readout/README.md) | How to brief executives on AI adoption using fake but realistic metrics |
+
 ## What Better Looks Like
 
 The strongest data leaders do more than ship analysis. They redesign the system around the analysis.
@@ -136,6 +168,10 @@ The public-safe versions of those patterns live in [`docs/public-safe-impact-pat
 
 | Path | Purpose |
 | --- | --- |
+| [`projects/README.md`](./projects/README.md) | Outcome-first project tracks |
+| [`areas/README.md`](./areas/README.md) | Ongoing operating responsibilities and standards |
+| [`resources/README.md`](./resources/README.md) | Reusable library map |
+| [`archives/README.md`](./archives/README.md) | Retired or historical material |
 | [`playbooks/README.md`](./playbooks/README.md) | Guided index of reusable operating patterns for AI-native data work |
 | [`toolkits/README.md`](./toolkits/README.md) | Guided index of rollout checklists, scorecards, and reusable templates |
 | [`examples/README.md`](./examples/README.md) | Guided index of synthetic, public-safe walkthroughs |
