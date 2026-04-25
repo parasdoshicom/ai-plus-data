@@ -81,6 +81,7 @@ These are concise, sanitized case-study style walkthroughs that show how the ope
 | [`docs/case-studies/decision-cadence-reset.md`](./docs/case-studies/decision-cadence-reset.md) | How a reactive weekly review becomes a decision-ready operating forum |
 | [`docs/case-studies/trust-layer-rollout.md`](./docs/case-studies/trust-layer-rollout.md) | How a fragmented metric environment becomes an AI-ready trust layer |
 | [`docs/case-studies/analytics-org-consolidation.md`](./docs/case-studies/analytics-org-consolidation.md) | How multiple analytics teams become one higher-leverage operating system |
+| [`docs/case-studies/public-analytics-platform-transformation.md`](./docs/case-studies/public-analytics-platform-transformation.md) | Public-source read-through of analytics trust, discoverability, and self-service outcomes |
 
 Each case study now includes a synthetic timeline, measurable before/after targets, constraints, and what did not work. The numbers are illustrative, not private company results.
 

@@ -63,7 +63,7 @@ It is a living system with:
 - memory
 - routines
 - tool integrations
-- writeback loops
+- update loops
 - operating rituals
 - prioritization and decision support
 
@@ -140,7 +140,7 @@ That often turns out to be the right split:
 
 - public repo for ideas and credibility
 - toolkit for reusable execution patterns
-- private operating system for the real daily work
+- governed operating layer for production work
 
 ## Bottom line
 

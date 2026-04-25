@@ -33,8 +33,8 @@ Top data teams are getting value from AI by **grounding it in semantic models/me
 
 ## Recommendation for a data team
 - **This week:** pick 1-2 domains, define trusted assets, clean metadata, choose first AI surfaces, baseline metrics.
-- **This month:** publish a lightweight policy, create reusable prompt/review workflows, run one curated pilot.
-- **Next 90 days:** expand carefully, add agent-like workflows only with review gates, and build a failure library + scorecard.
+- **This month:** publish a lightweight policy, create reusable workflow/review patterns, run one curated pilot.
+- **Next 90 days:** expand carefully, add agent-like workflows only with review gates, and build an answer-quality review log plus operating scorecard.
 
 ## One-sentence rule
 **Do not ship AI on top of raw warehouse sprawl; ship it on top of curated business definitions.**

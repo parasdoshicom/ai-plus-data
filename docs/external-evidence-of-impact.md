@@ -21,6 +21,7 @@ Not all public sources carry the same weight.
 Source:
 
 - [Select Star: How Opendoor Leverages Amazon QuickSight and Select Star for Self-Service Analytics](https://www.selectstar.com/resources/amazon-quicksight-self-service-analytics)
+- Repo read-through: [`case-studies/public-analytics-platform-transformation.md`](./case-studies/public-analytics-platform-transformation.md)
 
 What it supports:
 

@@ -1,8 +1,6 @@
 # AI productivity for top data teams — operator memo
 
 Date: 2026-03-28  
-Owner: Arth AI  
-Status: delivered
 
 ## Executive take
 The strongest 2025-2026 pattern is not "let AI answer anything about the warehouse." Top data teams are putting AI **behind governed semantic models, metadata, permissions, and review gates**. The winning pattern is:
@@ -89,7 +87,7 @@ Sources:
 ### 6) Keeping execution human-approved, especially when code can run
 Modern tools increasingly support agent-like execution, but the safer pattern is still approval-gated execution. Databricks notes that Genie is read-only SQL, while Genie Code agent mode can run code with confirmation and warns that AI-generated code must be reviewed and tested.
 
-Operator implication: default to read-only and require approval for code execution, writeback actions, model changes, and production job edits.
+Operator implication: default to read-only and require approval for code execution, production changes, model changes, and production job edits.
 
 Sources:
 - Databricks AI trust/safety FAQ: https://docs.databricks.com/aws/en/databricks-ai/databricks-ai-trust
@@ -128,10 +126,10 @@ Suggested measures:
 Source:
 - Measure Genie Code impact: https://docs.databricks.com/aws/en/genie-code/impact
 
-### 9) Creating reusable prompt/workflow scaffolds rather than relying on free-form prompting
+### 9) Creating reusable workflow scaffolds rather than relying on free-form prompting
 The platform direction is toward slash commands, standard workflows, semantic-model prep, and predefined business concepts. The underlying lesson: top teams are operationalizing recurring patterns, not celebrating prompt artistry.
 
-Operator implication: capture standard prompts and review checklists for:
+Operator implication: capture standard instructions and review checklists for:
 - generate SQL from metric intent
 - explain a model or query
 - optimize a slow query
@@ -341,14 +339,14 @@ Goal: compound the system once trust is earned.
    - optimization suggestions
    - test generation drafts
 
-3. **Build a failure library**
+3. **Build an answer-quality review log**
    Save examples of:
    - ambiguous business questions
    - common wrong aggregations
-   - prompt patterns that fail
+   - instruction patterns that fail
    - bad joins / misleading outputs
 
-4. **Standardize an internal scorecard**
+4. **Standardize an operating scorecard**
    Example dimensions:
    - answer quality / trust
    - operator time saved
