@@ -30,6 +30,26 @@ The rollout starts with the smallest useful trust layer:
 | AI answers | fast but inconsistent | more repeatable across phrasings |
 | Stakeholder trust | low | improving because ambiguity is reduced |
 
+## Example Timeline
+
+| Week | Operating move | Output |
+| --- | --- | --- |
+| 1 | Inventory recurring metric questions and conflicting dashboards | candidate top-10 metric list |
+| 2 | Assign business and data owners | owner map and open definition gaps |
+| 3 | Reconcile definitions and bless source paths | first verified metric packets |
+| 4 | Add eval questions and review misses | trust review with expansion decision |
+
+## Example Public-Safe Metrics
+
+These numbers are synthetic, but the measurement pattern is the point.
+
+| Measure | Start | 30-day target |
+| --- | ---: | ---: |
+| Critical metrics with named owner | 3 / 10 | 10 / 10 |
+| Critical metrics with blessed source path | 2 / 10 | 8 / 10 |
+| Repeated phrasing consistency | 70% | 90% |
+| Reconciliation loops on pilot metrics | 14/month | <5/month |
+
 ## Signals Of Change
 
 The organization gets a better base layer for both humans and AI:
@@ -47,6 +67,18 @@ If you run this change for real, track:
 - number of reconciliation loops on recurring KPI questions
 - share of critical metrics with a named owner and official definition
 - share of AI-assisted answers that cite an approved metric source
+
+## Constraints And Tradeoffs
+
+- The first 10 metrics must be narrow enough to govern. If every team gets to add "just one more," the pilot turns into catalog sprawl.
+- A blessed source path is not always the same as the most complete source. Choose the source that is trusted for the decision forum.
+- Some AI answers should escalate instead of answer. Refusal is a trust feature when freshness, caveats, or ownership are unclear.
+
+## What Did Not Work
+
+- Starting with broad warehouse chat before definitions were reconciled.
+- Asking analysts to review every message instead of reviewing reusable answer paths.
+- Treating dashboard cleanup as optional cleanup work. Conflicting dashboards were the root cause of many answer conflicts.
 
 ## Transferable Lesson
 
