@@ -11,7 +11,7 @@ Resources are reusable reference material. They are valuable, but they should no
 | [`docs/research/`](../docs/research/README.md) | Source-backed research and supporting notes |
 | [`docs/case-studies/`](../docs/case-studies/README.md) | Public-safe operating-change examples |
 | [`examples/`](../examples/README.md) | Synthetic walkthroughs that show the loop in practice |
-| [`docs/public-source-inventory.md`](../docs/public-source-inventory.md) | Source map for public claims and credibility signals |
+| [`docs/public-source-inventory.md`](../docs/public-source-inventory.md) | Source map for public statements and credibility signals |
 
 ## Resource Rule
 

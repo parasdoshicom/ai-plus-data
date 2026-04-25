@@ -1,12 +1,12 @@
 # Docs Guide
 
-Use this folder when you want the executive layer, public proof, or publication guardrails.
+Use this folder when you want the executive layer, public evidence, or publication guardrails.
 
 ## Start Here
 
-- [`executive-packet.md`](./executive-packet.md): shortest path for a skeptical CDO, CEO, board member, or data leader
+- [`executive-reading-path.md`](./executive-reading-path.md): shortest path for a CDO, CEO, board member, or data leader
 - [`reading-paths.md`](./reading-paths.md): role-based entry points for CDOs, managers, and builders
-- [`what-this-repo-proves.md`](./what-this-repo-proves.md): what the repo demonstrates directly versus what remains inference
+- [`evidence-and-scope.md`](./evidence-and-scope.md): repo artifacts, external evidence, and public boundaries
 - [`cdo-operating-system.md`](./cdo-operating-system.md): flagship leadership artifact with roadmap, KPI tree, and governance model
 
 ## Signature Artifacts
@@ -16,13 +16,12 @@ Use this folder when you want the executive layer, public proof, or publication 
 - [`how-i-lead.md`](./how-i-lead.md): public-safe operating principles behind the repo
 - [`founder.md`](./founder.md): editorial lens and author context
 
-## Proof And Credibility
+## Evidence And Sources
 
-- [`external-proof-of-impact.md`](./external-proof-of-impact.md): strongest public evidence outside the repo
-- [`public-source-inventory.md`](./public-source-inventory.md): source map for README and credibility claims
-- [`claims-ledger.md`](./claims-ledger.md): claim-by-claim evidence strength, caveats, and exclusions
+- [`external-evidence-of-impact.md`](./external-evidence-of-impact.md): strong public evidence outside the repo
+- [`public-source-inventory.md`](./public-source-inventory.md): source map for README and credibility statements
+- [`evidence-ledger.md`](./evidence-ledger.md): public statement, source, evidence strength, and caveat mapping
 - [`public-safe-impact-patterns.md`](./public-safe-impact-patterns.md): generalized before/after operating changes
-- [`cdo-independent-assessment.md`](./cdo-independent-assessment.md): independent CDO-style score, gaps, and iteration log
 
 ## Safety And Publication Discipline
 

@@ -149,11 +149,11 @@ This artifact is intentionally generalized, but there are public signals showing
 - an official Institute of Analytics Fellow profile describes Paras as Head of Data at Opendoor leading analytics and engineering teams that power billions in real estate transactions
 - a public Opendoor article describes an AI valuation system using 500+ property signals, 250,000+ transactions, and 20 external sources
 
-See [`external-proof-of-impact.md`](./external-proof-of-impact.md) for the full source list and caveats.
+See [`external-evidence-of-impact.md`](./external-evidence-of-impact.md) for the full source list and caveats.
 
 ## Related Next Reads
 
 - [`how-i-lead.md`](./how-i-lead.md)
 - [`public-safe-impact-patterns.md`](./public-safe-impact-patterns.md)
-- [`external-proof-of-impact.md`](./external-proof-of-impact.md)
+- [`external-evidence-of-impact.md`](./external-evidence-of-impact.md)
 - [`../toolkits/manager-ai-adoption-scorecard.md`](../toolkits/manager-ai-adoption-scorecard.md)

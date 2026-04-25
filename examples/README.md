@@ -1,6 +1,6 @@
 # Examples Guide
 
-Examples are the hands-on, public-safe proof layer in this repo.
+Examples are the hands-on, public-safe demonstration layer in this repo.
 
 ## Available Examples
 

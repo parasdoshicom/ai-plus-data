@@ -1,8 +1,8 @@
-# Executive Packet
+# Executive Reading Path
 
-This is the shortest path through the repo for a skeptical CDO, CEO, board member, or data leader.
+This is a compact path through the repo for a CDO, CEO, board member, or data leader who wants the thesis, evidence, and operating artifacts without reading every file.
 
-Read these in order. Stop after each artifact and ask: "Would I know what to do next?"
+Read these in order. Each artifact is meant to stand on its own.
 
 ## 1. Repo Thesis
 
@@ -14,15 +14,15 @@ What to look for:
 - Trust, metric quality, governance, and decision cadence are treated as first-order work.
 - Public-safety rules are explicit.
 
-## 2. Proof Ladder
+## 2. Evidence And Scope
 
-Read [`what-this-repo-proves.md`](./what-this-repo-proves.md).
+Read [`evidence-and-scope.md`](./evidence-and-scope.md).
 
-What to look for:
+What it covers:
 
-- what the repo proves directly
-- what is supported by external public evidence
-- what still requires deeper diligence
+- the repo's visible artifacts
+- external public evidence
+- the distinction between public examples and private operating work
 
 ## 3. CDO Operating Model
 
@@ -36,7 +36,7 @@ What to look for:
 - recurring cadence
 - decision rights
 
-## 4. 10-Metric Trust Layer
+## 4. 10-Metric Trust Layer Pilot
 
 Read [`../projects/ten-metric-trust-layer-pilot.md`](../projects/ten-metric-trust-layer-pilot.md), then [`../toolkits/metric-trust-packet-template.md`](../toolkits/metric-trust-packet-template.md).
 
@@ -57,7 +57,7 @@ What to look for:
 - fake but realistic metrics
 - trust and adoption shown together
 - decisions requested from leadership
-- risks and next actions separated from status theater
+- risks and next actions separated from status updates
 
 ## 6. Decision Memo Loop
 
@@ -72,20 +72,11 @@ What to look for:
 
 ## 7. External Evidence
 
-Read [`external-proof-of-impact.md`](./external-proof-of-impact.md) and [`claims-ledger.md`](./claims-ledger.md).
+Read [`external-evidence-of-impact.md`](./external-evidence-of-impact.md) and [`evidence-ledger.md`](./evidence-ledger.md).
 
-What to look for:
+What it covers:
 
 - public source mapping
 - evidence strength
 - caveats
-- no unsupported private claims
-
-## What A 30-Minute Reader Should Conclude
-
-A strong reader should leave with four judgments:
-
-1. This repo has a coherent thesis for AI-native data leadership.
-2. The public/private boundary is intentionally managed.
-3. The strongest next implementation path is the 10-metric trust layer.
-4. The repo is strongest as a public operating system and proof packet, not as a confidential case-study dump.
+- what is intentionally left out of the public repo

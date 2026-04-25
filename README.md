@@ -4,7 +4,7 @@ Operator-grade playbooks for AI-native data leadership.
 
 AI+Data is a public working repo for Chief Data Officers, heads of data, analytics leaders, and high-agency builders who want to adopt AI without giving up rigor. The point of view is simple: the teams that win with AI are not the ones with the flashiest prompts. They are the ones with the clearest metrics, strongest operating habits, safest review loops, and most disciplined leadership cadence.
 
-| Public proof | Why it matters |
+| Public signal | Why it matters |
 | --- | --- |
 | `600+` blog posts | Long-running public writing archive on analytics, data science, BI, and data leadership |
 | `2M+` visitors | Public evidence that the ideas have been refined in the open over time |
@@ -17,24 +17,24 @@ AI+Data is a public working repo for Chief Data Officers, heads of data, analyti
 - It focuses on repeatable operating patterns that teams can actually roll out.
 - It stays public-safe by design: generalized lessons, synthetic examples, no company internals.
 
-## PARA Repo Structure
+## Repo Structure
 
-This repo is now organized around actionability first, inspired by the PARA method's split between active projects, ongoing areas, reusable resources, and archives.
+This repo is organized around actionability first: active projects, ongoing areas, reusable resources, and archives.
 
-| PARA layer | Use it when | Start here |
+| Layer | Use it when | Start here |
 | --- | --- | --- |
 | Projects | You want a concrete outcome to ship | [`projects/README.md`](./projects/README.md) |
 | Areas | You want the ongoing leadership standards | [`areas/README.md`](./areas/README.md) |
 | Resources | You want the full library of playbooks, toolkits, examples, and research | [`resources/README.md`](./resources/README.md) |
 | Archives | You want retired material or historical context | [`archives/README.md`](./archives/README.md) |
 
-Existing public paths such as `docs/`, `playbooks/`, `toolkits/`, and `examples/` remain stable. The PARA layer is the navigation system on top.
+Existing public paths such as `docs/`, `playbooks/`, `toolkits/`, and `examples/` remain stable. The project and area folders are the outcome-oriented navigation layer on top.
 
-## Executive Packet
+## Executive Reading Path
 
-If you are evaluating the repo quickly, start with [`docs/executive-packet.md`](./docs/executive-packet.md).
+If you are evaluating the repo quickly, start with [`docs/executive-reading-path.md`](./docs/executive-reading-path.md).
 
-It gives a 30-minute path through the thesis, proof ladder, CDO operating model, 10-metric trust-layer pilot, sample monthly review, decision memo loop, and claims ledger.
+It gives a 30-minute path through the thesis, evidence map, CDO operating model, 10-metric trust-layer pilot, sample monthly review, decision memo loop, and evidence ledger.
 
 ## Signature Artifacts
 
@@ -42,22 +42,24 @@ These are the highest-signal entry points if you want the executive layer, not j
 
 | Artifact | Why start here |
 | --- | --- |
-| [`docs/executive-packet.md`](./docs/executive-packet.md) | The shortest skeptical-reader path through the repo |
+| [`docs/executive-reading-path.md`](./docs/executive-reading-path.md) | The fastest executive path through the repo |
 | [`docs/how-i-lead.md`](./docs/how-i-lead.md) | Public-safe operating principles for how Paras approaches data leadership, AI adoption, team design, and trust |
 | [`docs/cdo-operating-system.md`](./docs/cdo-operating-system.md) | A signature CDO artifact: 90-day roadmap, KPI tree, governance model, and operating cadence |
 | [`docs/ai-adoption-board-brief.md`](./docs/ai-adoption-board-brief.md) | A one-page executive brief for reporting AI adoption progress, risk, and next decisions |
 | [`docs/sample-monthly-cdo-review.md`](./docs/sample-monthly-cdo-review.md) | A synthetic board-ready example with fake but realistic metrics |
 | [`projects/ten-metric-trust-layer-pilot.md`](./projects/ten-metric-trust-layer-pilot.md) | A concrete pilot for making recurring metric questions safer and faster |
 | [`projects/decision-memo-operating-loop.md`](./projects/decision-memo-operating-loop.md) | A reusable loop from AI-assisted answer to executive decision |
-| [`docs/what-this-repo-proves.md`](./docs/what-this-repo-proves.md) | A skeptical evaluator's guide to what this repo demonstrates directly versus what still requires deeper diligence |
-| [`docs/external-proof-of-impact.md`](./docs/external-proof-of-impact.md) | The strongest public evidence outside the repo that supports real operating scope, outcome signals, and external recognition |
-| [`docs/claims-ledger.md`](./docs/claims-ledger.md) | Claim-by-claim evidence strength, caveats, and exclusions |
+| [`docs/evidence-and-scope.md`](./docs/evidence-and-scope.md) | A map of repo artifacts, external evidence, and public boundaries |
+| [`docs/external-evidence-of-impact.md`](./docs/external-evidence-of-impact.md) | The strong public evidence outside the repo that supports real operating scope, outcome signals, and external recognition |
+| [`docs/evidence-ledger.md`](./docs/evidence-ledger.md) | Public statement, source, evidence strength, and caveat mapping |
 
-## What This Repo Proves
+## Evidence And Scope
 
-This repo is meant to be legible to a skeptical operator, not just a sympathetic reader.
+The repo starts from a hypothesis:
 
-It proves:
+**AI-native data leadership is less about isolated tools and more about trusted metrics, operating cadence, review habits, and decision-ready communication.**
+
+It lays out that hypothesis through:
 
 - a coherent operator thesis for AI-native data leadership
 - concrete executive artifacts, not just opinion pieces
@@ -65,10 +67,10 @@ It proves:
 - explicit public-safety and source-discipline standards
 - stronger public evidence outside the repo than writing alone
 
-If you want the direct proof-versus-inference read, start with [`docs/what-this-repo-proves.md`](./docs/what-this-repo-proves.md).
-If you want the strongest public evidence outside the repo, read [`docs/external-proof-of-impact.md`](./docs/external-proof-of-impact.md).
+If you want the artifact and evidence map, start with [`docs/evidence-and-scope.md`](./docs/evidence-and-scope.md).
+If you want the strong public evidence outside the repo, read [`docs/external-evidence-of-impact.md`](./docs/external-evidence-of-impact.md).
 
-That external proof now includes a third-party case study with measurable operating outcomes, official professional recognition, and public company-authored scope evidence.
+That external evidence includes a third-party case study with measurable operating outcomes, official professional recognition, and public company-authored scope evidence.
 
 ## Public-Safe Case Studies
 
@@ -136,7 +138,7 @@ flowchart TD
 
 ## Hands-On Example
 
-The best first proof is not a giant platform build. It is a safe, repeatable workflow.
+The best first demonstration is not a giant platform build. It is a safe, repeatable workflow.
 
 Start with [`examples/synthetic-funnel/README.md`](./examples/synthetic-funnel/README.md). It walks through the full loop on synthetic data:
 
@@ -175,14 +177,14 @@ The public-safe versions of those patterns live in [`docs/public-safe-impact-pat
 | [`playbooks/README.md`](./playbooks/README.md) | Guided index of reusable operating patterns for AI-native data work |
 | [`toolkits/README.md`](./toolkits/README.md) | Guided index of rollout checklists, scorecards, and reusable templates |
 | [`examples/README.md`](./examples/README.md) | Guided index of synthetic, public-safe walkthroughs |
-| [`docs/README.md`](./docs/README.md) | Guided index of signature artifacts, proof, sources, and publication guardrails |
+| [`docs/README.md`](./docs/README.md) | Guided index of signature artifacts, evidence, sources, and publication guardrails |
 
 ## Public-Safety Promise
 
 - No company-specific strategy, SQL, schemas, dashboards, or internal identifiers
 - No customer, employee, or candidate data
 - No private operating docs pasted into public files
-- No claims that depend on private context
+- No statements that depend on private context
 
 See [`docs/repo-privacy-policy.md`](./docs/repo-privacy-policy.md), [`docs/publication-safety-checklist.md`](./docs/publication-safety-checklist.md), and [`docs/public-source-inventory.md`](./docs/public-source-inventory.md).
 

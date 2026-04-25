@@ -46,7 +46,7 @@ Score each area from 1 to 5.
 3 = progress is discussed occasionally with some structure
 5 = leadership reviews AI adoption through a repeatable brief covering impact, trust, leverage, and next decisions
 
-## 8. Proof Of Business Impact
+## 8. Business Impact Evidence
 
 1 = there is energy, but little measurable outcome
 3 = a few visible wins exist
@@ -89,7 +89,7 @@ Curate the trusted dashboards, queries, and examples AI should prefer.
 
 Use a one-page board brief so leadership can review progress without falling into a tooling demo.
 
-### If your weakest area is Proof Of Business Impact
+### If your weakest area is Business Impact Evidence
 
 Measure one recurring workflow end to end: baseline time, error classes, adoption, and decision speed.
 

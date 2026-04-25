@@ -1,10 +1,10 @@
-# External Proof Of Impact
+# External Evidence Of Impact
 
-This page collects the strongest **public, sourceable, externally visible signals** that raise confidence in the operating perspective behind this repo.
+This page collects **public, sourceable, externally visible signals** connected to the operating perspective behind this repo.
 
 It is intentionally conservative.
 
-The goal is not to claim more than the public record supports. The goal is to show that this repo is connected to real operating scope, measurable outcomes, and external peer recognition.
+The sources below connect the repo's themes to public evidence of operating scope, measurable outcomes, and external peer recognition.
 
 ## How To Read This Page
 
@@ -12,7 +12,7 @@ Not all public sources carry the same weight.
 
 - official company or professional-body sources carry the most weight
 - third-party case studies can provide strong evidence, especially when they include concrete metrics
-- self-authored bios can be useful context, but they should not be treated as independent proof
+- self-authored bios can be useful context, but they should not be treated as independent evidence
 
 ## Strongest External Signals
 
@@ -37,7 +37,7 @@ Publicly reported outcomes:
 
 Caveat:
 
-This is a vendor-authored case study, so it should be read as a strong third-party proof point, not an audited filing.
+This is a vendor-authored case study, so it should be read as a third-party evidence point, not an audited filing.
 
 ### 2. Official external professional recognition tied to senior operating scope
 
@@ -72,7 +72,7 @@ What it supports:
 
 - direct involvement in a real AI-native operating problem
 - meaningful technical and business complexity
-- public proof that the perspective in this repo maps to a live production domain
+- public evidence that the perspective in this repo maps to a live production domain
 
 What the article states publicly:
 
@@ -82,7 +82,7 @@ What the article states publicly:
 
 Caveat:
 
-This is company-authored and Paras-authored, so it is best used as scope proof rather than independent outcome proof.
+This is company-authored and Paras-authored, so it is best used as scope evidence rather than independent outcome evidence.
 
 ## Additional External Signals
 
@@ -99,7 +99,7 @@ What it supports:
 
 Caveat:
 
-This is a community leadership signal, not business outcome proof.
+This is a community leadership signal, not business outcome evidence.
 
 ### 5. Official awards and judging roles
 
@@ -117,9 +117,9 @@ Caveat:
 
 Awards help with external credibility, but they are weaker than operating results and should stay secondary to outcome evidence.
 
-## Useful But Not Independent Proof
+## Useful Context
 
-These are helpful context sources, but I would not treat them as headline external proof.
+These are helpful context sources, but they should not be treated as headline external evidence.
 
 ### 1. Self-authored public bio
 
@@ -132,29 +132,20 @@ Why it matters:
 - it contains stronger detail on team size, impact, and leadership roles
 - it helps explain the background behind the repo
 
-Why it is not the headline proof:
+Why it is not headline evidence:
 
 - it is self-authored, so it should be treated as context unless corroborated elsewhere
 
-## How This Changes The Read Of The Repo
+## How These Sources Fit
 
-Before adding these sources, a skeptical reader could say:
+The strongest public sources support three kinds of context:
 
-"Strong doctrine, but where is the evidence that this person has operated at real scale?"
+- senior operating scope
+- at least one third-party case study with concrete metrics
+- external recognition beyond the repo itself
 
-After adding them, the fairer read becomes:
+The sources do not replace interviews, references, or deeper diligence. They simply make the public record easier to inspect.
 
-- there is public evidence of senior operating scope
-- there is at least one third-party case study with concrete metrics
-- there is external recognition beyond the repo itself
-- the remaining gap is still enterprise outcome density, not credibility from scratch
+## Source Boundary
 
-## Bottom Line
-
-The repo still should not pretend to provide audited business proof.
-
-But the public record is now strong enough to support a more confident claim:
-
-This is not only a thoughtful public operating model.
-
-It is a public operating model with visible links to real-world data leadership, measurable platform outcomes, and external peer recognition.
+These are public sources, not confidential internal records or audited business filings. Vendor-authored and self-authored sources are labeled with caveats so readers can weight them appropriately.
