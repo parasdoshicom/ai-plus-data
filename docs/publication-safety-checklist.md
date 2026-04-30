@@ -39,6 +39,13 @@ Run this before committing or publishing new material to this repo.
 - [ ] Each document can stand on its own without internal repo knowledge
 - [ ] Claims are framed carefully and do not overstate what AI can do
 
+## Voice Quality
+
+- [ ] No throat-clearing openers such as "here's why," "this matters because," or "it's worth noting"
+- [ ] No formulaic contrasts such as "not just X" or "less about X and more about Y"
+- [ ] No filler intensifiers such as "actually," "really," "simply," or "fundamentally"
+- [ ] Sentences name the actor, action, and evidence instead of announcing importance
+
 ## Final Review Question
 
 If this file were posted publicly under Paras's name today, would it be safe, understandable, and professionally comfortable to stand behind? If not, revise before publishing.

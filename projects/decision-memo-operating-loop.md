@@ -65,7 +65,7 @@ This project turns recurring analysis into an operating loop:
 
 A strong decision memo:
 
-- names the actual decision, not just the topic
+- names the decision and the topic
 - separates known facts from inference
 - cites the trusted source path
 - includes freshness, caveats, and validation status

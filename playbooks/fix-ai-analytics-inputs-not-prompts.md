@@ -20,7 +20,7 @@ The operating rule is simple: fix ambiguity upstream before scaling AI downstrea
 
 ## What AI Actually Needs
 
-AI does not just need access to data. It needs access to structured, trusted inputs:
+AI needs access to structured, trusted inputs:
 
 - definitions
 - validated query patterns

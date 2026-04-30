@@ -27,7 +27,7 @@ What it supports:
 
 - stronger data trust and discoverability
 - better analytics operating efficiency
-- real platform and governance improvement, not just conceptual leadership
+- real platform and governance improvement
 
 Publicly reported outcomes:
 
@@ -71,7 +71,7 @@ Source:
 
 What it supports:
 
-- direct involvement in a real AI-native operating problem
+- direct involvement in an AI-native operating problem
 - meaningful technical and business complexity
 - public evidence that the perspective in this repo maps to a live production domain
 
@@ -87,7 +87,22 @@ This is company-authored and Paras-authored, so it is best used as scope evidenc
 
 ## Additional External Signals
 
-### 4. Peer recognition in senior data leadership communities
+### 4. Public EB-1A approval statement
+
+Source:
+
+- [LinkedIn post on EB-1A approval](https://www.linkedin.com/posts/doshiparas_grateful-and-relieved-to-share-that-my-eb1a-ugcPost-7454617735592017921-p7_s)
+
+What it supports:
+
+- public statement that Paras received EB-1A approval in Data & AI
+- public context for extraordinary-ability recognition
+
+Caveat:
+
+This is a self-authored public post, so it should be treated as public credential context, not independent third-party evaluation.
+
+### 5. Peer recognition in senior data leadership communities
 
 Source:
 
@@ -102,7 +117,7 @@ Caveat:
 
 This is a community leadership signal, not business outcome evidence.
 
-### 5. Official awards and judging roles
+### 6. Official awards and judging roles
 
 Sources:
 
@@ -145,7 +160,7 @@ The strongest public sources support three kinds of context:
 - at least one third-party case study with concrete metrics
 - external recognition beyond the repo itself
 
-The sources do not replace interviews, references, or deeper diligence. They simply make the public record easier to inspect.
+The sources do not replace interviews, references, or deeper diligence. They make the public record easier to inspect.
 
 ## Source Boundary
 

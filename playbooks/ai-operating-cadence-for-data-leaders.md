@@ -20,7 +20,7 @@ A stronger pattern treats AI as part of the management system:
 - important answers carry evidence and caveats
 - meetings produce decisions and owners
 - repeated work becomes reusable
-- managers review workflow quality, not just output polish
+- managers review workflow quality and output polish
 
 ## Daily And Weekly Cadence
 

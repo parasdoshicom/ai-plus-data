@@ -6,7 +6,7 @@
 
 - a team is excited about agents but vague on how answers will be trusted
 - the roadmap overweights tooling patterns and underweights operating discipline
-- you need to explain why production AI for data teams is not just an orchestration problem
+- you need to explain why production AI for data teams depends on more than orchestration
 - a book, repo, or vendor pitch is strong on architecture but weak on governance and validation
 
 ## The Core Reframe
@@ -20,7 +20,7 @@ A lot of agent literature focuses on **how the system thinks**:
 - self-critique
 - orchestration
 
-That matters, but data leaders need to focus just as much on **how the system earns trust**:
+Data leaders also need to focus on **how the system earns trust**:
 
 - which metrics are approved
 - which sources are allowed to answer which questions
@@ -78,7 +78,7 @@ Examples:
 
 ### 3. Operating cadence
 The system has to live inside a real management rhythm.
-The question is not just whether an agent can answer, but whether the answer fits the organization's decision process.
+The question is whether the answer fits the organization's decision process.
 
 That means defining:
 
@@ -109,7 +109,7 @@ But for data and analytics workflows, the higher-leverage questions are usually:
 - Which metrics are still too ambiguous for AI-assisted use?
 - Where does validation need to happen?
 - What is the human review rule?
-- Which leadership ritual will actually consume this output?
+- Which leadership ritual will consume this output?
 
 If those answers are weak, better orchestration mostly produces faster uncertainty.
 
@@ -148,11 +148,10 @@ That sequence usually creates more real value than adding another orchestration 
 ## Bottom Line
 
 Agent patterns matter.
-They are just not the moat.
 
 For AI in data work, the differentiator is whether the system can produce answers that are trusted enough to enter real decisions, under clear ownership, with validation and governance built in.
 
-That is why trusted metrics, validation loops, and operating cadence matter more than agent architecture alone.
+Trusted metrics, validation loops, and operating cadence carry more weight than agent architecture alone.
 
 ## Related Next Reads
 

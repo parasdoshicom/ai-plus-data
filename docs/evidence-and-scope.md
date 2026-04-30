@@ -4,7 +4,7 @@ This page separates the repo's public artifacts, external evidence, and boundari
 
 The repo is built around a hypothesis:
 
-**AI-native data leadership is less about isolated tools and more about trusted metrics, operating cadence, review habits, and decision-ready communication.**
+**AI-native data leadership depends on trusted metrics, operating cadence, review habits, and decision-ready communication.**
 
 The files below lay out that hypothesis through operating artifacts, playbooks, examples, and public sources.
 
@@ -12,9 +12,9 @@ The files below lay out that hypothesis through operating artifacts, playbooks, 
 
 The repo has a consistent point of view:
 
-- AI adoption is an operating-model problem, not a prompt-hacking problem
+- AI adoption is an operating-model problem
 - trust, validation, and governance belong in the core design
-- data leadership should connect workflows to decisions, not just output
+- data leadership should connect workflows to decisions
 
 See:
 
@@ -107,7 +107,7 @@ This repo is **not**:
 - a public record of confidential business outcomes
 - a substitute for references, interviews, or deeper diligence
 
-It also does not state that every pattern here was deployed exactly as written at one specific company. The public version is intentionally generalized and rewritten for safety.
+The repo does not state that every pattern here was deployed exactly as written at one specific company. The public version is generalized and rewritten for safety.
 
 ## Evidence Ladder
 

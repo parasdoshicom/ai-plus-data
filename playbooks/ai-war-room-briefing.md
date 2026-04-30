@@ -1,6 +1,6 @@
 # AI War Room Briefing
 
-When a team asks, "What changed this week and what matters?" AI can help produce a sharp operating briefing, not just a pile of charts.
+When a team asks, "What changed this week and what matters?" AI can help produce a sharp operating briefing from the chart stack.
 
 This playbook generalizes a pattern for fast, repeatable weekly or daily performance briefings.
 
@@ -42,7 +42,7 @@ A solid AI war room briefing usually combines:
 ## Operating Principles
 
 - Use trusted metrics only.
-- Compare against a stable benchmark, not just yesterday.
+- Compare against a stable benchmark and yesterday.
 - Distinguish noise from durable movement.
 - Keep the output short enough to read in a standup.
 - Link every observation to a next action when possible.
@@ -82,4 +82,4 @@ Where to focus:
 3. first-step funnel friction introduced this week
 ```
 
-The briefing should help a team act, not just observe.
+The briefing should help a team act.

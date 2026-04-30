@@ -42,7 +42,7 @@ Use this checklist to move from scattered AI experiments to a real team operatin
 - [ ] Managers know where AI should be encouraged
 - [ ] Managers know where human review is mandatory
 - [ ] Managers can evaluate whether output quality is improving
-- [ ] Managers can coach better workflow design, not just better prompts
+- [ ] Managers can coach better workflow design and better prompts
 
 ## 7. Avoid the Common Traps
 

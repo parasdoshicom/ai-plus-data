@@ -7,7 +7,7 @@
 - an agent pilot has a semantic layer but still answers very little
 - the system finds a metric name but applies the wrong filters, joins, or date logic
 - teams assume semantic modeling alone will remove hallucinations
-- you need a practical rollout sequence, not just a statement that semantics matter
+- you need a practical rollout sequence beyond a statement that semantics matter
 
 ## Why Early Semantic-Layer Pilots Fail
 
@@ -33,7 +33,7 @@ Track at least three outcomes:
 - unanswered
 - wrong
 
-This matters because a semantic layer can improve one failure mode while worsening another. A drop in unanswered questions is not enough if wrong answers rise at the same time.
+A semantic layer can improve one failure mode while worsening another. A drop in unanswered questions is not enough if wrong answers rise at the same time.
 
 ### 2. Expand semantic coverage first
 

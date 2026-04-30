@@ -51,9 +51,20 @@ The packet is intentionally small. It should be readable by a business owner, a 
 
 List the recurring questions this metric should answer and the source path AI should use first.
 
-| Recurring question | Approved source path | Clarify first? | Trust state |
-| --- | --- | --- | --- |
-|  |  |  |  |
+| Recurring question | Approved source path | Clarify first? | Answer state | Review status |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+
+## Answer State Rules
+
+Use these states when reviewing answers:
+
+| State | Use when | Required action |
+| --- | --- | --- |
+| Verified | The answer matches the approved path and validation rule | Save for reuse |
+| Clarify | The question lacks grain, period, segment, or metric definition | Ask a narrowing question |
+| Unanswered | The packet does not contain enough trusted context | Route to owner or backlog |
+| Wrong | The answer conflicts with a benchmark, caveat, or owner review | Block reuse and repair the packet |
 
 ## Eval Questions
 

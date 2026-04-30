@@ -7,7 +7,7 @@
 
 ## Working Thesis
 
-The useful story is not "AI replaced the data team." The stronger story is: AI only compounds when the company has already done the unglamorous trust work: shared definitions, semantic domains, dashboard hygiene, verification loops, and a talent model that shifts data teams from report production to decision-system ownership.
+AI compounds only when the company has already done the unglamorous trust work: shared definitions, semantic domains, dashboard hygiene, verification loops, and a talent model that shifts data teams from report production to decision-system ownership.
 
 ## Clean Source Notes
 
@@ -15,7 +15,7 @@ The useful story is not "AI replaced the data team." The stronger story is: AI o
 - The AI adoption story depended on previous foundations: semantic layers, metric definitions, dashboard trust signals, and better data model ownership.
 - A key distinction emerged between the AI front end and the deterministic back end: allow experimentation in user-facing tools while keeping metric definitions, semantic domains, and trusted query logic stable.
 - The verification problem changed shape. Before AI, stakeholders asked data teams to produce reports. After AI, stakeholders increasingly ask data teams to validate AI-assisted analysis.
-- Trusted dashboards and known-good references became part of the AI verification loop. The point is not only to give people answers, but to help them build confidence in the answer.
+- Trusted dashboards and known-good references became part of the AI verification loop. The point is to give people answers and help them build confidence in the answer.
 - Power users can compound adoption by creating reusable skills or local workflows once they learn the right verification patterns.
 - The role of the data team shifts upward: fewer low-value report requests, more responsibility for high-stakes decision systems, instrumentation, governance, and escalation paths.
 - Model choice and harness choice should be architectural decisions, not ideology. The durable skill is building a system where models can be swapped as economics, latency, capability, and privacy constraints change.
@@ -24,7 +24,7 @@ The useful story is not "AI replaced the data team." The stronger story is: AI o
 
 ## Blog Angles
 
-1. **AI did not remove the data team. It moved the bottleneck.**
+1. **AI moved the data-team bottleneck.**
    - Core idea: the work moved from producing numbers to certifying decision systems.
    - Useful line: "The ticket changed from 'give me the number' to 'tell me whether this AI-generated answer can be trusted.'"
 
@@ -50,7 +50,7 @@ The useful story is not "AI replaced the data team." The stronger story is: AI o
 
 ## Strongest First Blog Candidate
 
-**Title:** AI Did Not Kill the Data Team. It Changed What the Data Team Is For.
+**Title:** AI Changed What the Data Team Is For.
 
 **Argument:**
 

@@ -38,7 +38,7 @@ AI analytics and AI-assisted decision support amplify whatever enters the system
 
 If ingestion quality is weak, AI can make wrong answers easier to generate, distribute, and trust by mistake.
 
-Clean inputs are not just a data engineering concern.
+Clean inputs are a leadership concern.
 They are a prerequisite for safe AI leverage.
 
 ## A practical three-layer model

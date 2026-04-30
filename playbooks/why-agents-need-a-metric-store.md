@@ -33,7 +33,7 @@ The metric store sits between raw discovery and final answers.
 
 It may not capture:
 
-- query recipes analysts actually trust
+- query recipes analysts trust
 - context-specific exclusions
 - approved behavior for recurring executive questions
 - which valid source should win when more than one exists

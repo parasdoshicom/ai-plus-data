@@ -16,7 +16,7 @@ If a data leader adopts only one principle from this memo, it should be this: **
 
 ---
 
-## What top data teams are actually doing: top 10 practices
+## What Top Data Teams Are Doing: Top 10 Practices
 
 ### 1) Putting AI on top of a semantic layer, not raw tables
 This is the clearest cross-platform pattern. Snowflake pushes Semantic Views + Cortex Analyst; Microsoft pushes Copilot on semantic models; dbt pushes the Semantic Layer; Databricks grounds Genie using Unity Catalog metadata and curated assets.
@@ -25,7 +25,7 @@ Why it matters:
 - reduces synonym/aggregation ambiguity
 - creates one place for metric definitions
 - makes NL query experiences less brittle
-- lets data teams improve answers by improving metadata/modeling, not just prompts
+- lets data teams improve answers by improving metadata and modeling
 
 Operator implication: before rolling out AI broadly, decide which models/metrics are trusted enough to expose.
 
@@ -95,7 +95,7 @@ Sources:
 - Databricks Genie Code: https://docs.databricks.com/aws/en/notebooks/code-assistant
 
 ### 7) Making AI permission-aware and privacy-reviewable
-Strong teams care less about "which model is smartest" and more about: what context is sent, whether prompts are retained, whether access controls are honored, and where chat history lives.
+Strong teams prioritize context quality, prompt retention, access controls, and chat-history location over model leaderboard rank.
 
 Databricks documents zero-retention model endpoints, Unity Catalog permission respect, and stored chat/response behavior. Microsoft and Snowflake similarly center governed enterprise surfaces, not consumer-grade chat sprawl.
 
@@ -236,7 +236,7 @@ Examples:
    Teams can accidentally create multiple AI-assisted definitions of the same KPI unless the metric layer is authoritative.
 
 3. **Permission leakage via context gathering**  
-   The failure is not just output leakage; it is also sending excess context upstream.
+   The failure includes output leakage and excess context sent upstream.
 
 4. **Unreviewed code/model changes**  
    Agent mode and auto-fix workflows can create subtle regressions.
@@ -245,7 +245,7 @@ Examples:
    Warehouse-wide AI chat before domain curation leads to embarrassing answers and rapid trust loss.
 
 6. **No local measurement**  
-   Without local impact metrics, the team can neither defend spend nor identify where AI actually helps.
+   Without local impact metrics, the team can neither defend spend nor identify where AI helps.
 
 7. **Prompt theater**  
    Teams spend energy on clever prompts while ignoring the higher-leverage work: model quality, metadata, permissions, and review gates.
@@ -271,7 +271,7 @@ Before broad rollout, require:
 
 ## Recommended adoption plan for a strong data team
 
-Use this as an **operator-grade playbook**, not a generic AI landscape map.
+Use this as an **operator-grade playbook**, not a generic AI market map.
 
 ### This week
 Goal: stand up the minimum practical operating layer.

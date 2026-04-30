@@ -2,19 +2,20 @@
 
 Operator-grade playbooks for AI-native data leadership.
 
-AI+Data is a public working repo for Chief Data Officers, heads of data, analytics leaders, and high-agency builders who want to adopt AI without giving up rigor. The point of view is simple: the teams that win with AI are not the ones with the flashiest prompts. They are the ones with the clearest metrics, strongest operating habits, safest review loops, and most disciplined leadership cadence.
+AI+Data is a public working repo for Chief Data Officers, heads of data, analytics leaders, and high-agency builders adopting AI with rigor. The thesis: data teams earn AI leverage through clear metrics, strong operating habits, safe review loops, and disciplined leadership cadence.
 
 | Public signal | Why it matters |
 | --- | --- |
 | `600+` blog posts | Long-running public writing archive on analytics, data science, BI, and data leadership |
 | `2M+` visitors | Public evidence that the ideas have been refined in the open over time |
 | `5K+` followers | Community traction around the writing and operating perspective |
+| `EB-1A` approval | Public signal of extraordinary-ability recognition in Data & AI, shared by Paras on [LinkedIn](https://www.linkedin.com/posts/doshiparas_grateful-and-relieved-to-share-that-my-eb1a-ugcPost-7454617735592017921-p7_s) |
 
 ## What Makes This Repo Different
 
-- It is built for data leaders, not just prompt tinkerers.
+- It is built for data leaders who own adoption, quality, and outcomes.
 - It treats trust, validation, and governance as part of AI adoption, not cleanup work.
-- It focuses on repeatable operating patterns that teams can actually roll out.
+- It focuses on repeatable operating patterns that teams can roll out.
 - It stays public-safe by design: generalized lessons, synthetic examples, no company internals.
 
 ## Repo Structure
@@ -38,7 +39,7 @@ It gives a 30-minute path through the thesis, evidence map, CDO operating model,
 
 ## Signature Artifacts
 
-These are the highest-signal entry points if you want the executive layer, not just the tactical layer.
+These are the best entry points for the executive layer.
 
 | Artifact | Why start here |
 | --- | --- |
@@ -57,12 +58,12 @@ These are the highest-signal entry points if you want the executive layer, not j
 
 The repo starts from a hypothesis:
 
-**AI-native data leadership is less about isolated tools and more about trusted metrics, operating cadence, review habits, and decision-ready communication.**
+**AI-native data leadership depends on trusted metrics, operating cadence, review habits, and decision-ready communication.**
 
 It lays out that hypothesis through:
 
 - a coherent operator thesis for AI-native data leadership
-- concrete executive artifacts, not just opinion pieces
+- executive artifacts with reusable structure
 - practical workflow judgment around validation and trust
 - explicit public-safety and source-discipline standards
 - stronger public evidence outside the repo than writing alone
@@ -74,7 +75,7 @@ That external evidence includes a third-party case study with measurable operati
 
 ## Public-Safe Case Studies
 
-These are concise, sanitized case-study style walkthroughs that show how the operating patterns change a system, not just a document.
+These concise, sanitized case-study style walkthroughs show how operating patterns change a system.
 
 | Case study | What changed |
 | --- | --- |
@@ -123,7 +124,7 @@ flowchart TD
 | Decide what context an agent should trust | [`playbooks/why-agents-need-a-metric-store.md`](./playbooks/why-agents-need-a-metric-store.md) |
 | Roll AI out across a team safely | [`toolkits/data-team-ai-rollout-checklist.md`](./toolkits/data-team-ai-rollout-checklist.md) |
 | Create a leader-level operating cadence | [`playbooks/durable-priorities-for-ai-native-data-leadership.md`](./playbooks/durable-priorities-for-ai-native-data-leadership.md) |
-| Assess whether you have a real AI operating model | [`toolkits/cdo-ai-operating-system-self-assessment.md`](./toolkits/cdo-ai-operating-system-self-assessment.md) |
+| Assess whether you have a durable AI operating model | [`toolkits/cdo-ai-operating-system-self-assessment.md`](./toolkits/cdo-ai-operating-system-self-assessment.md) |
 
 ## Featured Playbooks
 
@@ -135,11 +136,11 @@ flowchart TD
 | [`playbooks/semantic-layer-is-the-trust-layer.md`](./playbooks/semantic-layer-is-the-trust-layer.md) | Frames the semantic layer as trust infrastructure for AI analytics |
 | [`playbooks/why-agents-need-a-metric-store.md`](./playbooks/why-agents-need-a-metric-store.md) | Adds the missing layer between discovery and approved answers for conversational analytics |
 | [`playbooks/durable-priorities-for-ai-native-data-leadership.md`](./playbooks/durable-priorities-for-ai-native-data-leadership.md) | Highlights the durable operating priorities that matter even as tools change |
-| [`playbooks/agent-patterns-are-table-stakes-trust-is-the-differentiator.md`](./playbooks/agent-patterns-are-table-stakes-trust-is-the-differentiator.md) | Explains why trusted metrics, validation loops, and operating cadence matter more than agent architecture alone |
+| [`playbooks/agent-patterns-are-table-stakes-trust-is-the-differentiator.md`](./playbooks/agent-patterns-are-table-stakes-trust-is-the-differentiator.md) | Explains why trusted metrics, validation loops, and operating cadence carry more weight than agent architecture |
 
 ## Hands-On Example
 
-The best first demonstration is not a giant platform build. It is a safe, repeatable workflow.
+The best first demonstration is a safe, repeatable workflow.
 
 Start with [`examples/synthetic-funnel/README.md`](./examples/synthetic-funnel/README.md). It walks through the full loop on synthetic data:
 
@@ -159,7 +160,7 @@ Additional synthetic examples:
 
 ## What Better Looks Like
 
-The strongest data leaders do more than ship analysis. They redesign the system around the analysis.
+Effective data leaders redesign the system around the analysis.
 
 - They replace reactive reporting with decision-ready operating cadences.
 - They replace fragmented analytics with shared definitions, ownership, and trust signals.
@@ -191,7 +192,7 @@ See [`docs/repo-privacy-policy.md`](./docs/repo-privacy-policy.md), [`docs/publi
 
 ## About Paras
 
-AI+Data is curated by Paras Doshi (`parasdoshi`). The perspective here is intentionally operator-led: write down the patterns a strong data leader would actually use to help a team adopt AI responsibly, then publish only the public-safe version. More on the editorial lens lives in [`docs/founder.md`](./docs/founder.md).
+AI+Data is curated by Paras Doshi (`parasdoshi`), an EB-1A green-card holder in Data & AI. The perspective comes from operating work: write down the patterns a strong data leader would use to help a team adopt AI responsibly, then publish only the public-safe version. More on the editorial lens lives in [`docs/founder.md`](./docs/founder.md).
 
 ## Further Reading From Paras
 

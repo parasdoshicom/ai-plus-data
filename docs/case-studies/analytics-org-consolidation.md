@@ -13,7 +13,7 @@ Symptoms:
 
 ## Intervention
 
-The operating change is not just an org chart change. It includes:
+The operating change includes:
 
 1. consolidating overlapping functions around shared priorities
 2. defining where central standards matter most
@@ -82,7 +82,7 @@ If you run this change for real, track:
 
 ## Transferable Lesson
 
-Org design matters because AI and self-serve work best when the trusted surfaces, standards, and ownership model are legible. Consolidation is valuable when it increases coherence, not just control.
+AI and self-serve work best when the trusted surfaces, standards, and ownership model are legible. Consolidation is valuable when it increases coherence without turning into central control.
 
 ## Related Reads
 
