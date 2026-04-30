@@ -2,16 +2,18 @@
 
 AI+Data is curated by Paras Doshi (`parasdoshi`).
 
+Paras is an EB-1A green-card holder in Data & AI. He shared the approval publicly on [LinkedIn](https://www.linkedin.com/posts/doshiparas_grateful-and-relieved-to-share-that-my-eb1a-ugcPost-7454617735592017921-p7_s).
+
 This repo is built around an operator thesis:
 
 - AI should increase the leverage of strong data teams, not bypass judgment
 - adoption matters more than novelty
 - trust is earned through validation, ownership, and clear operating habits
-- leadership quality shows up in systems, not just in tools
+- leadership quality shows up in systems and tools
 
 ## Editorial Principles
 
-- Publish patterns that a strong CDO, head of data, or analytics leader could actually use next week
+- Publish patterns that a strong CDO, head of data, or analytics leader could use next week
 - Prefer repeatable operating models over isolated prompt tricks
 - Keep examples concrete enough to be useful, but generalized enough to stay public-safe
 - Treat governance, review, and trust as first-class parts of AI adoption
@@ -33,6 +35,7 @@ This repo is built around an operator thesis:
 ## Public Credibility
 
 - [Insight Extractor archive](https://insightextractor.com/list-of-all-blog-posts-by-paras-doshi/)
+- [EB-1A approval announcement](https://www.linkedin.com/posts/doshiparas_grateful-and-relieved-to-share-that-my-eb1a-ugcPost-7454617735592017921-p7_s)
 - [Institute of Analytics Fellow profile](https://ioaglobal.org/ioa-fellows/paras-doshi/)
 - [Select Star case study on Opendoor's analytics transformation](https://www.selectstar.com/resources/amazon-quicksight-self-service-analytics)
 - [Opendoor article on AI home valuations](https://www.opendoor.com/articles/how-data-powers-opendoors-home-valuations)

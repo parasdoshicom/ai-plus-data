@@ -8,7 +8,7 @@ Before:
 
 - weekly reviews are reactive
 - teams spend too much time answering ad-hoc questions
-- no one is clear on which metrics actually matter
+- no one is clear on which metrics matter
 
 After:
 
@@ -56,7 +56,7 @@ After:
 
 - decisions are grounded in clearer scenario logic
 - tradeoffs become explicit
-- analytics becomes a planning system, not just a measurement function
+- analytics becomes a planning system and measurement function
 
 ## 5. From manual dependency to self-serve leverage
 

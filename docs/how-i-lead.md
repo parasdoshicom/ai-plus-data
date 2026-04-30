@@ -4,7 +4,7 @@ This page is a public-safe synthesis of recurring themes behind the work in this
 
 ## Core Belief
 
-Strong data leadership is not about owning more dashboards or shipping more models. It is about building systems that help the organization make better decisions, more consistently, under real operating pressure.
+Strong data leaders build systems that help the organization make better decisions under real operating pressure.
 
 ## Operating Principles
 
@@ -14,7 +14,7 @@ The goal is not insight for its own sake. The goal is to build repeatable system
 
 ### 2. Translate complexity into executive clarity
 
-Great data leaders do not hide behind technical nuance. They convert complexity into decision-ready frameworks that executives can actually use.
+Great data leaders convert technical nuance into decision-ready frameworks executives can use.
 
 ### 3. Build trust before scale
 
@@ -28,7 +28,7 @@ The best operators reduce dependence on one-off heroics. They codify reusable pa
 
 Reliability, quality, and observability are not back-office concerns. When the data foundation is weak, decision quality erodes. Strong leaders protect the foundation.
 
-### 6. Lead cross-functionally, not just vertically
+### 6. Lead across functions
 
 The highest-leverage data work sits at the intersection of analytics, engineering, product, finance, marketing, and operations. Influence across functions matters as much as depth within one function.
 
@@ -36,13 +36,13 @@ The highest-leverage data work sits at the intersection of analytics, engineerin
 
 A good operator takes an abstract strategic goal and turns it into clear metrics, review cadences, ownership, and tradeoff frameworks.
 
-### 8. Build leaders, not just output
+### 8. Build leaders
 
 A durable data organization compounds through stronger managers, clearer scopes, and a healthy leadership pipeline. Mentorship and team design are part of the job.
 
 ### 9. Prefer systems that improve judgment
 
-A strong analytics system should not just produce answers. It should improve the judgment of the people using it by making assumptions, tradeoffs, and caveats more visible.
+A strong analytics system should improve the judgment of the people using it by making assumptions, tradeoffs, and caveats more visible.
 
 ### 10. Share what works
 

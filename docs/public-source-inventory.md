@@ -8,6 +8,7 @@ This repo combines original writing, generalized operator patterns, and selectiv
 | --- | --- |
 | Insight Extractor has `600+` blog posts, `2M+` visitors, and `5K+` followers | [Insight Extractor archive](https://insightextractor.com/list-of-all-blog-posts-by-paras-doshi/) |
 | Paras has a long-running public writing archive on analytics, BI, data science, and data leadership | [Insight Extractor archive](https://insightextractor.com/list-of-all-blog-posts-by-paras-doshi/) |
+| Paras publicly states EB-1A approval in Data & AI | [LinkedIn post on EB-1A approval](https://www.linkedin.com/posts/doshiparas_grateful-and-relieved-to-share-that-my-eb1a-ugcPost-7454617735592017921-p7_s) |
 | Paras has a public leadership / community signal outside the repo | [Institute of Analytics Fellow profile](https://ioaglobal.org/ioa-fellows/paras-doshi/) |
 | Paras has externally visible outcome evidence beyond self-authored writing | [Select Star case study](https://www.selectstar.com/resources/amazon-quicksight-self-service-analytics), [Opendoor AI valuations article](https://www.opendoor.com/articles/how-data-powers-opendoors-home-valuations), [Evanta CDAO community page](https://aaem-disp.evanta.com/cdao/san-francisco) |
 | Paras has public long-form discussions on strategic data leadership | [High Signal episode](https://highsignal.fireside.fm/27), [data leadership and strategy podcast](https://www.youtube.com/watch?v=q7Mpqm1GVRc&list=PLHow-wjRD8TEX4idQj4bDdNvNer-ar9x7&index=2), [building data teams podcast](https://www.youtube.com/watch?v=DDSKxL_JeLc) |
@@ -23,7 +24,17 @@ This repo combines original writing, generalized operator patterns, and selectiv
 - Conservatively supported statements:
   `600+` blog posts, `2M+` visitors, `5K+` followers, long-running public writing archive.
 
-### 2. Institute of Analytics Fellow profile
+### 2. EB-1A approval announcement
+
+- URL: [https://www.linkedin.com/posts/doshiparas_grateful-and-relieved-to-share-that-my-eb1a-ugcPost-7454617735592017921-p7_s](https://www.linkedin.com/posts/doshiparas_grateful-and-relieved-to-share-that-my-eb1a-ugcPost-7454617735592017921-p7_s)
+- Why it matters:
+  Public post where Paras states EB-1A approval in Data & AI.
+- Conservatively supported statements:
+  Paras publicly states that his EB-1A approval is tied to extraordinary ability in Data & AI.
+- Caveat:
+  Self-authored public post. It should support credential context, not private petition details.
+
+### 3. Institute of Analytics Fellow profile
 
 - URL: [https://ioaglobal.org/ioa-fellows/paras-doshi/](https://ioaglobal.org/ioa-fellows/paras-doshi/)
 - Why it matters:
@@ -31,7 +42,7 @@ This repo combines original writing, generalized operator patterns, and selectiv
 - Conservatively supported statements:
   community / leadership recognition, public-facing credibility beyond the repo.
 
-### 3. High Signal interview
+### 4. High Signal interview
 
 - URL: [https://highsignal.fireside.fm/27](https://highsignal.fireside.fm/27)
 - Title:
@@ -39,19 +50,19 @@ This repo combines original writing, generalized operator patterns, and selectiv
 - Why it matters:
   Public long-form discussion of strategic data leadership themes.
 
-### 4. Podcast appearance: data leadership and strategy
+### 5. Podcast appearance: data leadership and strategy
 
 - URL: [https://www.youtube.com/watch?v=q7Mpqm1GVRc&list=PLHow-wjRD8TEX4idQj4bDdNvNer-ar9x7&index=2](https://www.youtube.com/watch?v=q7Mpqm1GVRc&list=PLHow-wjRD8TEX4idQj4bDdNvNer-ar9x7&index=2)
 - Why it matters:
   Public long-form material on leadership style, strategy, and operating cadence.
 
-### 5. Podcast appearance: building data teams
+### 6. Podcast appearance: building data teams
 
 - URL: [https://www.youtube.com/watch?v=DDSKxL_JeLc](https://www.youtube.com/watch?v=DDSKxL_JeLc)
 - Why it matters:
   Public material on team design, management, and scaling patterns.
 
-### 6. Select Star case study on Opendoor analytics transformation
+### 7. Select Star case study on Opendoor analytics transformation
 
 - URL: [https://www.selectstar.com/resources/amazon-quicksight-self-service-analytics](https://www.selectstar.com/resources/amazon-quicksight-self-service-analytics)
 - Why it matters:
@@ -61,7 +72,7 @@ This repo combines original writing, generalized operator patterns, and selectiv
 - Caveat:
   Vendor-authored case study, so useful as strong third-party evidence but not equivalent to audited company reporting.
 
-### 7. Opendoor article on AI home valuations
+### 8. Opendoor article on AI home valuations
 
 - URL: [https://www.opendoor.com/articles/how-data-powers-opendoors-home-valuations](https://www.opendoor.com/articles/how-data-powers-opendoors-home-valuations)
 - Why it matters:
@@ -71,7 +82,7 @@ This repo combines original writing, generalized operator patterns, and selectiv
 - Caveat:
   Useful as public scope evidence; not independent third-party outcome validation.
 
-### 8. Evanta San Francisco CDAO Community
+### 9. Evanta San Francisco CDAO Community
 
 - URL: [https://aaem-disp.evanta.com/cdao/san-francisco](https://aaem-disp.evanta.com/cdao/san-francisco)
 - Why it matters:
@@ -79,7 +90,7 @@ This repo combines original writing, generalized operator patterns, and selectiv
 - Conservatively supported statements:
   governing body membership alongside senior data and analytics leaders from large enterprises.
 
-### 9. Globee AI Awards official pages
+### 10. Globee AI Awards official pages
 
 - URLs:
   [2025 winners](https://globeeawards.com/2025-winners-artificial-intelligence-awards/),
@@ -127,6 +138,6 @@ This repo intentionally excludes:
 - internal SQL, schemas, and warehouse identifiers
 - customer, employee, candidate, or operational data
 - private dashboards, doc IDs, URLs, or chat links
-- compensation, performance, immigration, or HR-related material
+- compensation, performance, private immigration, or HR-related material
 
 See [`repo-privacy-policy.md`](./repo-privacy-policy.md) and [`publication-safety-checklist.md`](./publication-safety-checklist.md).

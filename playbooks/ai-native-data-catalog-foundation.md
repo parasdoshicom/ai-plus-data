@@ -2,7 +2,7 @@
 
 AI analytics gets dramatically better when the system can ground itself in trusted metadata, metric definitions, lineage, and usage context.
 
-That means a good data and metrics catalog is not just documentation. It becomes part of the execution layer.
+That means a good data and metrics catalog becomes part of the execution layer.
 
 ## Core idea
 
@@ -37,7 +37,7 @@ It gives AI a grounded understanding of:
 - how data moves through the stack
 - which dashboards and models depend on which sources
 - which metric definitions are official
-- what is actually used versus merely documented
+- usage versus documentation
 
 This is why a strong data and metric catalog is foundational for AI analytics.
 
@@ -59,7 +59,7 @@ The system should make it easy to understand:
 
 - the official definition of a KPI
 - acceptable variants and segment cuts
-- business meaning, not just SQL logic
+- business meaning and SQL logic
 - common failure modes behind number mismatches
 
 ### 3. Lineage and impact analysis
@@ -70,7 +70,7 @@ Before changing a table, model, or metric, teams should be able to ask:
 - which downstream teams rely on this asset
 - whether the asset is critical or low-risk
 
-This is where AI becomes genuinely useful: fast blast-radius reasoning on top of trusted lineage.
+This is where AI becomes useful: fast blast-radius reasoning on top of trusted lineage.
 
 ### 4. AI-native access inside workflows
 The catalog becomes much more valuable when it is accessible inside tools people already use for work:
@@ -154,7 +154,7 @@ If the system cannot answer those questions quickly and credibly, the foundation
 
 ## Bottom line
 
-AI analytics is not just about better prompts, better models, or faster SQL generation.
+AI analytics depends on more than better prompts, better models, or faster SQL generation.
 
 It depends on a trustworthy context layer.
 

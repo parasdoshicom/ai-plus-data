@@ -13,7 +13,7 @@ Three dashboards answer versions of the same recurring question:
 | Dashboard | Current use | Issue | Decision |
 | --- | --- | --- | --- |
 | Growth weekly review | Executive and manager review | Uses the approved definition | Keep and bless |
-| Acquisition experiment dashboard | Experiment deep dives | Uses a narrower paid-only population | Keep, relabel as paid acquisition only |
+| Acquisition experiment dashboard | Experiment analysis | Uses a narrower paid-only population | Keep, relabel as paid acquisition only |
 | Legacy signup dashboard | Occasional ad hoc pulls | Uses an old denominator | Deprecate |
 
 ## Review Steps

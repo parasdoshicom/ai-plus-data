@@ -6,7 +6,7 @@ A useful way to understand AI products and internal systems is to separate three
 - a toolkit
 - an operating system
 
-These are not interchangeable.
+They do different jobs.
 
 ## 1. Playbooks and public repos
 
@@ -26,7 +26,7 @@ It is useful for:
 - alignment
 - onboarding people to a point of view
 
-But it is still mostly descriptive.
+But it still mostly describes the work.
 
 ## 2. Toolkits
 
@@ -41,7 +41,7 @@ It usually includes:
 - validation methods
 - examples
 
-A toolkit is more operational than a playbook, but it is still usually bounded to a domain.
+A toolkit is more operational than a playbook, but it usually stays bounded to a domain.
 
 For example, an analytics toolkit may be excellent at:
 
@@ -50,14 +50,13 @@ For example, an analytics toolkit may be excellent at:
 - validating outputs
 - generating charts and narratives
 
-But it may still not manage the broader operating context around the work.
+But it usually does not manage the broader operating context around the work.
 
 ## 3. Operating systems
 
 An operating system coordinates ongoing work across time.
 
-It is not just a collection of artifacts.
-It is a living system with:
+An operating system is a living system with:
 
 - state
 - memory
@@ -67,8 +66,19 @@ It is a living system with:
 - operating rituals
 - prioritization and decision support
 
-It does not just help with one task.
 It helps run the work itself.
+
+The simplest durable version is plain text:
+
+- current priorities
+- open action items
+- decisions
+- domain context
+- people context
+- recurring rituals
+- rules that future AI sessions should respect
+
+The format matters less than the loop. A living system records what changed, reads it back before the next decision, and keeps the work from starting from zero.
 
 ## The practical difference
 
@@ -89,7 +99,7 @@ A polished playbook can look very sophisticated.
 A powerful toolkit can feel like a system.
 But if it does not maintain state, integrate into real workflows, and compound over time, it is not yet an operating system.
 
-## How to evaluate what you really have
+## How To Evaluate The System
 
 Ask a few simple questions.
 
@@ -97,7 +107,7 @@ Ask a few simple questions.
 Does it update state over time, or is it mostly markdown and templates?
 
 ### Does it integrate with real tools?
-Can it pull context from the systems where work actually happens?
+Can it pull context from the systems where work happens?
 
 ### Does it automate recurring rituals?
 Can it support daily, weekly, or event-driven workflows without manual reconstruction every time?
@@ -106,9 +116,9 @@ Can it support daily, weekly, or event-driven workflows without manual reconstru
 Can it carry forward decisions, people context, and lessons learned?
 
 ### Does it help with prioritization and follow-through?
-Can it shape what happens next, not just document what happened?
+Can it shape the next action?
 
-If the answer is mostly no, you probably have a playbook or toolkit, not an operating system.
+If the answer is mostly no, you probably have a playbook or toolkit.
 
 ## Why this distinction matters
 
@@ -136,7 +146,7 @@ Public work can live at the playbook layer.
 Internal systems can live at the operating-system layer.
 Toolkits can bridge the two.
 
-That often turns out to be the right split:
+That is often the right split:
 
 - public repo for ideas and credibility
 - toolkit for reusable execution patterns

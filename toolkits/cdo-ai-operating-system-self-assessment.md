@@ -79,7 +79,7 @@ Document safe data boundaries, review gates, and what must stay human-led.
 
 ### If your weakest area is Manager Operating Capability
 
-Train managers to review workflow quality and trust signals, not just prompt cleverness.
+Train managers to review workflow quality, trust signals, and prompt quality.
 
 ### If your weakest area is Tooling And Context Quality
 

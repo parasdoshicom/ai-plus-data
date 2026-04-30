@@ -34,7 +34,7 @@ Use this when you need to turn broad ambition into a concrete operating system:
 - expand from one workflow to a small portfolio of repeatable use cases
 - tighten dashboard governance and trusted artifact selection
 - expose definitions, context, and approved answer paths to AI workflows
-- coach managers on review quality, not just prompt quality
+- coach managers on review quality and prompt quality
 - decide what to scale, what to pause, and what to redesign
 
 ## KPI Tree
@@ -88,7 +88,7 @@ The minimum viable governance layer should define:
 - where human review is mandatory
 - how deprecated dashboards, metrics, and workflows are retired
 
-The key rule: governance should make safe usage easier, not just block unsafe usage.
+The key rule: governance should make safe usage easier and block unsafe usage.
 
 | Layer | Minimum decision |
 | --- | --- |

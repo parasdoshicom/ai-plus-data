@@ -25,7 +25,7 @@ This is a synthetic example. It uses fake but realistic metrics to show how a CD
 ## What Changed
 
 1. The first pilot domain moved from ad hoc prompting to approved answer paths for most recurring KPI questions.
-2. Managers started reviewing workflow quality, not just final answers.
+2. Managers started reviewing workflow quality and final answers.
 3. Duplicate dashboards were identified as the main source of recurring trust friction.
 4. The team found that caveat language matters as much as SQL correctness for executive use.
 

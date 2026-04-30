@@ -15,7 +15,7 @@ What has not changed is the need for a governed layer that tells both humans and
 - someone argues AI makes semantic models unnecessary
 - teams want conversational analytics on top of raw warehouse sprawl
 - the same KPI still means different things in different dashboards
-- leadership keeps asking which number is actually right
+- leadership keeps asking which number is right
 
 ## What Changed
 
@@ -27,7 +27,7 @@ Before AI, weak metric definitions created confusion in dashboards, spreadsheets
 
 Now the same weakness shows up in chat interfaces, copilots, and agents.
 
-The result is not just wrong answers. It is faster inconsistency.
+The result is faster inconsistency.
 
 ## What Semantic Models Actually Do
 
@@ -51,7 +51,7 @@ They reduce the chance that the system confuses:
 
 A human analyst often carries invisible judgment:
 
-- which source leadership actually trusts
+- which source leadership trusts
 - which segment should be excluded
 - which timezone matters
 - how to treat incomplete periods

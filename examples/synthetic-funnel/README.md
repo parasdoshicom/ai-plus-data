@@ -7,8 +7,8 @@ Everything here is synthetic. The data is made up for demonstration and does not
 ## What This Example Proves
 
 - AI can accelerate a recurring analysis without needing production data
-- reliability comes from question framing and validation, not just generation
-- the final output should be a decision-ready explanation, not just a query
+- reliability comes from question framing and validation
+- the final output should be a decision-ready explanation
 
 ## Files
 
@@ -73,7 +73,7 @@ Run:
 
 Check:
 
-- one row really means one week
+- one row means one week
 - stage conversion math matches expectations
 - the reported driver of decline matches the SQL output
 - no stage is skipped in the explanation

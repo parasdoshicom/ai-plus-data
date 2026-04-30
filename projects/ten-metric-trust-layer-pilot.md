@@ -44,6 +44,7 @@ Avoid starting with generic self-serve analytics, one-off dashboard requests, or
 | Metrics | 10 decision-critical metrics |
 | Eval questions | 30 recurring business questions |
 | Business surface | 1 recurring decision forum |
+| Delivery surface | 1 workflow where questions already arrive, such as Slack, docs, dashboards, notebooks, or an AI assistant |
 | Review loop | weekly answer-quality review |
 | Expansion rule | expand only after the first 10 earn trust |
 
@@ -62,6 +63,7 @@ Every pilot metric should have a short packet with:
 - known caveats
 - validation tolerance
 - approved answer path for recurring questions
+- answer state routing
 - clarification rules
 - refusal or escalation rules
 - review status
@@ -78,8 +80,22 @@ Use [`toolkits/metric-trust-packet-template.md`](../toolkits/metric-trust-packet
 6. Write approved answer paths for recurring questions.
 7. Create eval questions that test ambiguity, caveats, and source choice.
 8. Run the pilot in the actual workflow.
-9. Review misses weekly.
-10. Promote repeated verified answers into reusable operating knowledge.
+9. Classify each answer as verified, clarify, unanswered, or wrong.
+10. Review misses weekly.
+11. Promote repeated verified answers into reusable operating knowledge.
+
+## Answer State Routing
+
+Every recurring question should land in one of four states:
+
+| State | Meaning | Next action |
+| --- | --- | --- |
+| Verified | The answer matches the approved source path and passes the validation rule | Save the answer path for reuse |
+| Clarify | The question lacks grain, period, segment, or business definition | Ask a narrowing question before querying |
+| Unanswered | The trusted source does not support the question yet | Route to the owner or backlog |
+| Wrong | The answer conflicts with a benchmark, caveat, or owner review | Block reuse and repair the packet |
+
+This routing keeps the pilot honest. The goal is trusted reuse, not a fluent answer to every question.
 
 ## Success Criteria
 
@@ -89,6 +105,7 @@ The pilot is working when:
 - each metric has an owner and trusted artifact
 - AI answers or clarifies against approved context
 - wrong answers are caught by evals or review
+- repeated answer paths remain readable by humans and AI assistants
 - at least one repeated business question becomes faster and safer than the old analyst queue
 - the decision forum spends less time debating definitions and more time deciding what to do
 

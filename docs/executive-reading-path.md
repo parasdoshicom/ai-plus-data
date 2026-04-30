@@ -1,6 +1,6 @@
 # Executive Reading Path
 
-This is a compact path through the repo for a CDO, CEO, board member, or data leader who wants the thesis, evidence, and operating artifacts without reading every file.
+This is a compact path through the repo for a CDO, CEO, board member, or data leader who wants the thesis, evidence, and operating artifacts with limited time.
 
 Read these in order. Each artifact is meant to stand on its own.
 
@@ -8,17 +8,17 @@ Read these in order. Each artifact is meant to stand on its own.
 
 Start with [`../README.md`](../README.md).
 
-What to look for:
+Check for:
 
 - AI adoption is framed as an operating-model problem, not a tooling demo.
-- Trust, metric quality, governance, and decision cadence are treated as first-order work.
+- Trust, metric quality, governance, and decision cadence sit in the core design.
 - Public-safety rules are explicit.
 
 ## 2. Evidence And Scope
 
 Read [`evidence-and-scope.md`](./evidence-and-scope.md).
 
-What it covers:
+Check for:
 
 - the repo's visible artifacts
 - external public evidence
@@ -28,7 +28,7 @@ What it covers:
 
 Read [`cdo-operating-system.md`](./cdo-operating-system.md).
 
-What to look for:
+Check for:
 
 - 90-day roadmap
 - KPI tree
@@ -40,7 +40,7 @@ What to look for:
 
 Read [`../projects/ten-metric-trust-layer-pilot.md`](../projects/ten-metric-trust-layer-pilot.md), then [`../toolkits/metric-trust-packet-template.md`](../toolkits/metric-trust-packet-template.md).
 
-What to look for:
+Check for:
 
 - a narrow first pilot
 - named metric owners
@@ -52,7 +52,7 @@ What to look for:
 
 Read [`sample-monthly-cdo-review.md`](./sample-monthly-cdo-review.md).
 
-What to look for:
+Check for:
 
 - fake but realistic metrics
 - trust and adoption shown together
@@ -63,7 +63,7 @@ What to look for:
 
 Read [`../projects/decision-memo-operating-loop.md`](../projects/decision-memo-operating-loop.md).
 
-What to look for:
+Check for:
 
 - answer to implication
 - implication to decision
@@ -74,7 +74,7 @@ What to look for:
 
 Read [`external-evidence-of-impact.md`](./external-evidence-of-impact.md) and [`evidence-ledger.md`](./evidence-ledger.md).
 
-What it covers:
+Check for:
 
 - public source mapping
 - evidence strength
