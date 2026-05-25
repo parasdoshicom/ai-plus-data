@@ -131,6 +131,7 @@ flowchart TD
 | Playbook | What it does |
 | --- | --- |
 | [`playbooks/self-correcting-sql-loop.md`](./playbooks/self-correcting-sql-loop.md) | Turns AI from one-shot SQL generation into an iterative analysis loop with human validation at the end |
+| [`playbooks/analysis-to-action-operating-loop.md`](./playbooks/analysis-to-action-operating-loop.md) | Turns analysis into a decision-ready recommendation with owner, metric, baseline, target, check-back date, and fallback |
 | [`playbooks/ask-before-building.md`](./playbooks/ask-before-building.md) | Standardizes the clarification step before metrics, dashboards, models, or analysis work begins |
 | [`playbooks/fix-ai-analytics-inputs-not-prompts.md`](./playbooks/fix-ai-analytics-inputs-not-prompts.md) | Explains why structured context beats prompt tweaking for reliable analytics answers |
 | [`playbooks/semantic-layer-is-the-trust-layer.md`](./playbooks/semantic-layer-is-the-trust-layer.md) | Frames the semantic layer as trust infrastructure for AI analytics |

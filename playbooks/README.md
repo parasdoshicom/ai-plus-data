@@ -15,6 +15,7 @@ Playbooks are the core reusable patterns in this repo. Use them when you want to
 - [`ask-before-building.md`](./ask-before-building.md): standardize clarification before analysis or dashboard work starts
 - [`fix-ai-analytics-inputs-not-prompts.md`](./fix-ai-analytics-inputs-not-prompts.md): improve context quality instead of overfocusing on prompt tricks
 - [`self-correcting-sql-loop.md`](./self-correcting-sql-loop.md): safer AI-assisted SQL generation with validation
+- [`analysis-to-action-operating-loop.md`](./analysis-to-action-operating-loop.md): turns analysis into a decision-ready recommendation with owner, metric, baseline, target, check-back date, and fallback
 - [`validate-at-ingestion.md`](./validate-at-ingestion.md): move quality checks earlier in the workflow
 - [`raw-queries-beat-overengineered-retrieval.md`](./raw-queries-beat-overengineered-retrieval.md): where simpler retrieval patterns win
 - [`funnel-leakage-analysis.md`](./funnel-leakage-analysis.md): a concrete analysis pattern for tracing performance loss
