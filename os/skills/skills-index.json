@@ -1,0 +1,21 @@
+{
+  "owner": "AI+Data Editor",
+  "live_read_path": "AGENTS.md -> os/skills/skills-index.json",
+  "skills": [
+    {
+      "name": "self-improving-agent",
+      "path": "os/skills/self-improving-agent/SKILL.md",
+      "source": "/Users/parasdoshi/Documents/ParasClaw/os/skills/self-improving-agent/SKILL.md"
+    },
+    {
+      "name": "skill-evolution-loop",
+      "path": "os/skills/skill-evolution-loop/SKILL.md",
+      "source": "/Users/parasdoshi/Documents/ParasClaw/os/skills/skill-evolution-loop/SKILL.md"
+    },
+    {
+      "name": "clawbot-improve-intake",
+      "path": "os/skills/clawbot-improve-intake/SKILL.md",
+      "source": "/Users/parasdoshi/Documents/ParasClaw/os/skills/clawbot-improve-intake/SKILL.md"
+    }
+  ]
+}
