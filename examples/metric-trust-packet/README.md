@@ -60,8 +60,20 @@ This example shows a completed metric trust packet using fake data.
 4. Can we compare this week to the same week last quarter?
 5. Should the assistant answer if dashboard freshness is two days behind?
 
+## Example Context-Path Record
+
+For the first eval question:
+
+- **Required context:** official definition, weekly source route, channel rules, freshness rule, denominator-change caveat
+- **Eligible context:** all five required items plus an unrelated campaign naming guide
+- **Retrieved context:** all five required items
+- **Applied context:** definition, source route, channel rules, and freshness rule
+- **Expected answer state:** Clarify until the week and requested segment are confirmed
+- **Primary failure layer if the agent answers immediately:** Application error
+
 ## Related Reads
 
 - [`../../toolkits/metric-trust-packet-template.md`](../../toolkits/metric-trust-packet-template.md)
 - [`../../projects/ten-metric-trust-layer-pilot.md`](../../projects/ten-metric-trust-layer-pilot.md)
 - [`../synthetic-funnel/README.md`](../synthetic-funnel/README.md)
+- [`../trusted-answer-lifecycle/README.md`](../trusted-answer-lifecycle/README.md)

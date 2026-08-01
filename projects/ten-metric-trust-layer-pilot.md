@@ -79,10 +79,12 @@ Use [`toolkits/metric-trust-packet-template.md`](../toolkits/metric-trust-packet
 5. Bless the source AI should trust first.
 6. Write approved answer paths for recurring questions.
 7. Create eval questions that test ambiguity, caveats, and source choice.
-8. Run the pilot in the actual workflow.
-9. Classify each answer as verified, clarify, unanswered, or wrong.
-10. Review misses weekly.
-11. Promote repeated verified answers into reusable operating knowledge.
+8. Record the required, eligible, retrieved, and applied context for each eval.
+9. Run the pilot in the actual workflow.
+10. Classify each answer as verified, clarify, unanswered, or wrong.
+11. Assign every miss to the missing asset, retrieval, conflict, application, query, or source-data layer.
+12. Review misses weekly.
+13. Promote repeated verified answers into reusable operating knowledge.
 
 ## Answer State Routing
 
@@ -96,6 +98,26 @@ Every recurring question should land in one of four states:
 | Wrong | The answer conflicts with a benchmark, caveat, or owner review | Block reuse and repair the packet |
 
 This routing keeps the pilot honest. The goal is trusted reuse, not a fluent answer to every question.
+
+## Retrieval And Application Checks
+
+Final-answer correctness does not show whether the system found and used the right context. For every eval case, record:
+
+- required context
+- eligible context
+- retrieved context
+- applied context
+- primary failure layer
+
+Report retrieval recall, context precision, application rate, and answer correctness separately. If the right metric packet already existed, repair the retrieval or application path before adding another artifact.
+
+Use [`toolkits/agentic-analytics-evaluation-scorecard.md`](../toolkits/agentic-analytics-evaluation-scorecard.md) for the case and aggregate measures.
+
+## Offline And Online Review
+
+Offline evals should cover ambiguity, source mismatch, stale data, broken arithmetic, missing caveats, and safe refusal. The live pilot should sample answers by metric, risk tier, answer state, and reviewed-path use.
+
+Audit every high-impact answer. Turn each novel live failure into a safe regression case.
 
 ## Success Criteria
 
@@ -115,3 +137,6 @@ The pilot is working when:
 - [`playbooks/why-agents-need-a-metric-store.md`](../playbooks/why-agents-need-a-metric-store.md)
 - [`playbooks/dashboard-governance-for-ai-analytics.md`](../playbooks/dashboard-governance-for-ai-analytics.md)
 - [`toolkits/metric-trust-packet-template.md`](../toolkits/metric-trust-packet-template.md)
+- [`playbooks/trusted-answer-lifecycle.md`](../playbooks/trusted-answer-lifecycle.md)
+- [`playbooks/test-the-context-path.md`](../playbooks/test-the-context-path.md)
+- [`toolkits/agentic-analytics-evaluation-scorecard.md`](../toolkits/agentic-analytics-evaluation-scorecard.md)

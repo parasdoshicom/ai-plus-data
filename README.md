@@ -132,6 +132,9 @@ flowchart TD
 | --- | --- |
 | [`playbooks/self-correcting-sql-loop.md`](./playbooks/self-correcting-sql-loop.md) | Turns AI from one-shot SQL generation into an iterative analysis loop with human validation at the end |
 | [`playbooks/analysis-to-action-operating-loop.md`](./playbooks/analysis-to-action-operating-loop.md) | Turns analysis into a decision-ready recommendation with owner, metric, baseline, target, check-back date, and fallback |
+| [`playbooks/trusted-answer-lifecycle.md`](./playbooks/trusted-answer-lifecycle.md) | Governs the full route from scoped metric question to reviewed, reusable answer |
+| [`playbooks/test-the-context-path.md`](./playbooks/test-the-context-path.md) | Separates missing context, retrieval misses, application errors, query errors, and source failures |
+| [`playbooks/when-an-analytics-agent-should-not-answer.md`](./playbooks/when-an-analytics-agent-should-not-answer.md) | Defines clear rules for clarification, review escalation, and refusal |
 | [`playbooks/ask-before-building.md`](./playbooks/ask-before-building.md) | Standardizes the clarification step before metrics, dashboards, models, or analysis work begins |
 | [`playbooks/fix-ai-analytics-inputs-not-prompts.md`](./playbooks/fix-ai-analytics-inputs-not-prompts.md) | Explains why structured context beats prompt tweaking for reliable analytics answers |
 | [`playbooks/semantic-layer-is-the-trust-layer.md`](./playbooks/semantic-layer-is-the-trust-layer.md) | Frames the semantic layer as trust infrastructure for AI analytics |
@@ -156,6 +159,7 @@ Additional synthetic examples:
 | Example | What it shows |
 | --- | --- |
 | [`examples/metric-trust-packet/README.md`](./examples/metric-trust-packet/README.md) | A completed public-safe metric trust packet |
+| [`examples/trusted-answer-lifecycle/README.md`](./examples/trusted-answer-lifecycle/README.md) | A synthetic metric question moving through clarification, execution, validation, review, and reuse |
 | [`examples/dashboard-deprecation-review/README.md`](./examples/dashboard-deprecation-review/README.md) | How dashboard cleanup improves AI trust |
 | [`examples/ai-adoption-board-readout/README.md`](./examples/ai-adoption-board-readout/README.md) | How to brief executives on AI adoption using fake but realistic metrics |
 

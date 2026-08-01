@@ -6,6 +6,7 @@ Examples are the hands-on, public-safe demonstration layer in this repo.
 
 - [`synthetic-funnel/README.md`](./synthetic-funnel/README.md): a full walkthrough using synthetic data, analysis logic, and a manager-ready recommendation
 - [`metric-trust-packet/README.md`](./metric-trust-packet/README.md): completed public-safe metric trust packet
+- [`trusted-answer-lifecycle/README.md`](./trusted-answer-lifecycle/README.md): synthetic recurring question moving from clarification to reviewed reuse
 - [`dashboard-deprecation-review/README.md`](./dashboard-deprecation-review/README.md): synthetic review for blessing, relabeling, or deprecating dashboards
 - [`ai-adoption-board-readout/README.md`](./ai-adoption-board-readout/README.md): synthetic executive review using fake but realistic metrics
 
