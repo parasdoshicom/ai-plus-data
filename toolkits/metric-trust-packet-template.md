@@ -76,6 +76,30 @@ Create questions that test ambiguity, caveats, source choice, and refusal behavi
 4.
 5.
 
+For each question, record:
+
+- required context
+- eligible context
+- retrieved context
+- applied context
+- expected answer state
+- expected result or range
+- primary failure layer when the run misses
+
+Use [`agentic-analytics-evaluation-scorecard.md`](./agentic-analytics-evaluation-scorecard.md) for the full case record.
+
+## Evidence Record
+
+- **Question as answered:**
+- **Answer state:** Answer / Clarify / Review / Refuse
+- **Source executed:** Yes / No
+- **Context applied:**
+- **Validation passed:**
+- **Validation failed:**
+- **Caveats and uncertainty:**
+- **Reviewer correction:**
+- **Reuse decision:** Do not save / Save with limits / Save and review on date
+
 ## Owner Review
 
 - **Business owner signoff:**
