@@ -10,6 +10,8 @@ Toolkits are practical templates, scorecards, and checklists for turning the pla
 - [`analysis-close-the-loop-template.md`](./analysis-close-the-loop-template.md): end-of-analysis template that forces decision owner, metric, baseline, target, guardrail, check-back date, and fallback
 - [`metric-skill-file-template.md`](./metric-skill-file-template.md): template for capturing recurring metric context and guardrails
 - [`metric-trust-packet-template.md`](./metric-trust-packet-template.md): template for decision-critical metric definitions, owners, trusted sources, caveats, validation rules, and eval questions
+- [`agentic-analytics-evaluation-scorecard.md`](./agentic-analytics-evaluation-scorecard.md): scorecard for context retrieval, answer state, correctness, blocking quality, and reviewed reuse
+- [`context-ablation-test-template.md`](./context-ablation-test-template.md): controlled test for learning which context bundles improve safety and quality
 
 ## Suggested Order
 
@@ -17,4 +19,6 @@ Toolkits are practical templates, scorecards, and checklists for turning the pla
 2. Add [`manager-ai-adoption-scorecard.md`](./manager-ai-adoption-scorecard.md) if you need a recurring review cadence.
 3. Use [`cdo-ai-operating-system-self-assessment.md`](./cdo-ai-operating-system-self-assessment.md) if you need the executive maturity lens.
 4. Use [`metric-trust-packet-template.md`](./metric-trust-packet-template.md) when a metric becomes part of a trusted AI answer path.
-5. Use [`analysis-close-the-loop-template.md`](./analysis-close-the-loop-template.md) before any recommendation leaves the analysis workflow.
+5. Use [`agentic-analytics-evaluation-scorecard.md`](./agentic-analytics-evaluation-scorecard.md) to evaluate the full route and the final answer.
+6. Use [`context-ablation-test-template.md`](./context-ablation-test-template.md) when a large context bundle creates cost, conflict, or inconsistent answers.
+7. Use [`analysis-close-the-loop-template.md`](./analysis-close-the-loop-template.md) before any recommendation leaves the analysis workflow.
