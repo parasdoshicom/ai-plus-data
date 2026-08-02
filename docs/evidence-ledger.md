@@ -15,7 +15,7 @@ This ledger maps public-facing statements to the artifact or source that support
 
 | Statement | Where it appears | Evidence | Strength | Caveat |
 | --- | --- | --- | --- | --- |
-| The repo contains a coherent operating thesis for AI-native data leadership | [`README.md`](../README.md), [`evidence-and-scope.md`](./evidence-and-scope.md) | README, CDO OS, playbooks, toolkits | Direct repo artifact | Quality still depends on reader judgment |
+| The repo contains a coherent operating thesis for AI-native data leadership | [`README.md`](../README.md), [`evidence-and-scope.md`](./evidence-and-scope.md) | README, operating-system guide, playbooks, toolkits | Direct repo artifact | Quality still depends on reader judgment |
 | The repo is public-safe by design | [`README.md`](../README.md), [`repo-privacy-policy.md`](./repo-privacy-policy.md) | Privacy policy, publication checklist, synthetic examples | Direct repo artifact | Manual ZIP/upload outside git could bypass safeguards |
 | Paras has a long-running public writing archive | [`README.md`](../README.md), [`public-source-inventory.md`](./public-source-inventory.md) | Insight Extractor archive | Public external source | Archive metrics are self-published on the site |
 | Paras publicly states EB-1A approval in Data & AI | [`README.md`](../README.md), [`founder.md`](./founder.md), [`external-evidence-of-impact.md`](./external-evidence-of-impact.md) | LinkedIn post | Public external source | Self-authored public post; do not include private petition detail |
