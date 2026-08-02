@@ -197,7 +197,7 @@ See [`docs/repo-privacy-policy.md`](./docs/repo-privacy-policy.md), [`docs/publi
 
 ## About Paras
 
-AI+Data is curated by Paras Doshi (`parasdoshi`), an EB-1A green-card holder in Data & AI. The perspective comes from operating work: write down the patterns a strong data leader would use to help a team adopt AI responsibly, then publish only the public-safe version. More on the editorial lens lives in [`docs/founder.md`](./docs/founder.md).
+Paras Doshi (`parasdoshi`) built AI+Data from his data leadership work and hands-on AI product building. It is his operating system for trustworthy AI adoption. Paras holds an EB-1A green card in Data & AI. The repo publishes reusable methods and excludes private company context. More on the editorial lens lives in [`docs/founder.md`](./docs/founder.md).
 
 ## Further Reading From Paras
 
