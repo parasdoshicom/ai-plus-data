@@ -1,4 +1,6 @@
-# Case Study: Consolidating Fragmented Analytics Teams
+# Illustrative Scenario: Consolidating Fragmented Analytics Teams
+
+This is a synthetic operating scenario, not a claim about one named company's completed transformation.
 
 ## Situation
 

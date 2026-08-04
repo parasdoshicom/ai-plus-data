@@ -8,6 +8,13 @@ Run this before committing or publishing new material to this repo.
 - [ ] No auth instructions tied to private infrastructure
 - [ ] No environment files or runtime config from private workspaces
 
+## Tracked-File Boundary
+
+- [ ] Every tracked binary, image, PDF, presentation, spreadsheet, and archive was opened and reviewed
+- [ ] No absolute symlinks, local filesystem paths, editor state, agent runtime, or unpublished draft folders are tracked
+- [ ] Deleted sensitive files were checked in Git history; current-tree deletion alone is not treated as full remediation
+- [ ] The machine-readable publication catalog validates and matches the human-readable archive
+
 ## PII and Sensitive Data
 
 - [ ] No customer names, emails, phones, addresses, or IDs

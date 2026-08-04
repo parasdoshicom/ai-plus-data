@@ -71,9 +71,8 @@ Source:
 
 What it supports:
 
-- direct involvement in an AI-native operating problem
-- meaningful technical and business complexity
-- public evidence that the perspective in this repo maps to a live production domain
+- meaningful technical and business complexity in a live production domain
+- public context for the kind of AI-native operating problem discussed in this repo
 
 What the article states publicly:
 
@@ -83,7 +82,7 @@ What the article states publicly:
 
 Caveat:
 
-This is company-authored and Paras-authored, so it is best used as scope evidence rather than independent outcome evidence.
+This is a company-authored article with Paras listed as author. It supports public scope context. It does not establish that Paras personally owned every system, metric, or result described.
 
 ## Additional External Signals
 
@@ -95,12 +94,12 @@ Source:
 
 What it supports:
 
-- public statement that Paras received EB-1A approval in Data & AI
-- public context for extraordinary-ability recognition
+- Paras publicly shared that USCIS approved his EB-1A petition
+- Paras said the petition was based on his work in Data & AI
 
 Caveat:
 
-This is a self-authored public post, so it should be treated as public credential context, not independent third-party evaluation.
+This is a self-authored public statement. The repo does not publish petition details or treat the post as independent outcome evidence.
 
 ### 5. Peer recognition in senior data leadership communities
 

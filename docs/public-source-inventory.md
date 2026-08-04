@@ -6,9 +6,8 @@ This repo combines original writing, generalized operator patterns, and selectiv
 
 | README statement | Source |
 | --- | --- |
-| Insight Extractor has `600+` blog posts, `2M+` visitors, and `5K+` followers | [Insight Extractor archive](https://insightextractor.com/list-of-all-blog-posts-by-paras-doshi/) |
 | Paras has a long-running public writing archive on analytics, BI, data science, and data leadership | [Insight Extractor archive](https://insightextractor.com/list-of-all-blog-posts-by-paras-doshi/) |
-| Paras publicly states EB-1A approval in Data & AI | [LinkedIn post on EB-1A approval](https://www.linkedin.com/posts/doshiparas_grateful-and-relieved-to-share-that-my-eb1a-ugcPost-7454617735592017921-p7_s) |
+| Paras publicly shared that USCIS approved his EB-1A petition, which he said was based on work in Data & AI | [LinkedIn post on EB-1A approval](https://www.linkedin.com/posts/doshiparas_grateful-and-relieved-to-share-that-my-eb1a-ugcPost-7454617735592017921-p7_s) |
 | Paras has a public leadership / community signal outside the repo | [Institute of Analytics Fellow profile](https://ioaglobal.org/ioa-fellows/paras-doshi/) |
 | Paras has externally visible outcome evidence beyond self-authored writing | [Select Star case study](https://www.selectstar.com/resources/amazon-quicksight-self-service-analytics), [Opendoor AI valuations article](https://www.opendoor.com/articles/how-data-powers-opendoors-home-valuations), [Evanta CDAO community page](https://aaem-disp.evanta.com/cdao/san-francisco) |
 | Paras has public long-form discussions on strategic data leadership | [High Signal episode](https://highsignal.fireside.fm/27), [data leadership and strategy podcast](https://www.youtube.com/watch?v=q7Mpqm1GVRc&list=PLHow-wjRD8TEX4idQj4bDdNvNer-ar9x7&index=2), [building data teams podcast](https://www.youtube.com/watch?v=DDSKxL_JeLc) |
@@ -21,16 +20,16 @@ This repo combines original writing, generalized operator patterns, and selectiv
 - URL: [https://insightextractor.com/list-of-all-blog-posts-by-paras-doshi/](https://insightextractor.com/list-of-all-blog-posts-by-paras-doshi/)
 - Why it matters:
   Public archive showing the breadth and longevity of Paras Doshi's public writing.
-- Conservatively supported statements:
-  `600+` blog posts, `2M+` visitors, `5K+` followers, long-running public writing archive.
+- Conservatively supported statement:
+  Long-running public writing archive. Any audience or traffic count should be dated and labeled as self-published before it is reused.
 
 ### 2. EB-1A approval announcement
 
 - URL: [https://www.linkedin.com/posts/doshiparas_grateful-and-relieved-to-share-that-my-eb1a-ugcPost-7454617735592017921-p7_s](https://www.linkedin.com/posts/doshiparas_grateful-and-relieved-to-share-that-my-eb1a-ugcPost-7454617735592017921-p7_s)
 - Why it matters:
   Public post where Paras states EB-1A approval in Data & AI.
-- Conservatively supported statements:
-  Paras publicly states that his EB-1A approval is tied to extraordinary ability in Data & AI.
+- Conservatively supported statement:
+  Paras publicly shared that USCIS approved his EB-1A petition, which he said was based on his work in Data & AI.
 - Caveat:
   Self-authored public post. It should support credential context, not private petition details.
 

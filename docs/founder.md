@@ -2,8 +2,6 @@
 
 AI+Data is curated by Paras Doshi (`parasdoshi`).
 
-Paras is an EB-1A green-card holder in Data & AI. He shared the approval publicly on [LinkedIn](https://www.linkedin.com/posts/doshiparas_grateful-and-relieved-to-share-that-my-eb1a-ugcPost-7454617735592017921-p7_s).
-
 This repo is built around an operator thesis:
 
 - AI should increase the leverage of strong data teams, not bypass judgment
@@ -35,7 +33,7 @@ This repo is built around an operator thesis:
 ## Public Credibility
 
 - [Insight Extractor archive](https://insightextractor.com/list-of-all-blog-posts-by-paras-doshi/)
-- [EB-1A approval announcement](https://www.linkedin.com/posts/doshiparas_grateful-and-relieved-to-share-that-my-eb1a-ugcPost-7454617735592017921-p7_s)
+- [Public EB-1A approval statement](https://www.linkedin.com/posts/doshiparas_grateful-and-relieved-to-share-that-my-eb1a-ugcPost-7454617735592017921-p7_s)
 - [Institute of Analytics Fellow profile](https://ioaglobal.org/ioa-fellows/paras-doshi/)
 - [Select Star case study on Opendoor's analytics transformation](https://www.selectstar.com/resources/amazon-quicksight-self-service-analytics)
 - [Opendoor article on AI home valuations](https://www.opendoor.com/articles/how-data-powers-opendoors-home-valuations)

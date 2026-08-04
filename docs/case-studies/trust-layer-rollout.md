@@ -1,4 +1,6 @@
-# Case Study: Rolling Out A Trust Layer For AI Analytics
+# Illustrative Scenario: Rolling Out A Trust Layer For AI Analytics
+
+This is a synthetic operating scenario, not a claim about one named company's completed transformation.
 
 ## Situation
 

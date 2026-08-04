@@ -1,217 +1,87 @@
 # AI+Data
 
-Operator-grade playbooks for AI-native data leadership.
+Operator-grade work on trusted analytics, AI-native data teams, and executive decision systems.
 
-AI+Data is a public working repo for Chief Data Officers, heads of data, analytics leaders, and high-agency builders adopting AI with rigor. The thesis: data teams earn AI leverage through clear metrics, strong operating habits, safe review loops, and disciplined leadership cadence.
+I built this repo for Chief Data Officers, heads of data, analytics leaders, and builders who need AI to improve real decisions without weakening metric trust, ownership, or review quality.
 
-| Public signal | Why it matters |
+The core idea is simple: models are getting easier to access. Reliable context, clear decision rights, and operating discipline are not.
+
+## 2026 Public Record
+
+The [`publications/2026.md`](./publications/2026.md) archive is current through August 3, 2026. It records `34` verified channel publications across LinkedIn and Insight Extractor:
+
+- `12` long-form essays, session archives, and event notes
+- `22` original LinkedIn posts or article releases
+
+The archive includes public URLs and exact publication dates. It excludes reposts, private messages, drafts, scheduled work, and personal material outside AI+Data.
+
+## Start With These
+
+| Artifact | What it demonstrates |
 | --- | --- |
-| `600+` blog posts | Long-running public writing archive on analytics, data science, BI, and data leadership |
-| `2M+` visitors | Public evidence that the ideas have been refined in the open over time |
-| `5K+` followers | Community traction around the writing and operating perspective |
-| `EB-1A` approval | Public signal of extraordinary-ability recognition in Data & AI, shared by Paras on [LinkedIn](https://www.linkedin.com/posts/doshiparas_grateful-and-relieved-to-share-that-my-eb1a-ugcPost-7454617735592017921-p7_s) |
+| [`docs/cdo-operating-system.md`](./docs/cdo-operating-system.md) | A 90-day roadmap, KPI tree, governance model, and executive cadence for AI-native data leadership |
+| [`projects/ten-metric-trust-layer-pilot.md`](./projects/ten-metric-trust-layer-pilot.md) | A bounded pilot for making recurring metric questions safer and faster |
+| [`playbooks/trusted-answer-lifecycle.md`](./playbooks/trusted-answer-lifecycle.md) | The full route from a scoped business question to a reviewed, reusable answer |
+| [`examples/synthetic-funnel/README.md`](./examples/synthetic-funnel/README.md) | A reproducible analysis-to-decision workflow on synthetic data |
+| [`docs/ai-adoption-board-brief.md`](./docs/ai-adoption-board-brief.md) | A concise executive format for adoption, trust, risk, and decisions |
 
-## What Makes This Repo Different
+For a 30-minute evaluation path, use [`docs/executive-reading-path.md`](./docs/executive-reading-path.md).
 
-- It is built for data leaders who own adoption, quality, and outcomes.
-- It treats trust, validation, and governance as part of AI adoption, not cleanup work.
-- It focuses on repeatable operating patterns that teams can roll out.
-- It stays public-safe by design: generalized lessons, synthetic examples, no company internals.
+## Latest Public Writing
 
-## Repo Structure
+- [What data science professionals need to do now to stay relevant](https://www.insightextractor.com/p/what-data-science-professionals-need)
+- [AI can write the SQL. Companies are still screening for five things it can't do.](https://www.linkedin.com/feed/update/urn:li:activity:7490194051804065792/)
+- [When DoorDash released a CLI, I had to try it.](https://www.linkedin.com/feed/update/urn:li:activity:7489768659263877120/)
+- [3 things data professionals shouldn't outsource to AI](https://www.insightextractor.com/p/3-things-data-professionals-shouldnt)
+- [What OpenAI, Anthropic, and Meta learned after putting data agents to work](https://www.insightextractor.com/p/what-openai-anthropic-and-meta-learned)
 
-This repo is organized around actionability first: active projects, ongoing areas, reusable resources, and archives.
+Browse the complete current record in [`publications/`](./publications/README.md).
 
-| Layer | Use it when | Start here |
-| --- | --- | --- |
-| Projects | You want a concrete outcome to ship | [`projects/README.md`](./projects/README.md) |
-| Areas | You want the ongoing leadership standards | [`areas/README.md`](./areas/README.md) |
-| Resources | You want the full library of playbooks, toolkits, examples, and research | [`resources/README.md`](./resources/README.md) |
-| Archives | You want retired material or historical context | [`archives/README.md`](./archives/README.md) |
+## The Operating Thesis
 
-Existing public paths such as `docs/`, `playbooks/`, `toolkits/`, and `examples/` remain stable. The project and area folders are the outcome-oriented navigation layer on top.
+AI-native data leadership depends on four connected layers:
 
-## Executive Reading Path
+1. **Trusted definitions**: metrics, source paths, owners, caveats, and permissions.
+2. **Reliable workflows**: scoped questions, validation, refusal rules, and review loops.
+3. **Decision cadence**: pre-reads, explicit decisions, owners, dates, and follow-through.
+4. **Learning systems**: misses improve the definitions, tests, and operating process.
 
-If you are evaluating the repo quickly, start with [`docs/executive-reading-path.md`](./docs/executive-reading-path.md).
+That thesis shows up throughout the repo. The playbooks explain the mechanisms. The toolkits make them reusable. The examples show them on synthetic data. The evidence files state what is demonstrated, externally supported, inferred, or intentionally excluded.
 
-It gives a 30-minute path through the thesis, evidence map, CDO operating model, 10-metric trust-layer pilot, sample monthly review, decision memo loop, and evidence ledger.
+## Browse The Library
 
-## Signature Artifacts
-
-These are the best entry points for the executive layer.
-
-| Artifact | Why start here |
+| Path | Use it for |
 | --- | --- |
-| [`docs/executive-reading-path.md`](./docs/executive-reading-path.md) | The fastest executive path through the repo |
-| [`docs/how-i-lead.md`](./docs/how-i-lead.md) | Public-safe operating principles for how Paras approaches data leadership, AI adoption, team design, and trust |
-| [`docs/cdo-operating-system.md`](./docs/cdo-operating-system.md) | A signature CDO artifact: 90-day roadmap, KPI tree, governance model, and operating cadence |
-| [`docs/ai-adoption-board-brief.md`](./docs/ai-adoption-board-brief.md) | A one-page executive brief for reporting AI adoption progress, risk, and next decisions |
-| [`docs/sample-monthly-cdo-review.md`](./docs/sample-monthly-cdo-review.md) | A synthetic board-ready example with fake but realistic metrics |
-| [`projects/ten-metric-trust-layer-pilot.md`](./projects/ten-metric-trust-layer-pilot.md) | A concrete pilot for making recurring metric questions safer and faster |
-| [`projects/decision-memo-operating-loop.md`](./projects/decision-memo-operating-loop.md) | A reusable loop from AI-assisted answer to executive decision |
-| [`docs/evidence-and-scope.md`](./docs/evidence-and-scope.md) | A map of repo artifacts, external evidence, and public boundaries |
-| [`docs/external-evidence-of-impact.md`](./docs/external-evidence-of-impact.md) | The strong public evidence outside the repo that supports real operating scope, outcome signals, and external recognition |
-| [`docs/evidence-ledger.md`](./docs/evidence-ledger.md) | Public statement, source, evidence strength, and caveat mapping |
+| [`publications/`](./publications/README.md) | Verified public writing and appearances, organized by year and channel |
+| [`projects/`](./projects/README.md) | Bounded operating initiatives with a concrete outcome |
+| [`playbooks/`](./playbooks/README.md) | Reusable patterns for trusted AI-assisted analytics |
+| [`toolkits/`](./toolkits/README.md) | Scorecards, checklists, templates, and evaluation tools |
+| [`examples/`](./examples/README.md) | Synthetic, inspectable walkthroughs |
+| [`docs/`](./docs/README.md) | Executive artifacts, evidence, research, and publication standards |
+| [`areas/`](./areas/README.md) | Ongoing leadership responsibilities |
+| [`archives/`](./archives/README.md) | Retired or historical material |
 
-## Evidence And Scope
+## Evidence Boundary
 
-The repo starts from a hypothesis:
+This repo separates four kinds of proof:
 
-**AI-native data leadership depends on trusted metrics, operating cadence, review habits, and decision-ready communication.**
-
-It lays out that hypothesis through:
-
-- a coherent operator thesis for AI-native data leadership
-- executive artifacts with reusable structure
-- practical workflow judgment around validation and trust
-- explicit public-safety and source-discipline standards
-- stronger public evidence outside the repo than writing alone
-
-If you want the artifact and evidence map, start with [`docs/evidence-and-scope.md`](./docs/evidence-and-scope.md).
-If you want the strong public evidence outside the repo, read [`docs/external-evidence-of-impact.md`](./docs/external-evidence-of-impact.md).
-
-That external evidence includes a third-party case study with measurable operating outcomes, official professional recognition, and public company-authored scope evidence.
-
-## Public-Safe Case Studies
-
-These concise, sanitized case-study style walkthroughs show how operating patterns change a system.
-
-| Case study | What changed |
+| Layer | What it supports |
 | --- | --- |
-| [`docs/case-studies/decision-cadence-reset.md`](./docs/case-studies/decision-cadence-reset.md) | How a reactive weekly review becomes a decision-ready operating forum |
-| [`docs/case-studies/trust-layer-rollout.md`](./docs/case-studies/trust-layer-rollout.md) | How a fragmented metric environment becomes an AI-ready trust layer |
-| [`docs/case-studies/analytics-org-consolidation.md`](./docs/case-studies/analytics-org-consolidation.md) | How multiple analytics teams become one higher-leverage operating system |
-| [`docs/case-studies/public-analytics-platform-transformation.md`](./docs/case-studies/public-analytics-platform-transformation.md) | Public-source read-through of analytics trust, discoverability, and self-service outcomes |
+| Direct repo artifacts | The operating models, methods, and tools published here |
+| Verified public writing | The ideas Paras has published and taught in public |
+| External public sources | Attributable role, recognition, and outcome evidence with caveats |
+| Illustrative scenarios | Transferable examples using synthetic measures, not claims of a private deployment |
 
-Each case study now includes a synthetic timeline, measurable before/after targets, constraints, and what did not work. The numbers are illustrative, not private company results.
+Start with [`docs/evidence-and-scope.md`](./docs/evidence-and-scope.md), [`docs/external-evidence-of-impact.md`](./docs/external-evidence-of-impact.md), and [`docs/evidence-ledger.md`](./docs/evidence-ledger.md).
 
-## Operating Model
+## Public-Safety Standard
 
-```mermaid
-flowchart TD
-    A["Individual workflow"] --> B["Team operating model"]
-    B --> C["Leader cadence"]
-    D["Trust and governance foundation"] --> A
-    D --> B
-    D --> C
-    A1["Clarify the question"] --> A2["Run AI-assisted analysis"]
-    A2 --> A3["Validate against trusted references"]
-    B1["Shared playbooks"] --> B2["Manager review loops"]
-    B2 --> B3["Rollout checklists and scorecards"]
-    C1["Prioritize high-value workflows"] --> C2["Protect quality and trust"]
-    C2 --> C3["Scale what earns adoption"]
-    A -.-> A1
-    B -.-> B1
-    C -.-> C1
-```
+This repository contains generalized methods, public links, and synthetic examples. It does not contain private company strategy, customer or employee data, internal SQL or schemas, private dashboards, credentials, bot history, or unpublished drafts.
 
-## Start Here By Audience
-
-| Audience | Start here |
-| --- | --- |
-| CDO / Head of Data | [`docs/reading-paths.md`](./docs/reading-paths.md), [`playbooks/durable-priorities-for-ai-native-data-leadership.md`](./playbooks/durable-priorities-for-ai-native-data-leadership.md), [`toolkits/manager-ai-adoption-scorecard.md`](./toolkits/manager-ai-adoption-scorecard.md) |
-| Manager / Analytics Leader | [`docs/reading-paths.md`](./docs/reading-paths.md), [`toolkits/data-team-ai-rollout-checklist.md`](./toolkits/data-team-ai-rollout-checklist.md), [`playbooks/ask-before-building.md`](./playbooks/ask-before-building.md) |
-| Senior IC / Builder | [`playbooks/self-correcting-sql-loop.md`](./playbooks/self-correcting-sql-loop.md), [`playbooks/fix-ai-analytics-inputs-not-prompts.md`](./playbooks/fix-ai-analytics-inputs-not-prompts.md), [`examples/synthetic-funnel/README.md`](./examples/synthetic-funnel/README.md) |
-
-## Start Here By Problem
-
-| If you are trying to... | Read this |
-| --- | --- |
-| Get better answers from AI analytics | [`playbooks/fix-ai-analytics-inputs-not-prompts.md`](./playbooks/fix-ai-analytics-inputs-not-prompts.md) |
-| Make SQL generation more reliable | [`playbooks/self-correcting-sql-loop.md`](./playbooks/self-correcting-sql-loop.md) |
-| Stop AI from guessing metric definitions | [`playbooks/semantic-layer-is-the-trust-layer.md`](./playbooks/semantic-layer-is-the-trust-layer.md) |
-| Decide what context an agent should trust | [`playbooks/why-agents-need-a-metric-store.md`](./playbooks/why-agents-need-a-metric-store.md) |
-| Roll AI out across a team safely | [`toolkits/data-team-ai-rollout-checklist.md`](./toolkits/data-team-ai-rollout-checklist.md) |
-| Create a leader-level operating cadence | [`playbooks/durable-priorities-for-ai-native-data-leadership.md`](./playbooks/durable-priorities-for-ai-native-data-leadership.md) |
-| Assess whether you have a durable AI operating model | [`toolkits/cdo-ai-operating-system-self-assessment.md`](./toolkits/cdo-ai-operating-system-self-assessment.md) |
-
-## Featured Playbooks
-
-| Playbook | What it does |
-| --- | --- |
-| [`playbooks/self-correcting-sql-loop.md`](./playbooks/self-correcting-sql-loop.md) | Turns AI from one-shot SQL generation into an iterative analysis loop with human validation at the end |
-| [`playbooks/analysis-to-action-operating-loop.md`](./playbooks/analysis-to-action-operating-loop.md) | Turns analysis into a decision-ready recommendation with owner, metric, baseline, target, check-back date, and fallback |
-| [`playbooks/trusted-answer-lifecycle.md`](./playbooks/trusted-answer-lifecycle.md) | Governs the full route from scoped metric question to reviewed, reusable answer |
-| [`playbooks/test-the-context-path.md`](./playbooks/test-the-context-path.md) | Separates missing context, retrieval misses, application errors, query errors, and source failures |
-| [`playbooks/when-an-analytics-agent-should-not-answer.md`](./playbooks/when-an-analytics-agent-should-not-answer.md) | Defines clear rules for clarification, review escalation, and refusal |
-| [`playbooks/ask-before-building.md`](./playbooks/ask-before-building.md) | Standardizes the clarification step before metrics, dashboards, models, or analysis work begins |
-| [`playbooks/fix-ai-analytics-inputs-not-prompts.md`](./playbooks/fix-ai-analytics-inputs-not-prompts.md) | Explains why structured context beats prompt tweaking for reliable analytics answers |
-| [`playbooks/semantic-layer-is-the-trust-layer.md`](./playbooks/semantic-layer-is-the-trust-layer.md) | Frames the semantic layer as trust infrastructure for AI analytics |
-| [`playbooks/why-agents-need-a-metric-store.md`](./playbooks/why-agents-need-a-metric-store.md) | Adds the missing layer between discovery and approved answers for conversational analytics |
-| [`playbooks/durable-priorities-for-ai-native-data-leadership.md`](./playbooks/durable-priorities-for-ai-native-data-leadership.md) | Highlights the durable operating priorities that matter even as tools change |
-| [`playbooks/agent-patterns-are-table-stakes-trust-is-the-differentiator.md`](./playbooks/agent-patterns-are-table-stakes-trust-is-the-differentiator.md) | Explains why trusted metrics, validation loops, and operating cadence carry more weight than agent architecture |
-
-## Hands-On Example
-
-The best first demonstration is a safe, repeatable workflow.
-
-Start with [`examples/synthetic-funnel/README.md`](./examples/synthetic-funnel/README.md). It walks through the full loop on synthetic data:
-
-1. ingest safe data
-2. frame the question clearly
-3. run AI-assisted analysis
-4. validate against trusted logic
-5. translate the result into a manager-ready recommendation
-
-Additional synthetic examples:
-
-| Example | What it shows |
-| --- | --- |
-| [`examples/metric-trust-packet/README.md`](./examples/metric-trust-packet/README.md) | A completed public-safe metric trust packet |
-| [`examples/trusted-answer-lifecycle/README.md`](./examples/trusted-answer-lifecycle/README.md) | A synthetic metric question moving through clarification, execution, validation, review, and reuse |
-| [`examples/dashboard-deprecation-review/README.md`](./examples/dashboard-deprecation-review/README.md) | How dashboard cleanup improves AI trust |
-| [`examples/ai-adoption-board-readout/README.md`](./examples/ai-adoption-board-readout/README.md) | How to brief executives on AI adoption using fake but realistic metrics |
-
-## What Better Looks Like
-
-Effective data leaders redesign the system around the analysis.
-
-- They replace reactive reporting with decision-ready operating cadences.
-- They replace fragmented analytics with shared definitions, ownership, and trust signals.
-- They replace one-off heroics with repeatable workflows, stronger managers, and better self-serve habits.
-
-The public-safe versions of those patterns live in [`docs/public-safe-impact-patterns.md`](./docs/public-safe-impact-patterns.md), [`docs/cdo-operating-system.md`](./docs/cdo-operating-system.md), and the case studies above.
-
-## Repo Map
-
-| Path | Purpose |
-| --- | --- |
-| [`projects/README.md`](./projects/README.md) | Outcome-first project tracks |
-| [`areas/README.md`](./areas/README.md) | Ongoing operating responsibilities and standards |
-| [`resources/README.md`](./resources/README.md) | Reusable library map |
-| [`archives/README.md`](./archives/README.md) | Retired or historical material |
-| [`playbooks/README.md`](./playbooks/README.md) | Guided index of reusable operating patterns for AI-native data work |
-| [`toolkits/README.md`](./toolkits/README.md) | Guided index of rollout checklists, scorecards, and reusable templates |
-| [`examples/README.md`](./examples/README.md) | Guided index of synthetic, public-safe walkthroughs |
-| [`docs/README.md`](./docs/README.md) | Guided index of signature artifacts, evidence, sources, and publication guardrails |
-
-## Public-Safety Promise
-
-- No company-specific strategy, SQL, schemas, dashboards, or internal identifiers
-- No customer, employee, or candidate data
-- No private operating docs pasted into public files
-- No statements that depend on private context
-
-See [`docs/repo-privacy-policy.md`](./docs/repo-privacy-policy.md), [`docs/publication-safety-checklist.md`](./docs/publication-safety-checklist.md), and [`docs/public-source-inventory.md`](./docs/public-source-inventory.md).
+See [`docs/repo-privacy-policy.md`](./docs/repo-privacy-policy.md) and [`docs/publication-safety-checklist.md`](./docs/publication-safety-checklist.md).
 
 ## About Paras
 
-Paras Doshi (`parasdoshi`) built AI+Data from his data leadership work and hands-on AI product building. It is his operating system for trustworthy AI adoption. Paras holds an EB-1A green card in Data & AI. The repo publishes reusable methods and excludes private company context. More on the editorial lens lives in [`docs/founder.md`](./docs/founder.md).
+Paras Doshi is a data and AI executive and former Amazon leader. He writes [Insight Extractor](https://www.insightextractor.com/), teaches data professionals, and builds practical systems for trusted analytics and AI adoption.
 
-## Further Reading From Paras
-
-- [How Data Leaders Can Actually Enable Enterprise AI](https://insightextractor.com/2025/05/03/how-data-leaders-can-actually-enable-enterprise-ai/)
-- [Stop Losing the Room: Turning Data Insights into Decisions](https://insightextractor.com/2025/05/26/stop-losing-the-room-turning-data-insights-into-decisions/)
-- [Ad-Hoc Requests: How Great Data Teams Turn Noise into Influence](https://insightextractor.com/2025/05/29/ad-hoc-requests-how-great-data-teams-turn-noise-into-influence/)
-- [The Data Leader’s Secret Weapon: The Deprecation-First Rule for Managing Technical Debt](https://insightextractor.com/2025/07/31/the-data-leaders-secret-weapon-the-deprecation-first-rule-for-managing-technical-debt/)
-- [Structuring a High-Impact Data Team: Centralized vs. Decentralized Models](https://insightextractor.com/2025/03/06/structuring-a-high-impact-data-team-centralized-vs-decentralized-models/)
-- [Why Your Amazon-Style WBR Isn’t Working (and How to Fix It)](https://insightextractor.com/2025/04/07/why-your-amazon-style-wbr-isnt-working-and-how-to-fix-it/)
-
-## Selected Public References
-
-- [Insight Extractor archive](https://insightextractor.com/list-of-all-blog-posts-by-paras-doshi/)
-- [Institute of Analytics Fellow profile](https://ioaglobal.org/ioa-fellows/paras-doshi/)
-- [High Signal episode: Why Your Data Team Doesn't Have a Seat at the Table (And How to Earn It)](https://highsignal.fireside.fm/27)
-- [Podcast: Data leadership and strategy](https://www.youtube.com/watch?v=q7Mpqm1GVRc&list=PLHow-wjRD8TEX4idQj4bDdNvNer-ar9x7&index=2)
-- [Podcast: Building data teams](https://www.youtube.com/watch?v=DDSKxL_JeLc)
+The strongest public evidence outside this repo is cataloged in [`docs/external-evidence-of-impact.md`](./docs/external-evidence-of-impact.md). The editorial lens and authorship boundary are in [`docs/founder.md`](./docs/founder.md).

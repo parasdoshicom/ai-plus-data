@@ -1,8 +1,10 @@
-# Case Studies Guide
+# Illustrative Operating Scenarios
 
-These are short, public-safe before/after stories that show how a better operating model changes the system around the analysis.
+The first three files are public-safe scenarios. They use synthetic measures to show how an intervention could change the system around the analysis; they are not claims that a named company deployed the scenario exactly as written.
 
-## Case Studies
+The fourth file is a public-source read-through. It reports only what the linked third-party source states and keeps the attribution and caveat visible.
+
+## Scenarios And Public Read-Through
 
 - [`decision-cadence-reset.md`](./decision-cadence-reset.md): how a reactive weekly review becomes a decision-ready operating forum
 - [`trust-layer-rollout.md`](./trust-layer-rollout.md): how a fragmented metric environment becomes an AI-ready trust layer
@@ -11,6 +13,6 @@ These are short, public-safe before/after stories that show how a better operati
 
 ## Use These When
 
-- you want concrete examples without exposing private company detail
+- you want concrete, illustrative examples without exposing private company detail
 - you need a fast sense of the repo's systems-thinking lens
 - you want transferable operating patterns rather than company-specific stories

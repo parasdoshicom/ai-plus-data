@@ -118,5 +118,5 @@ Use this ladder to calibrate each kind of artifact.
 | Public point of view | README, essays, leadership writing | thesis and strategic clarity |
 | Operating artifacts | operating system, board brief, scorecards, checklists | reusable management systems |
 | Workflow examples | synthetic example, validation-oriented playbooks | practical patterns for AI-assisted work |
-| Public-safe case studies | before/after operating changes with measurable signals | systems thinking and transferability |
+| Illustrative operating scenarios | synthetic before/after patterns with explicit labels | systems thinking and transferability, not deployment proof |
 | External public credibility | fellow profile, third-party case study, company-authored technical scope, peer community pages | public reputation, role scope, and partial outcome validation |

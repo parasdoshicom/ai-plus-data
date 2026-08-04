@@ -1,4 +1,6 @@
-# Case Study: Resetting A Weekly Decision Cadence
+# Illustrative Scenario: Resetting A Weekly Decision Cadence
+
+This is a synthetic operating scenario, not a claim about one named company's completed transformation.
 
 ## Situation
 

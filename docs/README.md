@@ -5,6 +5,7 @@ Use this folder when you want the executive layer, public evidence, or publicati
 ## Start Here
 
 - [`executive-reading-path.md`](./executive-reading-path.md): shortest path for a CDO, CEO, board member, or data leader
+- [`../publications/2026.md`](../publications/2026.md): verified 2026 public writing across LinkedIn and Insight Extractor
 - [`reading-paths.md`](./reading-paths.md): role-based entry points for CDOs, managers, and builders
 - [`evidence-and-scope.md`](./evidence-and-scope.md): repo artifacts, external evidence, and public boundaries
 - [`cdo-operating-system.md`](./cdo-operating-system.md): flagship leadership artifact with roadmap, KPI tree, and governance model
@@ -28,7 +29,8 @@ Use this folder when you want the executive layer, public evidence, or publicati
 - [`repo-privacy-policy.md`](./repo-privacy-policy.md): what belongs in a public repo and what does not
 - [`publication-safety-checklist.md`](./publication-safety-checklist.md): final review checklist before publishing
 
-## Subfolders
+## Public Work And Scenarios
 
-- [`case-studies/README.md`](./case-studies/README.md): concise public-safe operating change case studies
+- [`../publications/README.md`](../publications/README.md): archive scope, verification rules, and refresh cadence
+- [`case-studies/README.md`](./case-studies/README.md): illustrative operating scenarios plus one public-source case read-through
 - [`research/README.md`](./research/README.md): source-backed research memos and supporting notes

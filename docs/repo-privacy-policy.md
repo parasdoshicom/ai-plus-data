@@ -21,6 +21,7 @@ If a piece of information would not be safe to paste into a public conference ta
 - compensation, performance, HR, or personnel details
 - secrets, tokens, credentials, or auth instructions
 - private Telegram, Slack, email, or bot runtime configuration
+- local agent runtime, editor state, absolute symlinks, or unpublished content-pipeline drafts
 
 ## Rewrite Standard
 
@@ -44,3 +45,5 @@ Not acceptable:
 ## Operating Rule
 
 When in doubt, exclude the detail and keep the public lesson.
+
+Run privacy review against the full tracked-file set, including binaries and Git history. A clean Markdown scan does not prove a clean public repository.
