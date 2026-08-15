@@ -1,14 +1,10 @@
 # AI-Native Data Catalog and Metrics Layer
 
-AI analytics gets dramatically better when the system can ground itself in trusted metadata, metric definitions, lineage, and usage context.
+AI analytics improves when the system can use trusted metadata, metric definitions, lineage, and usage context. A good data and metrics catalog therefore belongs in the execution path, not off to the side as a documentation portal.
 
-That means a good data and metrics catalog becomes part of the execution layer.
+## Start With the Job
 
-## Core idea
-
-Most teams think about a data catalog as a passive lookup tool.
-
-That is too small.
+Many teams still treat a data catalog as a passive lookup tool. I think that definition is too small.
 
 The more useful framing is:
 
@@ -19,7 +15,7 @@ The more useful framing is:
 
 When those pieces connect, AI can help with analysis, root-cause analysis, impact assessment, and decision support in a much more trustworthy way.
 
-## Why this matters
+## Failure Modes Without It
 
 Without a strong catalog and metrics layer, AI analytics tends to break in predictable ways:
 
@@ -105,7 +101,7 @@ That combination is powerful.
 Humans get a single place to discover and understand data.
 AI systems get enough grounded context to produce more reliable answers and recommendations.
 
-## What this unlocks
+## Jobs the Layer Should Support
 
 When done well, this layer enables higher-value workflows such as:
 
@@ -152,13 +148,9 @@ A good AI-native catalog should help a team answer questions like:
 
 If the system cannot answer those questions quickly and credibly, the foundation is still weak.
 
-## Bottom line
+## The Test
 
-AI analytics depends on more than better prompts, better models, or faster SQL generation.
-
-It depends on a trustworthy context layer.
-
-That context layer is usually a combination of:
+A trustworthy context layer usually combines:
 
 - catalog
 - metrics definitions
@@ -166,4 +158,4 @@ That context layer is usually a combination of:
 - usage signals
 - workflow-native AI access
 
-Get that layer right, and AI becomes much more useful to the whole data organization rather than just to a few power users.
+If AI can answer which table to use, what the metric means, what a change will break, and which dashboard to trust, the catalog is doing real work. If it cannot, faster SQL generation will not rescue the system.

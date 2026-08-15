@@ -1,8 +1,6 @@
 # Metric Skill File Template
 
-Use this template to create a structured context file for an important metric or domain.
-
-The goal is simple: give AI enough grounded context to answer recurring business questions consistently.
+Use this template to give an AI system the definition, source route, edge cases, and guardrails for an important metric or domain.
 
 ## Template
 
@@ -82,8 +80,6 @@ A useful skill file should answer:
 - Treat this like operational documentation, not prose.
 - Review and update when business logic changes.
 
-## Simple test
+## Quick Test
 
-Ask the same business question five different ways.
-
-If AI still gives five different answers after reading the skill file, the file is incomplete.
+Ask the same business question five ways. If the system still gives five different answers after reading the skill file, identify which definition, exclusion, source rule, or caveat is missing.

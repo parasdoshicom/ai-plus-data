@@ -1,14 +1,12 @@
 # Executive Reading Path
 
-This is a compact path through the repo for a CDO, CEO, board member, or data leader who wants the thesis, evidence, and operating artifacts with limited time.
-
-Read these in order. Each artifact is meant to stand on its own.
+If you have 30 minutes, this path gives you the repo's argument, evidence, and main operating artifacts. Each file also stands on its own.
 
 ## 1. Repo Thesis
 
 Start with [`../README.md`](../README.md).
 
-Check for:
+Look for:
 
 - AI adoption is framed as an operating-model problem, not a tooling demo.
 - Trust, metric quality, governance, and decision cadence sit in the core design.
@@ -18,7 +16,7 @@ Check for:
 
 Read [`evidence-and-scope.md`](./evidence-and-scope.md).
 
-Check for:
+Look for:
 
 - the repo's visible artifacts
 - external public evidence
@@ -28,7 +26,7 @@ Check for:
 
 Read [`cdo-operating-system.md`](./cdo-operating-system.md).
 
-Check for:
+Look for:
 
 - 90-day roadmap
 - KPI tree
@@ -40,7 +38,7 @@ Check for:
 
 Read [`../projects/ten-metric-trust-layer-pilot.md`](../projects/ten-metric-trust-layer-pilot.md), then [`../toolkits/metric-trust-packet-template.md`](../toolkits/metric-trust-packet-template.md).
 
-Check for:
+Look for:
 
 - a narrow first pilot
 - named metric owners
@@ -52,7 +50,7 @@ Check for:
 
 Read [`sample-monthly-cdo-review.md`](./sample-monthly-cdo-review.md).
 
-Check for:
+Look for:
 
 - fake but realistic metrics
 - trust and adoption shown together
@@ -63,7 +61,7 @@ Check for:
 
 Read [`../projects/decision-memo-operating-loop.md`](../projects/decision-memo-operating-loop.md).
 
-Check for:
+Look for:
 
 - answer to implication
 - implication to decision
@@ -74,7 +72,7 @@ Check for:
 
 Read [`external-evidence-of-impact.md`](./external-evidence-of-impact.md) and [`evidence-ledger.md`](./evidence-ledger.md).
 
-Check for:
+Look for:
 
 - public source mapping
 - evidence strength

@@ -1,8 +1,6 @@
 # Repo Privacy Policy
 
-This repository is public. That creates a simple rule:
-
-If a piece of information would not be safe to paste into a public conference talk, it does not belong here.
+This repository is public. If I would not put a detail on a conference slide, it does not belong here.
 
 ## Allowed
 

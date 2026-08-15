@@ -1,8 +1,6 @@
 # Synthetic Dashboard Deprecation Review
 
-This example shows how a data team can reduce AI confusion by removing or relabeling conflicting dashboards.
-
-All names and metrics are synthetic.
+This synthetic example shows how a data team can bless, relabel, or deprecate dashboards that give an AI system conflicting answers.
 
 ## Scenario
 
@@ -33,7 +31,7 @@ Three dashboards answer versions of the same recurring question:
 | Relabel Acquisition experiment dashboard | Growth analytics | This week | Add scope note to dashboard |
 | Deprecate Legacy signup dashboard | BI owner | Next week | Replace links with blessed artifact |
 
-## What Good Looks Like
+## Expected Result
 
 - AI assistants cite the blessed dashboard first.
 - Analysts stop reconciling the same denominator debate.

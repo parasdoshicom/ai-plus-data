@@ -1,6 +1,6 @@
 # Durable Priorities for AI-Native Data Leadership
 
-**Thesis:** The strongest AI-native data organizations do not win by chasing every new tool. They win by protecting a small set of durable leadership priorities.
+AI tools will keep changing. A data leader still needs a small set of priorities that survive the next model, vendor, and reorganization.
 
 ## Use This When
 

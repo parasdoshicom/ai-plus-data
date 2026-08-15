@@ -1,6 +1,6 @@
 # Evaluate the Context Path
 
-**Thesis:** An answer-level eval tells you whether the output was right. A context-path eval tells you why.
+An answer-level eval tells you whether the output was right. A context-path eval shows where the route broke: availability, retrieval, conflict, application, query logic, or source data.
 
 ## Use This When
 

@@ -1,6 +1,6 @@
 # Why AI Analytics Agents Need a Metric Store
 
-**Thesis:** A semantic layer defines meaning, but conversational analytics also needs a store of approved answer paths for recurring business questions.
+A semantic layer defines a metric. A metric store records the approved route for answering the recurring business question built on that metric.
 
 ## Use This When
 

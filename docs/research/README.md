@@ -1,6 +1,6 @@
 # Research Guide
 
-This folder holds source-backed research used to sharpen the repo's point of view. It is more memo-like than the core playbooks.
+These source-backed memos show the research behind parts of the repo's point of view. Use the source log when you want to inspect the trail behind a recommendation.
 
 ## Files
 

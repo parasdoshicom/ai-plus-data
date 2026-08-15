@@ -1,10 +1,6 @@
 # Raw Queries Beat Overengineered Retrieval More Often Than Teams Expect
 
-One of the most underappreciated lessons in AI analytics is this:
-
-You often do not need a complicated retrieval system to get useful results.
-
-What helps sooner is giving AI direct access to the validated SQL your team already trusts.
+Before building a complicated retrieval system, give AI access to the validated SQL your team already trusts. That smaller move often produces useful results sooner.
 
 ## The common assumption
 
@@ -91,10 +87,6 @@ They spend too long designing a sophisticated AI architecture before exposing th
 
 That delays value and increases risk.
 
-## Bottom line
+## Try This First
 
-If your AI analytics setup is struggling, do not assume you need a more elaborate retrieval system first.
-
-Try giving the model the raw validated queries your team already trusts.
-
-In many cases, that is the highest-leverage retrieval layer you can add in the first month.
+Put the raw, validated queries behind your most trusted dashboards in version control and make them available as approved references. Run that for a month before deciding you need a more elaborate retrieval layer.

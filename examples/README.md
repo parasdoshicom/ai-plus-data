@@ -1,6 +1,6 @@
 # Examples Guide
 
-Examples are the hands-on, public-safe demonstration layer in this repo.
+These examples show the workflows in motion. Every dataset and scenario is synthetic or explicitly public-safe.
 
 ## Available Examples
 
@@ -10,7 +10,7 @@ Examples are the hands-on, public-safe demonstration layer in this repo.
 - [`dashboard-deprecation-review/README.md`](./dashboard-deprecation-review/README.md): synthetic review for blessing, relabeling, or deprecating dashboards
 - [`ai-adoption-board-readout/README.md`](./ai-adoption-board-readout/README.md): synthetic executive review using fake but realistic metrics
 
-## Use This When
+## Use an Example When
 
 - you want to see the workflow in motion instead of only reading principles
 - you need a safe artifact to show how validation fits into AI-assisted analysis

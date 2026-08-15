@@ -1,14 +1,14 @@
-# Source log — AI productivity for top data teams
+# Source Log: AI Productivity for Top Data Teams
 
 Date: 2026-03-28
-Purpose: defensibility log for the operator memo
+Purpose: source trail for the operator memo
 
 ## Evidence standard used
 - Tier 1: official product documentation / admin guidance / technical docs
 - Tier 2: official vendor operator guidance or release material
 - Tier 3: general market framing only if it supported, not drove, the recommendation
 
-This packet was intentionally biased toward Tier 1 sources from active platforms used by serious data teams.
+The source set favors Tier 1 documentation from active data platforms.
 
 ## Sources reviewed
 
@@ -99,4 +99,4 @@ This memo intentionally avoids hard ROI claims. The evidence base strongly suppo
 ## Confidence call
 - High confidence: semantic grounding, metadata quality, native copilots, governance/review gates
 - Medium confidence: which vendor surface will be best for a given team
-- Medium confidence: agent-mode productivity upside without stronger strong governance controls
+- Medium confidence: agent-mode productivity upside without stronger governance controls

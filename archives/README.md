@@ -1,6 +1,6 @@
 # Archives
 
-Archives are for material that is no longer active but may still be useful later.
+Archives hold work that is no longer current but may still be useful for comparison or history.
 
 This repo does not currently archive public artifacts because the existing body of work is still part of the live operating library.
 
@@ -13,4 +13,4 @@ Move material here when:
 - an example is preserved only for historical comparison
 - a public-safe artifact is useful but no longer part of the active repo narrative
 
-When archiving, keep a short note that explains why the artifact moved and what replaced it.
+When something moves here, add a short note explaining why it moved and what readers should use instead.

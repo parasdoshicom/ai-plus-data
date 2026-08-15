@@ -1,6 +1,6 @@
 # Sample Monthly CDO Review
 
-This is a synthetic example. It uses fake but realistic metrics to show how a CDO or head of data could report AI adoption without exposing private company data.
+This synthetic review uses fake but realistic metrics. It shows how a CDO or head of data can report AI adoption while keeping business impact, trust, governance, and the next decision on one page.
 
 ## Executive Read
 
@@ -54,7 +54,7 @@ This is a synthetic example. It uses fake but realistic metrics to show how a CD
 
 ## Board-Level Takeaway
 
-The pilot is creating leverage because it is narrowing the problem before scaling it. The next leadership decision is whether to protect that discipline or let broad adoption outrun trust.
+The pilot is improving recurring work because the scope is narrow and the answer paths are reviewed. Keep expansion gated until all 10 metric packets meet the trust threshold.
 
 ## Related Reads
 

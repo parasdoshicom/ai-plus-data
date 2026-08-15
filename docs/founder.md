@@ -1,8 +1,8 @@
-# Why This Perspective
+# The Perspective Behind This Repo
 
 AI+Data is curated by Paras Doshi (`parasdoshi`).
 
-This repo is built around an operator thesis:
+I keep coming back to four operating beliefs:
 
 - AI should increase the leverage of strong data teams, not bypass judgment
 - adoption matters more than novelty
@@ -17,22 +17,15 @@ This repo is built around an operator thesis:
 - Treat governance, review, and trust as first-class parts of AI adoption
 - Write for practical implementation, not thought-leadership theater
 
-## What This Repo Is
+## Scope
 
-- a public working repo for AI-native data leadership
-- a collection of reusable playbooks, checklists, and synthetic examples
-- a rewrite of generalized operator patterns into public educational material
+This is a public working repo for AI-native data leadership: reusable playbooks, checklists, and synthetic examples built from generalized operator patterns.
 
-## What This Repo Is Not
-
-- a dump of private operating documents
-- a company-specific architecture reveal
-- a generic "AI tips" collection with no operating model behind it
-- a resume in repository form
+Private operating documents and company-specific architecture stay private. I also leave out generic AI tips that do not connect to an operating model. The repo should be useful on its own, not read like a resume in repository form.
 
 ## Public Credibility
 
-- [Insight Extractor archive](https://insightextractor.com/list-of-all-blog-posts-by-paras-doshi/)
+- [Insight Extractor archive](https://www.insightextractor.com/archive)
 - [Public EB-1A approval statement](https://www.linkedin.com/posts/doshiparas_grateful-and-relieved-to-share-that-my-eb1a-ugcPost-7454617735592017921-p7_s)
 - [Institute of Analytics Fellow profile](https://ioaglobal.org/ioa-fellows/paras-doshi/)
 - [Select Star case study on Opendoor's analytics transformation](https://www.selectstar.com/resources/amazon-quicksight-self-service-analytics)
@@ -50,8 +43,8 @@ If a detail would not be safe to share in a public conference talk, it does not 
 
 See [`repo-privacy-policy.md`](./repo-privacy-policy.md), [`publication-safety-checklist.md`](./publication-safety-checklist.md), and [`public-source-inventory.md`](./public-source-inventory.md).
 
-## AI Operating Lens
+## AI in the Operating Cadence
 
-A recurring pattern in this body of work is using AI inside the operating cadence of a data organization: trusted context, meeting prep, decision framing, action follow-through, and review loops.
+The recurring pattern is to put AI inside the operating cadence of a data organization: load trusted context, prepare the meeting, frame the decision, track the action, and improve the next review.
 
 See [`playbooks/ai-operating-cadence-for-data-leaders.md`](../playbooks/ai-operating-cadence-for-data-leaders.md).

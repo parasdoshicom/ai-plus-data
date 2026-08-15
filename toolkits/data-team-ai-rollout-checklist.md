@@ -1,6 +1,6 @@
 # Data Team AI Rollout Checklist
 
-Use this checklist to move from scattered AI experiments to a real team operating model.
+Use this checklist to turn one validated AI workflow into a team habit before expanding the rollout.
 
 ## 1. Pick the Right First Use Case
 
@@ -18,7 +18,7 @@ Use this checklist to move from scattered AI experiments to a real team operatin
 
 ## 3. Standardize the Workflow
 
-- [ ] Define a preferred prompting pattern
+- [ ] Define a preferred request and context pattern
 - [ ] Add a clarification step before building
 - [ ] Add a validation or tie-out step before sharing results
 - [ ] Capture corrections so the workflow improves over time
@@ -37,7 +37,7 @@ Use this checklist to move from scattered AI experiments to a real team operatin
 - [ ] Track error classes and review findings
 - [ ] Track trust: are stakeholders willing to use the outputs
 
-## 6. Train Managers, Not Just ICs
+## 6. Train Managers to Review the Work
 
 - [ ] Managers know where AI should be encouraged
 - [ ] Managers know where human review is mandatory

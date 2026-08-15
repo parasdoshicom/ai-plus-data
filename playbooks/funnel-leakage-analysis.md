@@ -1,8 +1,6 @@
 # Funnel Leakage Analysis
 
-AI is especially useful when a team knows there is leakage in a funnel but does not yet know where to focus.
-
-This playbook turns that into a repeatable workflow.
+When a funnel is leaking, the first useful question is not "why is conversion down?" It is "which stage explains the largest recoverable loss?" This workflow gets the team to that answer.
 
 ## Goal
 
@@ -83,4 +81,4 @@ Next step:
 Review mobile scheduling friction and response-time delays for self-serve users.
 ```
 
-That is enough to move a team from vague concern to focused action.
+That is enough to replace a vague conversion concern with a focused investigation.

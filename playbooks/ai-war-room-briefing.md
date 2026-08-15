@@ -1,8 +1,6 @@
 # AI War Room Briefing
 
-When a team asks, "What changed this week and what matters?" AI can help produce a sharp operating briefing from the chart stack.
-
-This playbook generalizes a pattern for fast, repeatable weekly or daily performance briefings.
+When a team asks, "What changed this week, and what do we do about it?" AI can help turn the chart stack into a focused daily or weekly briefing.
 
 ## Goal
 
@@ -82,4 +80,4 @@ Where to focus:
 3. first-step funnel friction introduced this week
 ```
 
-The briefing should help a team act.
+If the briefing does not narrow the next decision, it is still a summary.

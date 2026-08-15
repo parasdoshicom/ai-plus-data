@@ -1,6 +1,6 @@
 # Analysis To Action Operating Loop
 
-AI-assisted analysis should not end with a clever answer, a chart, or a deck. It should end with a decision-ready recommendation and a follow-up plan.
+AI-assisted analysis earns its keep when it changes a decision. A chart or clever answer is an intermediate output; the finished work needs a recommendation and a follow-up plan.
 
 This loop turns a vague question into a closed operating artifact:
 
@@ -119,7 +119,7 @@ At the end, save what should compound:
 - correction log entry if AI made a mistake
 - reusable prompt, skill, or checklist
 
-The goal is not one good answer. The goal is a stronger operating system for the next answer.
+One good answer is useful. A reviewed answer path that makes the next answer better is more useful.
 
 ## Anti-Patterns
 

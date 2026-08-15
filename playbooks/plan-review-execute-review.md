@@ -1,8 +1,6 @@
 # Plan, Review, Execute, Review
 
-For non-trivial analysis, the best AI workflow is usually not "do everything at once."
-
-It is:
+For non-trivial analysis, I prefer a short loop over one large AI run:
 
 1. plan the work
 2. review the plan
@@ -10,7 +8,7 @@ It is:
 4. review the output
 5. repeat
 
-## Why This Beats One-Shot Analysis
+## Why the Loop Works
 
 - It catches bad framing before heavy computation or narrative work.
 - It keeps the human involved at the moments that matter.
@@ -86,4 +84,4 @@ Include the tie-outs you would run before sharing findings.
 
 ## What This Looks Like in Practice
 
-The human does not need to micromanage every query. They do need to keep control of framing, interpretation, and the threshold for moving from analysis to communication.
+The reviewer does not need to micromanage every query. They do need to control the framing, interpretation, and threshold for sharing the result.

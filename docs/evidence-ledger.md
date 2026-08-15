@@ -1,6 +1,6 @@
 # Evidence Ledger
 
-This ledger maps public-facing statements to the artifact or source that supports them.
+Use this ledger to trace a public-facing statement to its supporting artifact or source, then read the caveat before repeating the claim.
 
 ## Evidence Strength
 

@@ -1,8 +1,6 @@
 # Dashboard Governance for AI Analytics
 
-Dashboards are not the enemy.
-
-But uncontrolled dashboard sprawl makes AI analytics much less reliable.
+Dashboards are useful. Uncontrolled dashboard sprawl is the problem: it gives both people and AI several plausible versions of the same truth.
 
 ## The real problem
 
@@ -22,7 +20,7 @@ AI cannot.
 
 When multiple dashboards claim to represent the same business truth, AI has no durable way to know which one to trust.
 
-## Why this matters for AI
+## How AI Amplifies the Problem
 
 AI analytics depends on a small number of trusted inputs.
 
@@ -142,9 +140,6 @@ The better move is:
 - expose trust and ownership signals
 - then let AI reason over the cleaner system
 
-## Bottom line
+## The Test
 
-Dashboards still matter.
-
-But for AI analytics, the goal is not dashboard volume.
-It is a trusted, governable, explainable dashboard layer that AI and humans can both rely on.
+For every decision-critical KPI, can a person or agent identify the trusted dashboard, its owner, its source logic, and its current status? If not, the dashboard layer is not ready to ground AI answers.

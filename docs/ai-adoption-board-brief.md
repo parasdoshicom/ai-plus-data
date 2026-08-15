@@ -1,6 +1,6 @@
 # AI Adoption Board Brief
 
-This is a one-page template for how a CDO or head of data can brief executive leadership on AI adoption without turning the conversation into a tooling demo.
+This one-page template keeps an executive AI review on four questions: is the work changing a business outcome, can people trust it, is the team getting better, and what does leadership need to decide?
 
 ## Executive Summary
 
@@ -57,9 +57,9 @@ flowchart LR
 - Where is human review still mandatory?
 - Which stale assets should be deprecated before adding new ones?
 
-## Why This Format Works
+## What the Meeting Should Produce
 
-It keeps the executive conversation focused on operating change:
+Keep the executive conversation on operating change:
 
 - what is improving
 - what still blocks scale

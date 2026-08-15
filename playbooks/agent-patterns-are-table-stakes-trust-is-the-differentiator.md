@@ -1,6 +1,6 @@
 # Agent Patterns Are Table Stakes, Trust Is the Differentiator
 
-**Thesis:** Planner, memory, tools, RAG, critics, and orchestration patterns are useful, but they are no longer the real differentiator for AI in data work. The durable advantage comes from trusted metrics, validation loops, and a leadership operating model that decides what AI is allowed to influence.
+Planner, memory, tools, RAG, critics, and orchestration all matter. They are also widely available. In data work, the harder advantage comes from trusted metrics, validation loops, and an operating model that decides what AI is allowed to influence.
 
 ## Use This When
 
@@ -9,7 +9,7 @@
 - you need to explain why production AI for data teams depends on more than orchestration
 - a book, repo, or vendor pitch is strong on architecture but weak on governance and validation
 
-## The Core Reframe
+## The Question I Would Ask
 
 A lot of agent literature focuses on **how the system thinks**:
 
@@ -145,13 +145,9 @@ If you want a more production-ready AI roadmap, do this before building another 
 
 That sequence usually creates more real value than adding another orchestration feature.
 
-## Bottom Line
+## The Test
 
-Agent patterns matter.
-
-For AI in data work, the differentiator is whether the system can produce answers that are trusted enough to enter real decisions, under clear ownership, with validation and governance built in.
-
-Trusted metrics, validation loops, and operating cadence carry more weight than agent architecture alone.
+Can the system produce an answer that is trusted enough to enter a real decision? If the answer has no clear owner, validation path, or place in the operating cadence, another orchestration feature will not fix it.
 
 ## Related Next Reads
 

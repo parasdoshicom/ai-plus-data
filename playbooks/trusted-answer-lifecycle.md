@@ -1,6 +1,6 @@
 # Trusted Answer Lifecycle for AI Analytics
 
-**Thesis:** A reliable analytics agent needs a governed route from question to reusable answer. Source access alone does not create trust.
+Source access is only the beginning. A reliable analytics agent needs a governed route from the question to a reviewed answer path the next run can reuse.
 
 ## Use This When
 

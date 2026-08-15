@@ -1,12 +1,8 @@
 # Evidence And Scope
 
-This page separates the repo's public artifacts, external evidence, and boundaries.
+This page tells you what the repo demonstrates, which claims have outside support, and where the public evidence stops.
 
-The repo is built around a hypothesis:
-
-**AI-native data leadership depends on trusted metrics, operating cadence, review habits, and decision-ready communication.**
-
-The files below lay out that hypothesis through operating artifacts, playbooks, examples, and public sources.
+The working hypothesis is that AI-native data leadership depends on trusted metrics, operating cadence, review habits, and decision-ready communication. The operating artifacts, playbooks, examples, and public sources let you inspect that hypothesis from different angles.
 
 ## Operating Thesis
 
@@ -100,14 +96,9 @@ See:
 
 ## Boundaries
 
-This repo is **not**:
+The repo does not publish private enterprise operating documents, a company's exact architecture or KPI system, or confidential business outcomes. It also cannot substitute for references, interviews, or deeper diligence.
 
-- a dump of private enterprise operating documents
-- evidence of one company's exact architecture or KPI system
-- a public record of confidential business outcomes
-- a substitute for references, interviews, or deeper diligence
-
-The repo does not state that every pattern here was deployed exactly as written at one specific company. The public version is generalized and rewritten for safety.
+Every pattern is generalized and rewritten for public use. A reader should not infer that one named company deployed each pattern exactly as written.
 
 ## Evidence Ladder
 

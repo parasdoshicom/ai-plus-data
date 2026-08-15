@@ -48,10 +48,11 @@ Run this before committing or publishing new material to this repo.
 
 ## Voice Quality
 
-- [ ] No throat-clearing openers such as "here's why," "this matters because," or "it's worth noting"
-- [ ] No formulaic contrasts such as "not just X" or "less about X and more about Y"
-- [ ] No filler intensifiers such as "actually," "really," "simply," or "fundamentally"
+- [ ] The opening starts close to the practical question, observation, or decision
+- [ ] Concrete nouns, numbers, examples, and mechanisms survived the edit
+- [ ] No formulaic contrasts, significance inflation, decorative formatting, or generic recap ending
 - [ ] Sentences name the actor, action, and evidence instead of announcing importance
+- [ ] A read-aloud pass did not find a sentence Paras would be unlikely to say
 
 ## Final Review Question
 

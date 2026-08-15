@@ -1,6 +1,6 @@
 # Illustrative Scenario: Resetting A Weekly Decision Cadence
 
-This is a synthetic operating scenario, not a claim about one named company's completed transformation.
+This synthetic scenario tests an operating pattern. It is not a claim about a named company's completed transformation.
 
 ## Situation
 
@@ -83,7 +83,7 @@ If you run this change for real, track:
 
 ## Transferable Lesson
 
-The point of a weekly review is not to display information. It is to create a reliable decision cadence. Once that is the design goal, the analytics system, meeting format, and follow-up model all get sharper.
+Design the weekly review around the decision, then work backward to the pre-read, metrics, and follow-up. That change turns meeting time from live chart reading into a repeatable decision cadence.
 
 ## Related Reads
 

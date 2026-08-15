@@ -1,6 +1,6 @@
 # Analysis Close-The-Loop Template
 
-Use this template at the end of any analysis that makes a recommendation. If the work is only monitoring or exploration, use a lighter note. If it asks someone to act, use the full template.
+Use the full template when an analysis asks someone to act. Monitoring and exploration can use a lighter note.
 
 ```markdown
 # Close The Loop: [Recommendation]

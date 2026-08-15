@@ -1,6 +1,6 @@
 # Areas
 
-Areas are ongoing responsibilities. They do not finish, but they need standards, review habits, and a clear owner mindset.
+Some work never reaches a neat finish line. These areas need a standard, a review habit, and someone who owns the result.
 
 ## Ongoing Areas In This Repo
 
@@ -9,7 +9,7 @@ Areas are ongoing responsibilities. They do not finish, but they need standards,
 | AI-native data leadership | The executive operating model for adopting AI responsibly | [`docs/how-i-lead.md`](../docs/how-i-lead.md), [`docs/cdo-operating-system.md`](../docs/cdo-operating-system.md) |
 | Trust and governance | The quality bar that keeps AI analytics from becoming unsupported guesswork | [`docs/repo-privacy-policy.md`](../docs/repo-privacy-policy.md), [`docs/publication-safety-checklist.md`](../docs/publication-safety-checklist.md), [`playbooks/semantic-layer-is-the-trust-layer.md`](../playbooks/semantic-layer-is-the-trust-layer.md) |
 | Metric and context quality | The metadata, definitions, ownership, and evaluation layer AI needs before it can be trusted | [`projects/ten-metric-trust-layer-pilot.md`](../projects/ten-metric-trust-layer-pilot.md), [`toolkits/metric-trust-packet-template.md`](../toolkits/metric-trust-packet-template.md), [`playbooks/ai-native-data-catalog-foundation.md`](../playbooks/ai-native-data-catalog-foundation.md) |
-| Executive communication | The bridge from analysis to decision | [`projects/decision-memo-operating-loop.md`](../projects/decision-memo-operating-loop.md), [`docs/ai-adoption-board-brief.md`](../docs/ai-adoption-board-brief.md), [`docs/public-safe-impact-patterns.md`](../docs/public-safe-impact-patterns.md) |
+| Executive communication | The path from analysis to a decision | [`projects/decision-memo-operating-loop.md`](../projects/decision-memo-operating-loop.md), [`docs/ai-adoption-board-brief.md`](../docs/ai-adoption-board-brief.md), [`docs/public-safe-impact-patterns.md`](../docs/public-safe-impact-patterns.md) |
 | Public evidence and safety | The source map and boundary between public-safe lessons and private operating context | [`docs/evidence-and-scope.md`](../docs/evidence-and-scope.md), [`docs/external-evidence-of-impact.md`](../docs/external-evidence-of-impact.md), [`docs/public-source-inventory.md`](../docs/public-source-inventory.md) |
 
 ## Area Review Questions

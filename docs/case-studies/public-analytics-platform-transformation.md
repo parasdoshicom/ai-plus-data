@@ -1,6 +1,6 @@
 # Public Case Read-Through: Analytics Trust And Self-Service
 
-This read-through uses only public sources. It is not a confidential case study, and it does not add private implementation detail.
+This read-through uses only the linked public case study. It adds no private implementation detail.
 
 Primary source:
 
@@ -41,7 +41,7 @@ The case supports a broader data-leadership pattern:
 
 ## Transferable Lesson
 
-AI-native analytics does not start with a chatbot. It starts with the same foundations this case highlights:
+The case points to four foundations an AI analytics system also needs:
 
 - trusted assets
 - visible ownership
@@ -49,7 +49,7 @@ AI-native analytics does not start with a chatbot. It starts with the same found
 - clear source paths
 - governance that supports speed rather than slowing it down
 
-Those foundations are what allow AI-assisted analysis to become safer, faster, and more repeatable.
+With those foundations in place, AI-assisted analysis has a clearer source path, owner, and blast-radius model.
 
 ## Related Reads
 

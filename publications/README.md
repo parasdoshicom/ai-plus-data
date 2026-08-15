@@ -44,4 +44,4 @@ Update the annual archive after a publication batch and at least once a month:
 6. run the publication-safety checklist and link checks
 7. update the verified-through date and counts
 
-The goal is a useful body of work, not a vanity counter. Channel activity, reused ideas, and evidence strength stay explicit.
+The archive should help a reader inspect the work, not inflate a vanity counter. Keep channel activity, reused ideas, and evidence strength explicit.

@@ -1,6 +1,6 @@
 # When an Analytics Agent Should Not Answer
 
-**Thesis:** An analytics agent earns trust by blocking unsafe answers with the same consistency it uses to return valid ones.
+An analytics agent earns trust through two behaviors: returning valid answers and stopping unsafe ones. Both need explicit rules and evaluation.
 
 ## Use This When
 

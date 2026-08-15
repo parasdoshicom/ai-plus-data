@@ -1,6 +1,6 @@
 # Context Ablation Test Template
 
-Use this template to learn which context bundles improve an analytics agent and which bundles add cost, noise, or conflict.
+Use this test to learn which context bundles change an analytics agent's answer, safety, latency, or stability. Do not keep a bundle merely because it sounds relevant.
 
 ## Test Setup
 

@@ -1,6 +1,6 @@
 # Docs Guide
 
-Use this folder when you want the executive layer, public evidence, or publication guardrails.
+Start here for the executive artifacts, public evidence, and rules I use before publishing anything from this repo.
 
 ## Start Here
 

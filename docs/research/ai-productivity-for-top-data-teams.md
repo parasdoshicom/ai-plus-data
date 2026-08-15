@@ -1,10 +1,11 @@
-# AI productivity for top data teams — operator memo
+# AI Productivity for Top Data Teams: Operator Memo
 
 Date: 2026-03-28  
 Owner: Paras Doshi
 
-## Executive take
-The strongest 2025-2026 pattern is not "let AI answer anything about the warehouse." Top data teams are putting AI **behind governed semantic models, metadata, permissions, and review gates**. The winning pattern is:
+## Executive Take
+
+Across the 2025-2026 product documentation reviewed here, data teams are putting AI behind governed semantic models, metadata, permissions, and review gates. The pattern has five parts:
 
 1. **Ground AI in trusted business definitions** (semantic layer / semantic model / semantic view).  
 2. **Use copilots inside native data workflows** (SQL editor, notebook, BI modeler, catalog).  
@@ -12,7 +13,7 @@ The strongest 2025-2026 pattern is not "let AI answer anything about the warehou
 4. **Treat AI as a force multiplier for repetitive work** first: query drafting, debugging, docs/comments, metric exploration, test/query optimization support.  
 5. **Measure operator impact** with local workflow metrics, not generic AI hype.
 
-If a data leader adopts only one principle from this memo, it should be this: **AI for data teams works best when it is attached to a curated metric layer and a narrow set of approved workflows.**
+If you take one principle from this memo, use AI with a curated metric layer and a narrow set of approved workflows.
 
 ---
 
@@ -360,7 +361,7 @@ Goal: compound the system once trust is earned.
 
 ---
 
-## What not to do
+## Failure Modes to Avoid
 - **Do not launch raw warehouse chat** and call it self-serve analytics.
 - **Do not treat prompt skill as the moat.** The moat is semantic quality + metadata + trust controls.
 - **Do not enable execution-first agents in production** before review gates and blast-radius controls exist.
@@ -371,24 +372,21 @@ Goal: compound the system once trust is earned.
 
 ---
 
-## Recommended default stance
-For a serious data team, the right operating stance is:
+## Recommended Default
 
-**Adopt AI aggressively for analyst/engineer productivity and narrowly for business-user self-serve; only expand once semantic grounding, permissions, and review loops are demonstrably working.**
-
-That is the highest-probability path to real productivity gains without blowing up trust.
+Use AI broadly for analyst and engineer productivity where review is already part of the work. Keep business-user self-service narrow until semantic grounding, permissions, and review loops work consistently.
 
 ---
 
 ## Source list
 Primary sources used for this memo:
-- Snowflake Cortex Analyst — https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-analyst
-- Snowflake Semantic Views overview — https://docs.snowflake.com/en/user-guide/views-semantic/overview
-- Power BI: Use Copilot with semantic models — https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-semantic-models
-- Microsoft Fabric Copilot overview — https://learn.microsoft.com/en-us/fabric/get-started/copilot-fabric-overview
-- Fabric data warehouse Copilot — https://learn.microsoft.com/en-us/fabric/data-warehouse/copilot
-- Databricks Genie Code — https://docs.databricks.com/aws/en/notebooks/code-assistant
-- Measure Genie Code impact — https://docs.databricks.com/aws/en/genie-code/impact
-- Databricks AI assistive features trust and safety — https://docs.databricks.com/aws/en/databricks-ai/databricks-ai-trust
-- dbt Semantic Layer — https://docs.getdbt.com/docs/use-dbt-semantic-layer/dbt-sl
-- GitHub Copilot overview — https://docs.github.com/en/copilot/get-started/what-is-github-copilot
+- Snowflake Cortex Analyst: https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-analyst
+- Snowflake Semantic Views overview: https://docs.snowflake.com/en/user-guide/views-semantic/overview
+- Power BI, Use Copilot with semantic models: https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-semantic-models
+- Microsoft Fabric Copilot overview: https://learn.microsoft.com/en-us/fabric/get-started/copilot-fabric-overview
+- Fabric data warehouse Copilot: https://learn.microsoft.com/en-us/fabric/data-warehouse/copilot
+- Databricks Genie Code: https://docs.databricks.com/aws/en/notebooks/code-assistant
+- Measure Genie Code impact: https://docs.databricks.com/aws/en/genie-code/impact
+- Databricks AI assistive features trust and safety: https://docs.databricks.com/aws/en/databricks-ai/databricks-ai-trust
+- dbt Semantic Layer: https://docs.getdbt.com/docs/use-dbt-semantic-layer/dbt-sl
+- GitHub Copilot overview: https://docs.github.com/en/copilot/get-started/what-is-github-copilot

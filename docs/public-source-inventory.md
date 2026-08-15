@@ -1,12 +1,12 @@
 # Public Source Inventory
 
-This repo combines original writing, generalized operator patterns, and selectively used public references. Every public-facing credibility statement in the README should map back to a source listed here.
+Every credibility statement in the README should trace to a source in this inventory. The repo also contains original writing and generalized operator patterns, but those artifacts should not be presented as independent proof about Paras.
 
 ## README Claim Support
 
 | README statement | Source |
 | --- | --- |
-| Paras has a long-running public writing archive on analytics, BI, data science, and data leadership | [Insight Extractor archive](https://insightextractor.com/list-of-all-blog-posts-by-paras-doshi/) |
+| Paras has a long-running public writing archive on analytics, BI, data science, and data leadership | [Insight Extractor archive](https://www.insightextractor.com/archive) |
 | Paras publicly shared that USCIS approved his EB-1A petition, which he said was based on work in Data & AI | [LinkedIn post on EB-1A approval](https://www.linkedin.com/posts/doshiparas_grateful-and-relieved-to-share-that-my-eb1a-ugcPost-7454617735592017921-p7_s) |
 | Paras has a public leadership / community signal outside the repo | [Institute of Analytics Fellow profile](https://ioaglobal.org/ioa-fellows/paras-doshi/) |
 | Paras has externally visible outcome evidence beyond self-authored writing | [Select Star case study](https://www.selectstar.com/resources/amazon-quicksight-self-service-analytics), [Opendoor AI valuations article](https://www.opendoor.com/articles/how-data-powers-opendoors-home-valuations), [Evanta CDAO community page](https://aaem-disp.evanta.com/cdao/san-francisco) |
@@ -17,7 +17,7 @@ This repo combines original writing, generalized operator patterns, and selectiv
 
 ### 1. Insight Extractor archive
 
-- URL: [https://insightextractor.com/list-of-all-blog-posts-by-paras-doshi/](https://insightextractor.com/list-of-all-blog-posts-by-paras-doshi/)
+- URL: [https://www.insightextractor.com/archive](https://www.insightextractor.com/archive)
 - Why it matters:
   Public archive showing the breadth and longevity of Paras Doshi's public writing.
 - Conservatively supported statement:

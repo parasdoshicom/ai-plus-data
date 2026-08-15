@@ -1,6 +1,6 @@
 # Synthetic Metric Trust Packet
 
-This example shows a completed metric trust packet using fake data.
+This completed packet uses synthetic data to show how the definition, source route, caveats, validation, ownership, and eval questions fit together.
 
 ## Metric
 
