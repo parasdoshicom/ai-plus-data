@@ -2,7 +2,7 @@
 
 ## Purpose
 
-AI-assisted data work should not end as a clever answer in a chat thread. Important investigations should become decision memos that executives, managers, and data owners can review, forward, reopen, and improve.
+When an AI-assisted investigation could change a real decision, move it out of the chat thread. A decision memo gives executives, managers, and data owners something they can review, forward, reopen, and improve.
 
 This project turns recurring analysis into an operating loop:
 

@@ -1,6 +1,6 @@
 # Toolkits Guide
 
-Toolkits are practical templates, scorecards, and checklists for turning the playbooks into repeatable team behavior.
+Toolkits turn the playbooks into repeatable team behavior. Copy a template, adapt the fields, and put it into an actual review cadence.
 
 ## Toolkits
 

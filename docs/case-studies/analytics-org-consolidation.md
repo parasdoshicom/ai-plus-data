@@ -1,6 +1,6 @@
 # Illustrative Scenario: Consolidating Fragmented Analytics Teams
 
-This is a synthetic operating scenario, not a claim about one named company's completed transformation.
+This synthetic scenario tests an operating pattern. It is not a claim about a named company's completed transformation.
 
 ## Situation
 
@@ -84,7 +84,7 @@ If you run this change for real, track:
 
 ## Transferable Lesson
 
-AI and self-serve work best when the trusted surfaces, standards, and ownership model are legible. Consolidation is valuable when it increases coherence without turning into central control.
+Consolidation earns its cost when the trusted surfaces, standards, and ownership model become easier to understand without turning the central team into a queue for every question.
 
 ## Related Reads
 

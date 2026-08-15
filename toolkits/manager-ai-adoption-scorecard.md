@@ -1,6 +1,6 @@
 # Manager AI Adoption Scorecard
 
-Use this scorecard to review whether your team's AI adoption is creating real leverage or just more noise.
+Use this scorecard to review whether AI is improving the team's work, where it creates rework, and which workflow is ready to standardize next.
 
 Score each area from 1 to 5.
 

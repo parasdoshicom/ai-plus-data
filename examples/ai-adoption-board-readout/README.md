@@ -1,8 +1,6 @@
 # Synthetic AI Adoption Board Readout
 
-This example shows how to turn AI adoption into an executive operating review instead of a tooling update.
-
-All metrics are synthetic.
+This synthetic example turns one month of AI-adoption signals into an executive operating review with decisions, risks, and expansion gates.
 
 ## Scenario
 

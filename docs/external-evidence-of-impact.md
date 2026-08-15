@@ -1,12 +1,8 @@
 # External Evidence Of Impact
 
-This page collects **public, sourceable, externally visible signals** connected to the operating perspective behind this repo.
+This page collects public sources connected to the operating perspective in this repo. I have kept the claims narrow so readers can separate operating scope, reported outcomes, and external recognition.
 
-It is intentionally conservative.
-
-The sources below connect the repo's themes to public evidence of operating scope, measurable outcomes, and external peer recognition.
-
-## How To Read This Page
+## Weight the Sources
 
 Not all public sources carry the same weight.
 
@@ -159,7 +155,7 @@ The strongest public sources support three kinds of context:
 - at least one third-party case study with concrete metrics
 - external recognition beyond the repo itself
 
-The sources do not replace interviews, references, or deeper diligence. They make the public record easier to inspect.
+These sources make the public record easier to inspect. They do not replace interviews, references, or deeper diligence.
 
 ## Source Boundary
 

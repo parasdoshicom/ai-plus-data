@@ -1,6 +1,6 @@
 # CDO AI Operating System Self-Assessment
 
-Use this when you want a fast read on whether your data organization has an AI operating model or just scattered experiments.
+Use this for a quick read on whether AI is part of the data organization's operating model or still a collection of scattered experiments.
 
 Score each area from 1 to 5.
 

@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Use this as the first practical project for a data leader who wants AI analytics without metric chaos.
+Use this as a first project when a data team wants AI analytics but still has conflicting definitions, dashboards, or answer paths.
 
 The pilot asks one forcing question:
 
@@ -10,9 +10,9 @@ The pilot asks one forcing question:
 
 Those 10 metrics become the starting trust layer for AI-assisted analysis: definitions, owners, blessed artifacts, caveats, validation rules, approved answer paths, and eval questions.
 
-## Why This Works
+## Why Start With 10
 
-Broad "chat with the warehouse" launches fail when the organization has unresolved definitions, dashboard sprawl, unclear ownership, or weak review habits.
+Broad "chat with the warehouse" launches break when the organization has unresolved definitions, dashboard sprawl, unclear ownership, or weak review habits.
 
 A 10-metric pilot is better because it is:
 

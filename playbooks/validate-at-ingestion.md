@@ -1,8 +1,6 @@
 # Validate at Ingestion
 
-One of the most expensive patterns in data is discovering quality issues only after they show up in dashboards, analyses, or model behavior.
-
-By then, the damage is already downstream.
+Finding a data-quality problem in a dashboard, analysis, or model means the problem has already traveled downstream. Catch it closer to ingestion.
 
 ## Principle
 
@@ -10,7 +8,7 @@ Validate data as close to ingestion as possible.
 
 Downstream teams should not be the primary quality detection system.
 
-## Why this matters
+## The Cost of Late Detection
 
 Late detection creates avoidable cost:
 
@@ -76,10 +74,6 @@ A good ingestion-first quality model should reduce:
 - time to root cause
 - repeat incidents on critical fields
 
-## Bottom line
+## The Test
 
-If quality problems are first discovered in dashboards or by downstream consumers, the system is too late.
-
-Validate earlier.
-
-That is how data platforms become more trustworthy, more scalable, and more AI-ready.
+Track how often a stakeholder or downstream consumer discovers the first sign of a data issue. Each case is evidence that a check belongs earlier in the path.

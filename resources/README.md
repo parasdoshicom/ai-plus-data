@@ -1,6 +1,6 @@
 # Resources
 
-Resources are reusable reference material. They are valuable, but they should not be the first thing a busy operator has to sort through.
+Resources are the reference shelf. Use them after you know which outcome or decision you are working toward.
 
 ## Resource Library
 
@@ -15,4 +15,4 @@ Resources are reusable reference material. They are valuable, but they should no
 
 ## Resource Rule
 
-If a resource becomes tied to an active outcome, promote it into [`projects/`](../projects/README.md) with a short project wrapper. Do not make readers infer the implementation path from a long topical library.
+When a resource becomes part of an active outcome, add it to [`projects/`](../projects/README.md) with a short implementation path. A busy reader should not have to reconstruct that path from a long topical library.

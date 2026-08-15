@@ -1,10 +1,10 @@
 # AI+Data
 
-Operator-grade work on trusted analytics, AI-native data teams, and executive decision systems.
+Practical work on trusted analytics, AI-native data teams, and executive decision systems.
 
-I built this repo for Chief Data Officers, heads of data, analytics leaders, and builders who need AI to improve real decisions without weakening metric trust, ownership, or review quality.
+I built this repo for Chief Data Officers, heads of data, analytics leaders, and builders who want AI to improve real decisions without weakening metric trust or skipping human judgment.
 
-The core idea is simple: models are getting easier to access. Reliable context, clear decision rights, and operating discipline are not.
+Models are getting easier to access. The harder work is giving them reliable context, setting decision rights, and building operating habits people can trust.
 
 ## 2026 Public Record
 
@@ -37,7 +37,7 @@ For a 30-minute evaluation path, use [`docs/executive-reading-path.md`](./docs/e
 
 Browse the complete current record in [`publications/`](./publications/README.md).
 
-## The Operating Thesis
+## How I Think About the Work
 
 AI-native data leadership depends on four connected layers:
 
@@ -46,7 +46,7 @@ AI-native data leadership depends on four connected layers:
 3. **Decision cadence**: pre-reads, explicit decisions, owners, dates, and follow-through.
 4. **Learning systems**: misses improve the definitions, tests, and operating process.
 
-That thesis shows up throughout the repo. The playbooks explain the mechanisms. The toolkits make them reusable. The examples show them on synthetic data. The evidence files state what is demonstrated, externally supported, inferred, or intentionally excluded.
+The playbooks explain how these layers work. The toolkits turn them into something a team can use. The examples test them on synthetic data. The evidence files spell out what the repo demonstrates, what public sources support, and what I have intentionally left out.
 
 ## Browse The Library
 
@@ -76,12 +76,12 @@ Start with [`docs/evidence-and-scope.md`](./docs/evidence-and-scope.md), [`docs/
 
 ## Public-Safety Standard
 
-This repository contains generalized methods, public links, and synthetic examples. It does not contain private company strategy, customer or employee data, internal SQL or schemas, private dashboards, credentials, bot history, or unpublished drafts.
+Everything here is either a generalized method, a public link, or a synthetic example. Private strategy, customer or employee data, internal SQL or schemas, dashboards, credentials, bot history, and unpublished drafts stay out.
 
 See [`docs/repo-privacy-policy.md`](./docs/repo-privacy-policy.md) and [`docs/publication-safety-checklist.md`](./docs/publication-safety-checklist.md).
 
 ## About Paras
 
-Paras Doshi is a data and AI executive and former Amazon leader. He writes [Insight Extractor](https://www.insightextractor.com/), teaches data professionals, and builds practical systems for trusted analytics and AI adoption.
+I'm a data and AI executive and former Amazon leader. I write [Insight Extractor](https://www.insightextractor.com/), teach data professionals, and build practical systems for trusted analytics and AI adoption.
 
 The strongest public evidence outside this repo is cataloged in [`docs/external-evidence-of-impact.md`](./docs/external-evidence-of-impact.md). The editorial lens and authorship boundary are in [`docs/founder.md`](./docs/founder.md).

@@ -1,6 +1,6 @@
 # Fix AI Analytics Inputs, Not Prompts
 
-**Thesis:** If AI analytics feels unreliable, the highest-leverage fix is usually better context and better inputs, not better phrasing.
+When AI analytics gives inconsistent answers, I inspect the context before rewriting the prompt. The model may be missing the official definition, trusted query, owner, caveat, or source path.
 
 ## Use This When
 
@@ -16,7 +16,7 @@ Use a crawl / walk / run rollout:
 2. **Walk:** move trusted dashboard SQL and validated query patterns into version control
 3. **Run:** expose governed definitions, lineage, ownership, and approved answer paths through a structured interface
 
-The operating rule is simple: fix ambiguity upstream before scaling AI downstream.
+Fix the ambiguity upstream before scaling the workflow downstream.
 
 ## What AI Actually Needs
 

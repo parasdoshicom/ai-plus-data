@@ -1,6 +1,6 @@
 # Playbooks Guide
 
-Playbooks are the core reusable patterns in this repo. Use them when you want to improve how AI-assisted data work runs.
+These playbooks capture the repeatable parts of AI-assisted data work: how to frame the question, earn trust, make the decision, and improve the next run.
 
 ## Trust And Semantic Grounding
 

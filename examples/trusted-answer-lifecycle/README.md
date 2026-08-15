@@ -1,6 +1,6 @@
 # Synthetic Trusted Answer Lifecycle
 
-This example uses fake data to show how a recurring metric question moves from scope to reviewed reuse.
+This synthetic example follows one recurring metric question from clarification through validation, owner correction, and reviewed reuse.
 
 ## Scenario
 

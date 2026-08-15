@@ -1,6 +1,6 @@
 # From Playbooks to Operating Systems
 
-A useful way to understand AI products and internal systems is to separate three different layers that people often confuse:
+I separate AI products and internal systems into three layers that are easy to confuse:
 
 - a brochure or thought-leadership repo
 - a toolkit
@@ -134,9 +134,9 @@ That is a different level of leverage.
 
 Most systems should evolve in this order:
 
-1. **Playbook** — clarify the pattern
-2. **Toolkit** — make the pattern reusable
-3. **Operating system** — make the pattern living and compounding
+1. **Playbook:** clarify the pattern
+2. **Toolkit:** make the pattern reusable
+3. **Operating system:** make the pattern living and compounding
 
 Trying to jump straight to the operating-system layer often creates complexity before the underlying workflow is proven.
 
@@ -152,11 +152,6 @@ That is often the right split:
 - toolkit for reusable execution patterns
 - governed operating layer for production work
 
-## Bottom line
+## Name the Layer
 
-Do not ask one artifact to do all three jobs.
-
-Playbooks, toolkits, and operating systems each matter.
-The mistake is pretending they are the same thing.
-
-The stronger move is to know which layer you are building, then design for that layer honestly.
+Do not ask one artifact to do all three jobs. Name the layer you are building, then design it for that job.

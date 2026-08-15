@@ -1,6 +1,6 @@
 # Public-Safe Impact Patterns
 
-This page shows what better looks like without exposing any private operating documents, metrics, or employer-specific details. These are generalized impact patterns drawn from repeated themes in high-leverage data leadership.
+These generalized before-and-after patterns show the operating change without exposing private documents, metrics, or employer-specific details.
 
 ## 1. From reporting chaos to decision cadence
 
@@ -86,9 +86,9 @@ After:
 - standards and mentoring make quality more durable
 - the organization compounds beyond one person's output
 
-## Why These Patterns Matter Here
+## How to Read the Patterns
 
-This repo is not trying to prove that one person shipped one clever project. It is trying to show the kind of systems thinking that helps a data organization become more trusted, more scalable, and more AI-ready.
+Treat each one as a diagnostic. If the "before" state sounds familiar, use the linked playbook to design a small operating change. The scenarios demonstrate systems thinking; they are not evidence that a named company deployed the exact intervention.
 
 ## Related Next Reads
 

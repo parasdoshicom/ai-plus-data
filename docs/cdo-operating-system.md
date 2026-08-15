@@ -1,8 +1,8 @@
 # CDO Operating System For AI-Native Data Teams
 
-This is a public-safe operating model for a CDO or head of data who wants to make AI adoption real without sacrificing rigor.
+This is the operating model I would use to move a data team from scattered AI experiments to a governed 90-day rollout.
 
-## What This Artifact Is For
+## When to Use It
 
 Use this when you need to turn broad ambition into a concrete operating system:
 
@@ -132,7 +132,7 @@ A strong decision forum should answer:
 
 If a forum cannot answer those five questions clearly, it is not yet decision-ready.
 
-## What Good Looks Like
+## Signs the System Is Working
 
 You know the operating system is working when:
 
@@ -141,9 +141,9 @@ You know the operating system is working when:
 - analysts spend less time re-answering the same question
 - trusted metrics and workflows become easier to find than untrusted ones
 
-## Why This Is Not Just Theory
+## Public Evidence Behind the Model
 
-This artifact is intentionally generalized, but there are public signals showing that this style of operating model maps to real systems and measurable outcomes.
+The model is generalized for public use. These public sources show where its themes connect to real systems and reported outcomes:
 
 - a third-party case study on Opendoor's analytics transformation reports time-to-triage falling from 2 hours to 15 minutes, severe incidents dropping by 67 percent, internal NPS improving by 20 percent, and analytics costs falling by 80 percent year-over-year
 - an official Institute of Analytics Fellow profile describes Paras as Head of Data at Opendoor leading analytics and engineering teams that power billions in real estate transactions

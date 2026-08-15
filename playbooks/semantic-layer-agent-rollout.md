@@ -1,6 +1,6 @@
 # Semantic Layer Agent Rollout
 
-**Thesis:** A semantic layer improves analytics-agent reliability only after you make it exhaustive, explicit about business context, and paired with agent rules plus a fallback path. A thin semantic layer often produces the worst of both worlds: too many unanswered questions and too many quietly wrong joins.
+A thin semantic layer can produce an awkward mix of unanswered questions and quietly wrong joins. For an analytics agent, the layer needs enough coverage, explicit business context, agent rules, and a fallback path.
 
 ## Use This When
 

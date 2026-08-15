@@ -1,10 +1,8 @@
 # AI Operating Cadence For Data Leaders
 
-AI becomes valuable in a data organization when it is attached to the way decisions already get made.
+AI becomes useful in a data organization when it joins the way decisions already get made. I use it to help leaders, managers, and ICs move from context to evidence to a decision with less friction.
 
-The useful pattern is not a collection of clever chat habits. It is an operating cadence that helps leaders, managers, and ICs move from context to evidence to decision with less friction.
-
-## The Core Idea
+## Where Adoption Breaks
 
 Most failed AI adoption in data teams has the same shape:
 
@@ -74,7 +72,7 @@ A useful AI operating cadence depends on a small set of durable inputs:
 
 The exact tool is less important than the discipline. If those inputs are stale or scattered, AI will amplify ambiguity.
 
-## What Good Looks Like
+## Compare the Operating Patterns
 
 | Layer | Weak pattern | Strong pattern |
 | --- | --- | --- |

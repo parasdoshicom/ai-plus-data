@@ -1,8 +1,6 @@
 # Projects
 
-Projects are the active outcomes this repo helps a data leader ship.
-
-Use this folder when you want a concrete deliverable, not a reading list. The underlying playbooks and toolkits remain in their original folders so public links stay stable; this layer pulls the most actionable work into one place.
+Projects organize the repo around outcomes a data leader can ship. Start here when you need a concrete deliverable. The supporting playbooks and toolkits stay in their original folders so public links remain stable.
 
 ## Active Project Tracks
 
@@ -22,4 +20,4 @@ Use this folder when you want a concrete deliverable, not a reading list. The un
 3. Pull in only the supporting playbooks and toolkits listed inside that artifact.
 4. Archive or ignore anything that is not tied to the current outcome.
 
-The organizing rule is actionability first, topic second.
+Organize around the outcome first. Pull in a topic only when it helps ship that outcome.

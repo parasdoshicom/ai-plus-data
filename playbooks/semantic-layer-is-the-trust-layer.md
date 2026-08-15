@@ -1,6 +1,6 @@
 # The Semantic Layer Is the Trust Layer
 
-**Thesis:** In AI analytics, the semantic layer is not optional BI plumbing. It is the trust infrastructure that tells both humans and AI what a metric officially means.
+In AI analytics, the semantic layer tells both people and agents what a metric officially means, who owns it, and which logic is approved. That makes it trust infrastructure, not background BI plumbing.
 
 ## Use This When
 
@@ -30,7 +30,7 @@ This solves the hidden question behind most analytics prompts:
 - unofficial queries sneak into decision forums
 - AI cannot distinguish official from merely available
 
-## Why This Matters For AI
+## Why AI Raises the Cost of Ambiguity
 
 - conflicting context leads to conflicting answers
 - phrasing changes can trigger different source choices

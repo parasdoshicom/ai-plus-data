@@ -1,6 +1,6 @@
 # Semantic Models Are Not Dead
 
-**Thesis:** In AI analytics, semantic models are becoming more important, not less, because the main bottleneck is no longer query writing. It is trusted business meaning.
+AI makes query writing easier. It does not settle what a metric means. That is why semantic models become more valuable as analytics interfaces get easier to use.
 
 ## Current POV
 
@@ -100,10 +100,6 @@ The right conclusion is that AI analytics needs both:
 5. Reconcile downstream dashboards and workflows to that layer.
 6. Expose the curated layer to AI workflows before broad rollout.
 
-## Bottom Line
+## The Practical Conclusion
 
-AI is making analytics interfaces easier.
-
-That does not make semantic discipline optional.
-
-It makes it more valuable.
+Build semantic discipline before broad conversational access. An easier interface increases the number of people and agents who can ask for a metric, so the governed definition has to carry more weight.

@@ -1,6 +1,6 @@
 # Illustrative Scenario: Rolling Out A Trust Layer For AI Analytics
 
-This is a synthetic operating scenario, not a claim about one named company's completed transformation.
+This synthetic scenario tests an operating pattern. It is not a claim about a named company's completed transformation.
 
 ## Situation
 
@@ -84,7 +84,7 @@ If you run this change for real, track:
 
 ## Transferable Lesson
 
-AI reliability usually improves more from stronger definitions and stronger context than from more elaborate prompting. Trust is built upstream.
+When the same question produces several plausible answers, repair the definition, source path, and ownership first. Prompt changes come later.
 
 ## Related Reads
 

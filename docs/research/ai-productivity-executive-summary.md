@@ -1,7 +1,8 @@
-# Executive summary — AI productivity for data teams
+# Executive Summary: AI Productivity for Data Teams
 
-## Bottom line
-Top data teams are getting value from AI by **grounding it in semantic models/metric layers, embedding it in native data workflows, and keeping execution gated**.
+## Executive Read
+
+The clearest pattern in the sources is to ground AI in semantic models or metric layers, put it inside existing data workflows, and gate execution.
 
 ## What is already table stakes
 - semantic layer / semantic model for trusted metrics
@@ -36,5 +37,6 @@ Top data teams are getting value from AI by **grounding it in semantic models/me
 - **This month:** publish a lightweight policy, create reusable workflow/review patterns, run one curated pilot.
 - **Next 90 days:** expand carefully, add agent-like workflows only with review gates, and build an answer-quality review log plus operating scorecard.
 
-## One-sentence rule
-**Do not ship AI on top of raw warehouse sprawl; ship it on top of curated business definitions.**
+## One-Sentence Rule
+
+Start with curated business definitions and approved workflows, then expand access.

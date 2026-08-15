@@ -1,10 +1,6 @@
 # Semantic Layer and Skill Files Are Complementary
 
-One of the most useful lessons in AI analytics is that semantic layers and skill files solve different problems.
-
-Teams often try to make one do the job of both.
-
-That usually creates gaps.
+Semantic layers and skill files solve different problems. Trying to make one carry both jobs usually leaves gaps.
 
 ## The short version
 
@@ -77,7 +73,7 @@ Those details are often the difference between a technically valid answer and a 
 - example queries
 - “never do this” guidance
 
-## Why this matters for AI
+## Keep the Responsibilities Separate
 
 AI systems perform better when each layer has a clear job.
 
@@ -90,8 +86,6 @@ The two layers work best together:
 - semantic layer for governed meaning
 - skill files for business-safe execution context
 
-## Bottom line
+## Put Each Rule in the Right Place
 
-Do not treat semantic layers and skill files as substitutes.
-
-Treat them as complementary layers in a reliable AI analytics stack.
+Use the semantic layer for governed meaning and the skill file for execution context. A reliable AI analytics stack needs both.

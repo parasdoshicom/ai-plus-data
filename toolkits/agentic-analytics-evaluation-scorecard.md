@@ -1,6 +1,6 @@
 # Agentic Analytics Evaluation Scorecard
 
-Use this scorecard for a fixed set of recurring business questions. Score the route, answer state, result, and operating behavior separately.
+Choose a fixed set of recurring business questions, then score the route, answer state, result, and operating behavior separately. A correct number can still arrive through an unsafe route.
 
 ## Eval Case Header
 
@@ -97,4 +97,4 @@ Do not use one blended score to hide a failure in a high-risk category.
 
 ## Production Follow-Through
 
-Offline evals do not prove online correctness. Sample live answers by domain, risk tier, answer state, and saved-path use. Audit all high-risk outputs. Convert every novel production failure into a safe regression case.
+Offline evals do not prove online correctness. Sample live answers by domain, risk tier, answer state, and saved-path use. Audit every high-risk output, then turn each new production failure into a safe regression case.

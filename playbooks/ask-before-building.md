@@ -1,6 +1,6 @@
 # Ask Before Building
 
-**Thesis:** Most AI mistakes in data work are requirement failures, not model failures. Clarify first, then build.
+Many AI mistakes in data work begin as requirement mistakes. Before the model writes SQL, builds a dashboard, or drafts a readout, clarify what the work needs to mean.
 
 ## Use This When
 
@@ -18,9 +18,9 @@ Before any meaningful build step, clarify:
 4. Which edge cases usually break this?
 5. What tests, tie-outs, or review steps are required before shipping?
 
-Treat this as mandatory scaffolding, not optional craftsmanship.
+Make these questions part of the workflow. Do not depend on someone remembering to ask them after the output looks wrong.
 
-## Why It Matters
+## What Ambiguity Costs
 
 - AI fills missing requirements with guesses
 - small definition gaps can invalidate the entire output

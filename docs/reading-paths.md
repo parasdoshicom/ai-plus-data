@@ -1,6 +1,6 @@
 # Reading Paths
 
-This repo is designed to be skimmed fast and used deeply. Start with the path that matches your role.
+You do not need to read this repo front to back. Pick the path that matches the job in front of you.
 
 ## CDO / Head of Data
 
@@ -15,7 +15,7 @@ Use this path if you are shaping operating priorities, governance expectations, 
 7. Use [`evidence-and-scope.md`](./evidence-and-scope.md) if you want the artifact and public evidence map
 8. Use [`../toolkits/cdo-ai-operating-system-self-assessment.md`](../toolkits/cdo-ai-operating-system-self-assessment.md) for a fast maturity read
 
-This path covers:
+By the end, you should have:
 
 - a leadership thesis for AI adoption in data
 - a clear view of what must be governed before scale
@@ -32,7 +32,7 @@ Use this path if you are turning scattered experimentation into repeatable team 
 4. Read [`../toolkits/manager-ai-adoption-scorecard.md`](../toolkits/manager-ai-adoption-scorecard.md)
 5. Read [`../examples/synthetic-funnel/README.md`](../examples/synthetic-funnel/README.md)
 
-This path covers:
+By the end, you should have:
 
 - a team-safe first workflow
 - a repeatable review loop
@@ -48,7 +48,7 @@ Use this path if you want to improve the reliability of AI-assisted analysis in 
 4. Walk through [`../examples/synthetic-funnel/README.md`](../examples/synthetic-funnel/README.md)
 5. Adapt [`../toolkits/metric-skill-file-template.md`](../toolkits/metric-skill-file-template.md) to your top metric
 
-This path covers:
+By the end, you should have:
 
 - a safer SQL workflow
 - a stronger context pattern for recurring questions

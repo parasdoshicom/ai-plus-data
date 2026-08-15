@@ -1,6 +1,6 @@
 # Self-Correcting SQL Loop
 
-**Thesis:** The most reliable way to use AI for SQL is not one-shot generation. It is a closed loop with execution feedback and human validation at the end.
+The first SQL draft is a starting point. Reliability comes from running it, returning the exact error or surprising result, and validating the final logic against a trusted benchmark.
 
 ## Use This When
 

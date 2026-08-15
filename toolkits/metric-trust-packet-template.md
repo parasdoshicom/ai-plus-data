@@ -1,8 +1,6 @@
 # Metric Trust Packet Template
 
-Use this template for any metric that an AI assistant, analyst, dashboard, or executive review should treat as decision-critical.
-
-The packet is intentionally small. It should be readable by a business owner, a data owner, and an AI assistant.
+Use this template for a metric that an AI assistant, analyst, dashboard, or executive review treats as decision-critical. Keep the packet short enough for a business owner and data owner to review together.
 
 ## Metric
 

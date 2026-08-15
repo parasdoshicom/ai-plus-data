@@ -1,14 +1,12 @@
 # Synthetic Funnel Walkthrough
 
-This example is a public-safe walkthrough of the workflow this repo recommends: ingest safe data, clarify the question, run AI-assisted analysis, validate the output, and translate it into a manager-ready recommendation.
+This walkthrough uses synthetic data to move from a business question to a validated, manager-ready recommendation. It represents no private company, customer, or internal system.
 
-Everything here is synthetic. The data is made up for demonstration and does not represent any private company, customer, or internal system.
+## What You Can Practice
 
-## What This Example Proves
-
-- AI can accelerate a recurring analysis without needing production data
-- reliability comes from question framing and validation
-- the final output should be a decision-ready explanation
+- frame a recurring analysis without production data
+- use validation to catch a plausible but wrong answer
+- turn the result into a decision-ready explanation
 
 ## Files
 
