@@ -6,6 +6,7 @@ Projects organize the repo around outcomes a data leader can ship. Start here wh
 
 | Project | Outcome | Start here |
 | --- | --- | --- |
+| One production analytics agent | A four-week path from one recurring question to a narrow, reviewable pilot | [`agentic-analytics-in-production.md`](./agentic-analytics-in-production.md), [guided course companion](https://parasdoshicom.github.io/world-class-agentic-analytics-in-production/) |
 | CDO AI operating system | A 90-day operating model for trustworthy AI adoption in a data organization | [`docs/cdo-operating-system.md`](../docs/cdo-operating-system.md) |
 | Executive decision cadence | A board/WBR-ready format for decisions, risk, and evidence | [`docs/ai-adoption-board-brief.md`](../docs/ai-adoption-board-brief.md), [`decision-memo-operating-loop.md`](./decision-memo-operating-loop.md) |
 | 10-metric trust layer | A narrow pilot that makes recurring metric questions safer and faster | [`ten-metric-trust-layer-pilot.md`](./ten-metric-trust-layer-pilot.md), [`toolkits/metric-trust-packet-template.md`](../toolkits/metric-trust-packet-template.md) |
