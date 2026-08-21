@@ -19,6 +19,7 @@ The archive includes public URLs and exact publication dates. It excludes repost
 
 | Artifact | What it demonstrates |
 | --- | --- |
+| [`projects/agentic-analytics-in-production.md`](./projects/agentic-analytics-in-production.md) | A four-week path from one recurring analytics question to a narrow production pilot |
 | [`docs/cdo-operating-system.md`](./docs/cdo-operating-system.md) | A 90-day roadmap, KPI tree, governance model, and executive cadence for AI-native data leadership |
 | [`projects/ten-metric-trust-layer-pilot.md`](./projects/ten-metric-trust-layer-pilot.md) | A bounded pilot for making recurring metric questions safer and faster |
 | [`playbooks/trusted-answer-lifecycle.md`](./playbooks/trusted-answer-lifecycle.md) | The full route from a scoped business question to a reviewed, reusable answer |
@@ -26,6 +27,12 @@ The archive includes public URLs and exact publication dates. It excludes repost
 | [`docs/ai-adoption-board-brief.md`](./docs/ai-adoption-board-brief.md) | A concise executive format for adoption, trust, risk, and decisions |
 
 For a 30-minute evaluation path, use [`docs/executive-reading-path.md`](./docs/executive-reading-path.md).
+
+## Guided Workshop Companion
+
+[World-Class Agentic Analytics in Production](https://parasdoshicom.github.io/world-class-agentic-analytics-in-production/) is the guided, hands-on route through the repo's core ideas. It includes a public-safe practice lab, runnable prompts, proof and review exercises, a feedback-to-regression loop, and a four-week launch plan.
+
+Use the workshop when you want to build end to end. Use [`projects/agentic-analytics-in-production.md`](./projects/agentic-analytics-in-production.md) when you want the matching AI+Data playbooks, templates, examples, and launch checks in one place.
 
 ## Latest Public Writing
 
