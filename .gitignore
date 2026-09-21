@@ -9,8 +9,11 @@ artifacts/
 
 # Local editorial and agent runtime. Public outputs belong in docs, playbooks,
 # toolkits, examples, projects, and publications instead.
+.agents/
+.hermes/
 .learnings/
 .openclaw/
+DREAMS.md
 os/
 projects/content-pipeline/
 tmp/
