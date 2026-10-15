@@ -4,6 +4,8 @@ Toolkits turn the playbooks into repeatable team behavior. Copy a template, adap
 
 ## Toolkits
 
+- [Workflow investment brief](workflow-investment-brief.md): decision, baseline, authority, proof, and stop conditions for a pilot
+
 - [`data-team-ai-rollout-checklist.md`](./data-team-ai-rollout-checklist.md): the safest first rollout checklist for a data team
 - [`manager-ai-adoption-scorecard.md`](./manager-ai-adoption-scorecard.md): a manager-level scoring lens for progress, quality, and risk
 - [`cdo-ai-operating-system-self-assessment.md`](./cdo-ai-operating-system-self-assessment.md): fast maturity read for senior leaders

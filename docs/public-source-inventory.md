@@ -7,11 +7,9 @@ Every credibility statement in the README should trace to a source in this inven
 | README statement | Source |
 | --- | --- |
 | Paras has a long-running public writing archive on analytics, BI, data science, and data leadership | [Insight Extractor archive](https://www.insightextractor.com/archive) |
-| Paras publicly shared that USCIS approved his EB-1A petition, which he said was based on work in Data & AI | [LinkedIn post on EB-1A approval](https://www.linkedin.com/posts/doshiparas_grateful-and-relieved-to-share-that-my-eb1a-ugcPost-7454617735592017921-p7_s) |
 | Paras has a public leadership / community signal outside the repo | [Institute of Analytics Fellow profile](https://ioaglobal.org/ioa-fellows/paras-doshi/) |
-| Paras has externally visible outcome evidence beyond self-authored writing | [Select Star case study](https://www.selectstar.com/resources/amazon-quicksight-self-service-analytics), [Opendoor AI valuations article](https://www.opendoor.com/articles/how-data-powers-opendoors-home-valuations), [Evanta CDAO community page](https://aaem-disp.evanta.com/cdao/san-francisco) |
 | Paras has public long-form discussions on strategic data leadership | [High Signal episode](https://highsignal.fireside.fm/27), [data leadership and strategy podcast](https://www.youtube.com/watch?v=q7Mpqm1GVRc&list=PLHow-wjRD8TEX4idQj4bDdNvNer-ar9x7&index=2), [building data teams podcast](https://www.youtube.com/watch?v=DDSKxL_JeLc) |
-| The six featured external essays exist as public posts with canonical URLs | The individual links listed below under "Featured essays used in README" |
+| The source inventory preserves five public essays on leadership practices | The individual links listed below under "Selected public essays" |
 
 ## Verified Public Sources
 
@@ -23,17 +21,7 @@ Every credibility statement in the README should trace to a source in this inven
 - Conservatively supported statement:
   Long-running public writing archive. Any audience or traffic count should be dated and labeled as self-published before it is reused.
 
-### 2. EB-1A approval announcement
-
-- URL: [https://www.linkedin.com/posts/doshiparas_grateful-and-relieved-to-share-that-my-eb1a-ugcPost-7454617735592017921-p7_s](https://www.linkedin.com/posts/doshiparas_grateful-and-relieved-to-share-that-my-eb1a-ugcPost-7454617735592017921-p7_s)
-- Why it matters:
-  Public post where Paras states EB-1A approval in Data & AI.
-- Conservatively supported statement:
-  Paras publicly shared that USCIS approved his EB-1A petition, which he said was based on his work in Data & AI.
-- Caveat:
-  Self-authored public post. It should support credential context, not private petition details.
-
-### 3. Institute of Analytics Fellow profile
+### 2. Institute of Analytics Fellow profile
 
 - URL: [https://ioaglobal.org/ioa-fellows/paras-doshi/](https://ioaglobal.org/ioa-fellows/paras-doshi/)
 - Why it matters:
@@ -41,7 +29,7 @@ Every credibility statement in the README should trace to a source in this inven
 - Conservatively supported statements:
   community / leadership recognition, public-facing credibility beyond the repo.
 
-### 4. High Signal interview
+### 3. High Signal interview
 
 - URL: [https://highsignal.fireside.fm/27](https://highsignal.fireside.fm/27)
 - Title:
@@ -49,39 +37,19 @@ Every credibility statement in the README should trace to a source in this inven
 - Why it matters:
   Public long-form discussion of strategic data leadership themes.
 
-### 5. Podcast appearance: data leadership and strategy
+### 4. Podcast appearance: data leadership and strategy
 
 - URL: [https://www.youtube.com/watch?v=q7Mpqm1GVRc&list=PLHow-wjRD8TEX4idQj4bDdNvNer-ar9x7&index=2](https://www.youtube.com/watch?v=q7Mpqm1GVRc&list=PLHow-wjRD8TEX4idQj4bDdNvNer-ar9x7&index=2)
 - Why it matters:
   Public long-form material on leadership style, strategy, and operating cadence.
 
-### 6. Podcast appearance: building data teams
+### 5. Podcast appearance: building data teams
 
 - URL: [https://www.youtube.com/watch?v=DDSKxL_JeLc](https://www.youtube.com/watch?v=DDSKxL_JeLc)
 - Why it matters:
   Public material on team design, management, and scaling patterns.
 
-### 7. Select Star case study on Opendoor analytics transformation
-
-- URL: [https://www.selectstar.com/resources/amazon-quicksight-self-service-analytics](https://www.selectstar.com/resources/amazon-quicksight-self-service-analytics)
-- Why it matters:
-  Third-party case study with concrete operating outcomes tied to analytics trust, discoverability, self-service, and platform migration.
-- Conservatively supported statements:
-  time-to-triage reduced from 2 hours to 15 minutes, internal NPS improved by 20%, severe incidents dropped by 67%, analytics costs reduced by 80% year-over-year.
-- Caveat:
-  Vendor-authored case study, so useful as strong third-party evidence but not equivalent to audited company reporting.
-
-### 8. Opendoor article on AI home valuations
-
-- URL: [https://www.opendoor.com/articles/how-data-powers-opendoors-home-valuations](https://www.opendoor.com/articles/how-data-powers-opendoors-home-valuations)
-- Why it matters:
-  Company-authored public evidence of the scale and complexity of the production data and AI problem space.
-- Conservatively supported statements:
-  500+ property insights, 250,000+ transactions used for learning, 20 external sources plus proprietary transaction data.
-- Caveat:
-  Useful as public scope evidence; not independent third-party outcome validation.
-
-### 9. Evanta San Francisco CDAO Community
+### 6. Evanta San Francisco CDAO Community
 
 - URL: [https://aaem-disp.evanta.com/cdao/san-francisco](https://aaem-disp.evanta.com/cdao/san-francisco)
 - Why it matters:
@@ -89,7 +57,7 @@ Every credibility statement in the README should trace to a source in this inven
 - Conservatively supported statements:
   governing body membership alongside senior data and analytics leaders from large enterprises.
 
-### 10. Globee AI Awards official pages
+### 7. Globee AI Awards official pages
 
 - URLs:
   [2025 winners](https://globeeawards.com/2025-winners-artificial-intelligence-awards/),
@@ -99,14 +67,13 @@ Every credibility statement in the README should trace to a source in this inven
 - Conservatively supported statements:
   Paras Doshi is listed on the 2025 winners page and on the 2025 judges page.
 
-## Featured Essays Used In README
+## Selected Public Essays
 
 - [How Data Leaders Can Actually Enable Enterprise AI](https://insightextractor.com/2025/05/03/how-data-leaders-can-actually-enable-enterprise-ai/)
 - [Stop Losing the Room: Turning Data Insights into Decisions](https://insightextractor.com/2025/05/26/stop-losing-the-room-turning-data-insights-into-decisions/)
 - [Ad-Hoc Requests: How Great Data Teams Turn Noise into Influence](https://insightextractor.com/2025/05/29/ad-hoc-requests-how-great-data-teams-turn-noise-into-influence/)
 - [The Data Leader’s Secret Weapon: The Deprecation-First Rule for Managing Technical Debt](https://insightextractor.com/2025/07/31/the-data-leaders-secret-weapon-the-deprecation-first-rule-for-managing-technical-debt/)
 - [Structuring a High-Impact Data Team: Centralized vs. Decentralized Models](https://insightextractor.com/2025/03/06/structuring-a-high-impact-data-team-centralized-vs-decentralized-models/)
-- [Why Your Amazon-Style WBR Isn’t Working (and How to Fix It)](https://insightextractor.com/2025/04/07/why-your-amazon-style-wbr-isnt-working-and-how-to-fix-it/)
 
 ## Internal Source Handling
 

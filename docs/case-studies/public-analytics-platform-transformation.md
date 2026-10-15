@@ -1,59 +1,39 @@
-# Public Case Read-Through: Analytics Trust And Self-Service
+# Analytics platform review exercise
 
-This read-through uses only the linked public case study. It adds no private implementation detail.
+This is an original hypothetical exercise, not a report of a real company's results. It replaces the former employer-specific case read-through while keeping the existing file path useful. No historical outcome figures are presented as synthetic evidence.
 
-Primary source:
+## Situation
 
-- [Select Star: How Opendoor Leverages Amazon QuickSight and Select Star for Self-Service Analytics](https://www.selectstar.com/resources/amazon-quicksight-self-service-analytics)
+Imagine a team planning to replace a reporting platform. The team has overlapping dashboards, unclear metric definitions, and users who do not know which asset to trust. Your task is to decide what to migrate, what to retire, and what must be fixed first.
 
-## Publicly Reported Situation
+## Work through the decision
 
-The public case study describes an analytics environment where data discovery, dashboard migration, operational efficiency, and trust were central problems.
+1. Inventory the recurring decisions and dashboards that support them.
+2. Assign each candidate asset a status: retain, repair, retire, or investigate.
+3. For retained assets, record the source, metric definition, downstream use, and reviewer.
+4. Capture the current cost, review effort, and reliability baseline using actual evidence from your own environment.
+5. Move one bounded workflow, verify its outputs and user path, and test the fallback before expanding.
 
-The operating pattern is familiar for data leaders:
+## Questions for the review
 
-- users need to find trusted assets quickly
-- platform migrations create risk unless assets and owners are clear
-- incident response gets slower when metadata and lineage are weak
-- self-service analytics only works when people trust the underlying sources
+- Which asset can be retired without removing a decision-critical capability?
+- Which conflicting definitions need a decision before migration?
+- How will the team detect a correct-looking answer built from the wrong source?
+- What evidence would justify continuing, repairing, or stopping the migration?
+- Who will operate the workflow after the project team leaves?
 
-## Publicly Reported Outcomes
+## Evidence to produce
 
-The public case study reports:
-
-| Outcome | Publicly reported result |
+| Artifact | What it should establish |
 | --- | --- |
-| Time to triage | Reduced from 2 hours to 15 minutes |
-| Internal NPS | Improved by 20% |
-| Severe incidents | Dropped by 67% |
-| Analytics costs | Reduced by 80% year over year through the migration |
+| Asset inventory | What exists and which decision depends on it |
+| Definition record | Which meaning and source the team approved |
+| Baseline and comparison | What changed, with counts, windows, and caveats |
+| Verification record | Whether the real output and user path passed |
+| Support handoff | Who can detect a miss and recover safely |
 
-Because this is a vendor-authored case study, treat these as public evidence points rather than audited financial reporting.
+No improvement is assumed. Record a failed check or an unchanged measure as observed, and separate a reduced software bill from the total cost of operating the workflow.
 
-## Operating Pattern
+## Related tools
 
-The case supports a broader data-leadership pattern:
-
-1. Catalog and lineage quality are not documentation chores; they affect operating speed.
-2. Self-service analytics depends on asset trust, ownership, and discoverability.
-3. Migration work becomes safer when leaders can see downstream impact.
-4. Cost reduction and reliability are connected when the team can rationalize assets.
-
-## Transferable Lesson
-
-The case points to four foundations an AI analytics system also needs:
-
-- trusted assets
-- visible ownership
-- lineage and impact awareness
-- clear source paths
-- governance that supports speed rather than slowing it down
-
-With those foundations in place, AI-assisted analysis has a clearer source path, owner, and blast-radius model.
-
-## Related Reads
-
-- [`../external-evidence-of-impact.md`](../external-evidence-of-impact.md)
-- [`../../playbooks/ai-native-data-catalog-foundation.md`](../../playbooks/ai-native-data-catalog-foundation.md)
-- [`../../playbooks/dashboard-governance-for-ai-analytics.md`](../../playbooks/dashboard-governance-for-ai-analytics.md)
-- [`../../projects/ten-metric-trust-layer-pilot.md`](../../projects/ten-metric-trust-layer-pilot.md)
+[Dashboard governance](../../playbooks/dashboard-governance-for-ai-analytics.md) · [Metric trust packet](../../toolkits/metric-trust-packet-template.md) · [Workflow investment brief](../../toolkits/workflow-investment-brief.md) · [AI leadership operating guide](../ai-leadership-operating-guide.md)

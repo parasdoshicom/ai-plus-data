@@ -1,6 +1,6 @@
 # The Perspective Behind This Repo
 
-AI+Data is curated by Paras Doshi (`parasdoshi`).
+World-Class AI + Data Operator is curated by Paras Doshi. The repository retains its AI+Data URL and existing document paths.
 
 I keep coming back to four operating beliefs:
 
@@ -26,10 +26,7 @@ Private operating documents and company-specific architecture stay private. I al
 ## Public Credibility
 
 - [Insight Extractor archive](https://www.insightextractor.com/archive)
-- [Public EB-1A approval statement](https://www.linkedin.com/posts/doshiparas_grateful-and-relieved-to-share-that-my-eb1a-ugcPost-7454617735592017921-p7_s)
 - [Institute of Analytics Fellow profile](https://ioaglobal.org/ioa-fellows/paras-doshi/)
-- [Select Star case study on Opendoor's analytics transformation](https://www.selectstar.com/resources/amazon-quicksight-self-service-analytics)
-- [Opendoor article on AI home valuations](https://www.opendoor.com/articles/how-data-powers-opendoors-home-valuations)
 - [Evanta San Francisco CDAO Community Governing Body](https://aaem-disp.evanta.com/cdao/san-francisco)
 - [High Signal episode: Why Your Data Team Doesn't Have a Seat at the Table (And How to Earn It)](https://highsignal.fireside.fm/27)
 - [Podcast: Data leadership and strategy](https://www.youtube.com/watch?v=q7Mpqm1GVRc&list=PLHow-wjRD8TEX4idQj4bDdNvNer-ar9x7&index=2)

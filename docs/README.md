@@ -4,6 +4,8 @@ Start here for the executive artifacts, public evidence, and rules I use before 
 
 ## Start Here
 
+- [AI leadership operating guide](ai-leadership-operating-guide.md): choose, prove, review, and scale a bounded workflow
+
 - [`executive-reading-path.md`](./executive-reading-path.md): shortest path for a CDO, CEO, board member, or data leader
 - [`../publications/2026.md`](../publications/2026.md): verified 2026 public writing across LinkedIn and Insight Extractor
 - [`reading-paths.md`](./reading-paths.md): role-based entry points for CDOs, managers, and builders
@@ -32,5 +34,5 @@ Start here for the executive artifacts, public evidence, and rules I use before 
 ## Public Work And Scenarios
 
 - [`../publications/README.md`](../publications/README.md): archive scope, verification rules, and refresh cadence
-- [`case-studies/README.md`](./case-studies/README.md): illustrative operating scenarios plus one public-source case read-through
+- [`case-studies/README.md`](./case-studies/README.md): illustrative operating scenarios and a platform-review exercise
 - [`research/README.md`](./research/README.md): source-backed research memos and supporting notes

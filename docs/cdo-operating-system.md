@@ -141,15 +141,9 @@ You know the operating system is working when:
 - analysts spend less time re-answering the same question
 - trusted metrics and workflows become easier to find than untrusted ones
 
-## Public Evidence Behind the Model
+## Evidence and scope
 
-The model is generalized for public use. These public sources show where its themes connect to real systems and reported outcomes:
-
-- a third-party case study on Opendoor's analytics transformation reports time-to-triage falling from 2 hours to 15 minutes, severe incidents dropping by 67 percent, internal NPS improving by 20 percent, and analytics costs falling by 80 percent year-over-year
-- an official Institute of Analytics Fellow profile describes Paras as Head of Data at Opendoor leading analytics and engineering teams that power billions in real estate transactions
-- a public Opendoor article describes an AI valuation system using 500+ property signals, 250,000+ transactions, and 20 external sources
-
-See [`external-evidence-of-impact.md`](./external-evidence-of-impact.md) for the full source list and caveats.
+This is a generalized operating model. Use the [AI leadership guide](ai-leadership-operating-guide.md) to connect it to a bounded pilot, explicit decision rights, and measured value. Public research and case-study sources are cataloged separately in [external evidence](external-evidence-of-impact.md); their reported outcomes are not a forecast for your program or proof of this exact roadmap.
 
 ## Related Next Reads
 
