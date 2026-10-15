@@ -118,4 +118,4 @@ This is a proposed sequence. Adjust it to the organization's risk and review nee
 
 ## Public foundations
 
-[CDO operating system](cdo-operating-system.md) · [Operating cadence](../playbooks/ai-operating-cadence-for-data-leaders.md) · [Trusted answer lifecycle](../playbooks/trusted-answer-lifecycle.md) · [Close-the-loop template](../toolkits/analysis-close-the-loop-template.md) · [Hands-on workshop](https://parasdoshicom.github.io/world-class-agentic-analytics-in-production/)
+[CDO operating system](cdo-operating-system.md) · [Operating cadence](../playbooks/ai-operating-cadence-for-data-leaders.md) · [Trusted answer lifecycle](../playbooks/trusted-answer-lifecycle.md) · [Close-the-loop template](../toolkits/analysis-close-the-loop-template.md)

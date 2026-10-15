@@ -4,11 +4,7 @@
 
 Use this project to take one recurring analytics question from a personal workflow to a narrow, reviewable production pilot.
 
-The full guided build, practice data, prompts, and workbook live in the public course companion:
-
-**[World-Class Agentic Analytics in Production](https://parasdoshicom.github.io/world-class-agentic-analytics-in-production/)**
-
-This page maps that course to the reusable AI+Data artifacts behind it.
+This self-guided path uses the public playbooks, templates, and synthetic examples in this repository.
 
 ## Choose The First Workflow
 
@@ -48,7 +44,7 @@ Do not build enterprise coordination infrastructure before one person has a work
 | 8. Set the launch bar | Case-level results, quiet-failure rate, false blocks, reuse, review burden, latency, and cost | [`toolkits/agentic-analytics-evaluation-scorecard.md`](../toolkits/agentic-analytics-evaluation-scorecard.md) |
 | 9. Operate the pilot | Owners, release stages, monitoring, rollback, incident path, and expansion decision | [`toolkits/data-team-ai-rollout-checklist.md`](../toolkits/data-team-ai-rollout-checklist.md) |
 
-If you need a safe practice case before using an approved company source, start with [`examples/synthetic-funnel/README.md`](../examples/synthetic-funnel/README.md) or download the lab from the [course companion](https://parasdoshicom.github.io/world-class-agentic-analytics-in-production/#lab-kit).
+If you need a safe practice case before using an approved company source, start with [`examples/synthetic-funnel/README.md`](../examples/synthetic-funnel/README.md).
 
 ## The Feedback Loop
 

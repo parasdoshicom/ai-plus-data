@@ -16,7 +16,7 @@ Use the operating models, templates, and synthetic examples to choose useful wor
 | Check a complete example | [Synthetic funnel](examples/synthetic-funnel/README.md) | Sample data, SQL, and a worked analysis |
 | Explain progress to leadership | [Board brief](docs/ai-adoption-board-brief.md) | Outcomes, limitations, tradeoffs, and decisions needed |
 
-For a short guided read, use the [executive reading path](docs/executive-reading-path.md). For a practical exercise, open the [hands-on workshop](https://parasdoshicom.github.io/world-class-agentic-analytics-in-production/).
+For a short guided read, use the [executive reading path](docs/executive-reading-path.md). For a practical exercise, use the [synthetic funnel example](examples/synthetic-funnel/README.md).
 
 ## Use it with your agent
 
@@ -58,8 +58,6 @@ The public writing archive records **34 channel publications through August 3, 2
 | [ChatData](https://github.com/parasdoshicom/getchatdata) | Hands-on analytical skills, runnable checks, and reusable analysis records |
 | [Your Voice](https://github.com/parasdoshicom/your-voice) | Writing that preserves the writer's meaning and voice |
 | [Company Stack](https://github.com/parasdoshicom/zero-human-company-os) | Principles and workflows for operating a digital product business |
-
-The [workshop](https://parasdoshicom.github.io/world-class-agentic-analytics-in-production/) remains a separate teaching site. Its existing classroom URLs and lab downloads continue to work.
 
 ## Evidence and contributions
 
